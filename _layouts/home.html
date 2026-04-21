@@ -4,55 +4,102 @@ layout: default
 <div class="home">
   {{ content }}
 
-  <h2 class="post-list-heading" style="text-align: center; margin: 40px 0;">{{ page.list_title | default: "Últimas postagens" }}</h2>
-  
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-    <li class="post-card">
-      {% if post.coverImage %}
-      <a href="{{ post.url | relative_url }}" class="post-cover" style="background-image: url('{{ post.coverImage | relative_url }}');"></a>
-      {% endif %}
-      <div class="post-card-content">
-        <span class="post-meta">{{ post.date | date: "%d de %b, %Y" }} {% if post.category %}• {{ post.category }}{% endif %}</span>
-        <h3 class="post-title">
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <div class="post-excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 25 }}
-        </div>
-        <a href="{{ post.url | relative_url }}" class="read-more">Ler artigo</a>
+  {% assign featured_post = site.posts | first %}
+  {% assign remaining_posts = site.posts | shift %}
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <span class="hero-date">{{ featured_post.date | date: "%d de %b, %Y" | upcase }}</span>
+      <h1 class="hero-title">
+        <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title | escape }}</a>
+      </h1>
+      <p class="hero-excerpt">
+        {{ featured_post.excerpt | strip_html | truncatewords: 25 }}
+      </p>
+      <div class="hero-action">
+        <a href="{{ featured_post.url | relative_url }}" class="hero-read-more">
+          Ler o Artigo Completo
+          <span class="arrow">→</span>
+        </a>
       </div>
-    </li>
-    {% endfor %}
-  </ul>
+    </div>
+    <div class="hero-image-wrapper">
+      {% if featured_post.coverImage %}
+      <a href="{{ featured_post.url | relative_url }}">
+        <img src="{{ featured_post.coverImage | relative_url }}" alt="{{ featured_post.title }}" class="hero-image">
+      </a>
+      {% endif %}
+    </div>
+  </section>
 
-  <!-- Pagination links -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Anterior</a>
-    {% else %}
-      <span class="previous disabled">Anterior</span>
-    {% endif %}
-    <span class="page-number current-page">{{ paginator.page }} de {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | relative_url }}" class="next">Próxima</a>
-    {% else %}
-      <span class="next disabled">Próxima</span>
-    {% endif %}
-  </div>
-  {% endif %}
+  <!-- Mosaic Section -->
+  <section class="mosaic-section full-width-breakout">
+    <div class="container">
+      <div class="mosaic-header">
+        <h2 class="mosaic-title">{{ page.list_title | default: "Últimos Artigos" }}</h2>
+      </div>
 
-  <div class="categories-section" style="margin-top: 80px; margin-bottom: 20px;">
-    <h3 style="margin-bottom: 30px; font-size: 1.5rem; color: #881846; text-align: center;">Explorar por Categorias</h3>
-    <div class="category-pills" style="justify-content: center;">
+      <div class="post-grid">
+        {% for post in remaining_posts limit: 3 %}
+        <article class="post-card group">
+          {% if post.coverImage %}
+          <div class="post-cover-wrapper">
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.coverImage | relative_url }}" class="post-cover" alt="{{ post.title }}">
+            </a>
+          </div>
+          {% endif %}
+          <div class="post-card-content">
+            <span class="post-meta">{{ post.date | date: "%d de %b, %Y" | upcase }}</span>
+            <h3 class="post-title">
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+
+      <!-- View All Button -->
+      <div class="view-all-container">
+        <a href="{{ '/artigos/' | relative_url }}" class="btn-primary view-all-btn">
+          Ver Todos os Artigos
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div class="categories-section">
+    <h3 class="categories-title">Explorar por Categorias</h3>
+    <div class="category-pills">
       {% assign categories_list = site.categories | sort %}
       {% for category in categories_list %}
-        {% assign cat_slug = category[0] | slugify %}
-        <a href="{{ '/categorias.html#' | append: cat_slug | relative_url }}" class="pill">{{ category[0] }} ({{ category[1].size }})</a>
+      {% assign cat_slug = category[0] | slugify %}
+      <a href="{{ '/categorias.html#' | append: cat_slug | relative_url }}" class="pill">{{ category[0] }} <span
+          class="pill-count">({{ category[1].size }})</span></a>
       {% endfor %}
+    </div>
+  </div>
+
+  <!-- About the Author Section -->
+  <div class="author-section full-width-breakout">
+    <div class="container">
+      <div class="author-container">
+        <div class="author-avatar">
+          <img src="/assets/img/lilian-brasileiro.jpg" alt="Autora">
+        </div>
+        <div class="author-info">
+          <h2 class="author-heading">Sobre a Autora</h2>
+          <h3 class="author-name">Lílian Brasileiro</h3>
+          <p class="author-bio">
+            Formada em Produção Editorial, adora cinema e livros. Gosta de vinhos, special beers e uns bons tragos.
+            Foodaholic desde que nasceu; descobriu nos aromas, cores, texturas e sabores da gastronomia o sentido da
+            vida. Mas, foi pelo açúcar que seu coração bateu mais forte.
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 </div>

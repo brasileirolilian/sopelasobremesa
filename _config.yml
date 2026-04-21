@@ -31,12 +31,11 @@ github_username: sopelasobremesa
 instagram_username: sopelasobremesa
 
 # Logo
-logo_bordo: "https://via.placeholder.com/200x45/fdf0d8/881846?text=S%C3%B3+pela+sobremesa"
-logo_beige: "https://via.placeholder.com/200x45/881846/fdf0d8?text=S%C3%B3+pela+sobremesa"
+logo_bordo: "/assets/img/sopelasobremesa.png"
 
 # Pagination
-paginate: 10
-paginate_path: "/page:num/"
+paginate: 12
+paginate_path: "artigos/page:num/"
 
 # Permalinks
 permalink: /:year-:month-:day-:title.html
@@ -47,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 
 defaults:
   -
@@ -64,14 +64,12 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - DESIGN.md
+  - .gitignore
+  - README.md
+  - specs
+  - .agents

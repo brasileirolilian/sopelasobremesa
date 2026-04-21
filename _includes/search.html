@@ -1,5 +1,45 @@
-<div class="search-wrapper">
-  <input type="text" id="search-input" class="search-input" placeholder="Pesquisar artigos...">
-  <ul id="results-container" class="search-results"></ul>
+<div class="search-wrapper" id="search-wrapper">
+  <button id="mobile-search-toggle" class="mobile-search-toggle" aria-label="Abrir busca">
+    <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+  </button>
+  
+  <div class="search-dropdown">
+    <div class="search-input-container">
+      <svg class="search-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" id="search-input" class="search-input" placeholder="Buscar...">
+    </div>
+    <ul id="results-container" class="search-results"></ul>
+  </div>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggleBtn = document.getElementById('mobile-search-toggle');
+    const wrapper = document.getElementById('search-wrapper');
+    const input = document.getElementById('search-input');
+    
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        wrapper.classList.toggle('mobile-active');
+        if (wrapper.classList.contains('mobile-active')) {
+          setTimeout(() => input.focus(), 100);
+        }
+      });
+    }
+
+    // Close when clicking outside on mobile
+    document.addEventListener('click', function(e) {
+      if (window.innerWidth <= 768 && wrapper && !wrapper.contains(e.target)) {
+        wrapper.classList.remove('mobile-active');
+      }
+    });
+  });
+</script>
 <script src="/assets/js/search.js"></script>

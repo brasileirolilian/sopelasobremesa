@@ -1,10 +1,36 @@
 <header class="site-header">
   <div class="container">
+    <div class="header-left">
+      <div class="social-links-header">
+        {% if site.instagram_username %}
+        <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener noreferrer"
+          aria-label="Instagram">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+            <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+            <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+          </svg>
+        </a>
+        {% endif %}
+        <a href="{{ '/feed.xml' | relative_url }}" aria-label="RSS">
+          <svg aria-hidden="true" class="icon" fill="currentColor" width="24" height="24" viewBox="0 0 24 24">
+            <path
+              d="M4.98 19.012a2.008 2.008 0 11-4.015 0 2.008 2.008 0 014.014 0zm10.742-.058c0-8.13-6.6-14.743-14.73-14.743V.965C10.153.965 18.97 9.792 18.97 18.954h-3.248zM1.002 8.435v3.252c4.027 0 7.29 3.268 7.29 7.295h3.253c0-5.823-4.72-10.547-10.543-10.547z">
+            </path>
+          </svg>
+        </a>
+      </div>
+    </div>
+
     <div class="site-logo">
-      <a href="{{ "/" | relative_url }}">
-        <img src="{{ site.logo_bordo | relative_url }}" alt="{{ site.title }}">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ site.logo_bordo }}" alt="{{ site.title }}">
       </a>
     </div>
-    {% include search.html %}
+
+    <div class="header-right">
+      {% include search.html %}
+    </div>
   </div>
 </header>

@@ -1,20 +1,78 @@
-// Colors
-$color-bordo: #881846;
-$color-bordo-light: #a42c5b;
-$color-beige: #fdf0d8;
-$color-beige-dark: #f0debb;
-$color-text: #2c2c2c;
-$color-text-light: #555555;
-$color-bg: #fafafa;
-$color-card-bg: #ffffff;
-$color-border: #eaeaea;
+// Stitch Design System Tokens
+// Project: Sobremesa Modern Evolution (13626381258901127561)
 
 // Typography
-$font-primary: 'Lora', serif;
-$font-secondary: 'Inter', sans-serif;
+$font-display: 'Newsreader', serif;
+$font-headline: 'Newsreader', serif;
+$font-body: 'Manrope', sans-serif;
+$font-label: 'Manrope', sans-serif;
 
-// Shadows & Transitions
-$shadow-sm: 0 2px 8px rgba(0,0,0,0.05);
-$shadow-md: 0 8px 24px rgba(136, 24, 70, 0.08);
-$shadow-lg: 0 12px 32px rgba(136, 24, 70, 0.12);
-$transition-base: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+// Colors
+$color-background: #fff9ec;
+$color-error: #ba1a1a;
+$color-error-container: #ffdad6;
+$color-inverse-on-surface: #f9f1d7;
+$color-inverse-primary: #ffb1c3;
+$color-inverse-surface: #343020;
+$color-on-background: #1f1c0c;
+$color-on-error: #ffffff;
+$color-on-error-container: #93000a;
+$color-on-primary: #ffffff;
+$color-on-primary-container: #ff94af;
+$color-on-primary-fixed: #3f0019;
+$color-on-primary-fixed-variant: #822143;
+$color-on-secondary: #ffffff;
+$color-on-secondary-container: #00705d;
+$color-on-secondary-fixed: #00201a;
+$color-on-secondary-fixed-variant: #005143;
+$color-on-surface: #1f1c0c;
+$color-on-surface-variant: #554246;
+$color-on-tertiary: #ffffff;
+$color-on-tertiary-container: #b5b4b4;
+$color-on-tertiary-fixed: #1b1c1c;
+$color-on-tertiary-fixed-variant: #474747;
+$color-outline: #887176;
+$color-outline-variant: #dbc0c4;
+$color-primary: #63042c;
+$color-primary-container: #812042;
+$color-primary-fixed: #ffd9e0;
+$color-primary-fixed-dim: #ffb1c3;
+$color-secondary: #006b59;
+$color-secondary-container: #7df4d7;
+$color-secondary-fixed: #80f7da;
+$color-secondary-fixed-dim: #62dabe;
+$color-surface: #fff9ec;
+$color-surface-bright: #fff9ec;
+$color-surface-container: #f6eed5;
+$color-surface-container-high: #f0e8cf;
+$color-surface-container-highest: #eae2ca;
+$color-surface-container-low: #fcf3da;
+$color-surface-container-lowest: #ffffff;
+$color-surface-dim: #e1dac1;
+$color-surface-tint: #a1395a;
+$color-surface-variant: #eae2ca;
+$color-tertiary: #2f3030;
+$color-tertiary-container: #464646;
+$color-tertiary-fixed: #e4e2e2;
+$color-tertiary-fixed-dim: #c8c6c6;
+
+// Elevations & Effects
+$shadow-ambient: 0 40px 60px -5px rgba(85, 66, 70, 0.1);
+$glass-blur: blur(12px);
+
+// Legacy Variable Mappings
+$color-bg: $color-surface;
+$color-card-bg: $color-surface-container;
+$color-border: transparent; // No line rule
+$color-bordo: $color-primary;
+$color-bordo-light: $color-primary-container;
+$color-beige: $color-surface-container-low;
+$color-beige-dark: $color-surface-dim;
+$color-text: $color-on-surface;
+$color-text-light: $color-on-surface-variant;
+$font-secondary: $font-display;
+$font-primary: $font-body;
+$shadow-sm: $shadow-ambient;
+$shadow-md: $shadow-ambient;
+$shadow-lg: $shadow-ambient;
+$transition-base: all 0.3s ease;
