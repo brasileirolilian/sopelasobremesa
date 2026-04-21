@@ -1,0 +1,46 @@
+---
+layout: default
+title: "Todos os Artigos"
+---
+
+<div class="post-grid articles-page-layout">
+  {% for post in paginator.posts %}
+  <article class="post-card group">
+    {% if post.coverImage %}
+    <div class="post-cover-wrapper">
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ post.coverImage | relative_url }}" class="post-cover" alt="{{ post.title }}">
+      </a>
+    </div>
+    {% endif %}
+    <div class="post-card-content">
+      <span class="post-meta">{{ post.date | date: "%d de %b, %Y" | upcase }}</span>
+      <h3 class="post-title">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      <p class="post-excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 20 }}
+      </p>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Anterior</a>
+  {% else %}
+  <span class="previous disabled">Anterior</span>
+  {% endif %}
+  <span class="page-number current-page">{{ paginator.page }} de {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}" class="next">Próxima</a>
+  {% else %}
+  <span class="next disabled">Próxima</span>
+  {% endif %}
+</div>
+{% endif %}

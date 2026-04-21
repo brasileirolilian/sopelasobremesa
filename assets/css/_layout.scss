@@ -6,18 +6,42 @@
   padding: 0;
 }
 
-body {
-  font-family: $font-primary;
-  color: $color-text;
-  background-color: $color-bg;
-  line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
+// CSS Reset for No-Line Policy
+hr {
+  display: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-secondary;
-  color: $color-bordo;
-  font-weight: 700;
+img,
+iframe,
+video,
+object,
+embed {
+  border: none;
+}
+
+body {
+  font-family: $font-body;
+  color: $color-on-surface;
+  background-color: $color-surface;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  padding-top: 88px;
+
+  @media (min-width: 768px) {
+    padding-top: 104px;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-display;
+  color: $color-primary;
+  font-weight: 400;
+  margin-bottom: 1rem;
 }
 
 p {
@@ -25,17 +49,21 @@ p {
 }
 
 a {
-  color: $color-bordo;
+  color: $color-primary;
   text-decoration: none;
-  transition: $transition-base;
-  
+  transition: all 0.2s ease-in-out;
+
   &:hover {
-    color: $color-bordo-light;
+    color: $color-primary-container;
   }
 }
 
 .container {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 16px;
+
+  @media (min-width: 992px) {
+    padding: 0 24px;
+  }
 }

@@ -6,3 +6,6 @@ _site/
 .bundle/
 vendor/
 assets/img/
+.DS_Store
+optimize_images.sh
+cleanup_images.sh

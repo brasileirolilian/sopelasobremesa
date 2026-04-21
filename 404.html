@@ -9,6 +9,7 @@ layout: page
     max-width: 600px;
     text-align: center;
   }
+
   h1 {
     margin: 30px 0;
     font-size: 4em;
@@ -17,9 +18,21 @@ layout: page
   }
 </style>
 
-<div class="container">
+<div class="container page-404">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>Página não encontrada :(</strong></p>
+  <p>A página que você procura não existe.</p>
+</div>
+
+<div class="categories-section">
+  <h3 class="categories-title">Explorar por Categorias</h3>
+  <div class="category-pills">
+    {% assign categories_list = site.categories | sort %}
+    {% for category in categories_list %}
+    {% assign cat_slug = category[0] | slugify %}
+    <a href="{{ '/categorias.html#' | append: cat_slug | relative_url }}" class="pill">{{ category[0] }} <span
+        class="pill-count">({{ category[1].size }})</span></a>
+    {% endfor %}
+  </div>
 </div>
