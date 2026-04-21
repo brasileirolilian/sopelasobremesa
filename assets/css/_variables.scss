@@ -1,0 +1,20 @@
+// Colors
+$color-bordo: #881846;
+$color-bordo-light: #a42c5b;
+$color-beige: #fdf0d8;
+$color-beige-dark: #f0debb;
+$color-text: #2c2c2c;
+$color-text-light: #555555;
+$color-bg: #fafafa;
+$color-card-bg: #ffffff;
+$color-border: #eaeaea;
+
+// Typography
+$font-primary: 'Lora', serif;
+$font-secondary: 'Inter', sans-serif;
+
+// Shadows & Transitions
+$shadow-sm: 0 2px 8px rgba(0,0,0,0.05);
+$shadow-md: 0 8px 24px rgba(136, 24, 70, 0.08);
+$shadow-lg: 0 12px 32px rgba(136, 24, 70, 0.12);
+$transition-base: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
