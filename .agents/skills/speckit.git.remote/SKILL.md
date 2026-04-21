@@ -1,5 +1,5 @@
 ---
-name: speckit-git-remote
+name: speckit.git.remote
 description: Detect Git remote URL for GitHub integration
 compatibility: Requires spec-kit project structure with .specify/ directory
 metadata:

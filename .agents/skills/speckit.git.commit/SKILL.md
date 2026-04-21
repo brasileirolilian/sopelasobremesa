@@ -1,5 +1,5 @@
 ---
-name: speckit-git-commit
+name: speckit.git.commit
 description: Auto-commit changes after a Spec Kit command completes
 compatibility: Requires spec-kit project structure with .specify/ directory
 metadata:

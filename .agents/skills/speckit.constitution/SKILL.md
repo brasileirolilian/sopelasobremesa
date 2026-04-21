@@ -1,5 +1,5 @@
 ---
-name: "speckit-constitution"
+name: "speckit.constitution"
 description: "Create or update the project constitution from interactive or provided principle inputs, ensuring all dependent templates stay in sync."
 compatibility: "Requires spec-kit project structure with .specify/ directory"
 metadata:
