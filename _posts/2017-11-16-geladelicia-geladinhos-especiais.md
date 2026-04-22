@@ -21,6 +21,8 @@ tags:
   - "sacole"
   - "sobremesa"
 image: "/assets/img/2017/11/IMG_8608.jpg"
+redirect_from:
+  - "/geladelicia-geladinhos-especiais/"
 ---
 
 _**Sacolé, Gelinho, Dindim, Chup chup, Flau, Geladinho....**_

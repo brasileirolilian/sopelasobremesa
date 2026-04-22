@@ -11,6 +11,8 @@ tags:
   - "sobremesa"
   - "sorvete"
 image: "/assets/img/2014/03/destaque4.jpg"
+redirect_from:
+  - "/doces-brasil-gostinho-de-casa-da-vo/"
 ---
 
 Yes, nós temos doces de compotas!!!

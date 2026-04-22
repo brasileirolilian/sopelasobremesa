@@ -18,6 +18,8 @@ tags:
   - "sobremesa"
   - "sp"
 image: "/assets/img/2017/07/IMG_8960.jpg"
+redirect_from:
+  - "/les-3-brasseurs-brewpub-frances-em-sampa/"
 ---
 
 No último 11/07 (quarta-feira) nossos colabs diretamente de São Paulo foram conferir as novidades do brewpub francês Les 3 Brasseurs, localizado no Itaim.

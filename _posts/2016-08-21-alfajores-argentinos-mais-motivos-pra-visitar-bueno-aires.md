@@ -18,6 +18,8 @@ tags:
   - "milka"
   - "sobremesa"
 image: "/assets/img/2016/07/destaque-1.jpg"
+redirect_from:
+  - "/alfajores-argentinos-mais-motivos-pra-visitar-bueno-aires/"
 ---
 
 Ai como é bom ganhar mimos de seguidores e amigos do blog. **\\o/** E um desses mimos foram _alfajores_ vindos diretamente de Buenos Aires/ARG,  trazidos pela querida Tai Queiroz.

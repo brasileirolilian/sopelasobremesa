@@ -13,6 +13,8 @@ tags:
   - "restaurante"
   - "sobremesa"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/poro-restaurante-e-bar-um-tesourinho-de-lugar/"
 ---
 
 Localizado em um dos tradicionais e mais antigos bairros da cidade de Salvador, rico em história e cultura  o largo Santo Antonio Além do Carmo, fica entre os bairros do Barbalho e do Carmo, é também conhecido como Largo do Barão do Triunfo. No século XVII, era a entrada principal da capital baiana, pelo Convento do Carmo. Entre suas ruas de paralelepípedo, telhados e arquitetura antigos, numa típica casinha branca de janelas e porta azuis, um tesouro reluz texturas, transborda aromas e esbanja sabores: **Poró Restaurante e Bar**.

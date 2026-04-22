@@ -21,6 +21,8 @@ tags:
   - "sweet"
   - "the-simpsons"
 image: "/assets/img/2017/03/blog2-e1488329804398.jpg"
+redirect_from:
+  - "/de-springfield-para-salvador/"
 ---
 
 Quem ama **DONUTS** \- as famosas rosquinhas americanas - levanta a mão!!!!

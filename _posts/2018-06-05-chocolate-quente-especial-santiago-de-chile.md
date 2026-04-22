@@ -46,6 +46,8 @@ tags:
   - "viagem"
   - "winter"
 image: "/assets/img/2018/05/A7D29187-B477-43DC-85F1-3C196FEFA152.jpg"
+redirect_from:
+  - "/chocolate-quente-especial-santiago-de-chile/"
 ---
 
 _**Chocolate Quente** no friozinho é uma das melhores coisas da vida né? E foi pensando nisso, que resolvi mapear (provando claro!) onde saborear na capital chilena essa bebida que aquece não só o corpo, mas a alma e o coração também._

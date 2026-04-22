@@ -17,6 +17,8 @@ tags:
   - "sobremesa"
   - "sorvete"
 image: "/assets/img/2014/06/IMG_2006.jpg"
+redirect_from:
+  - "/60-anos-com-o-sabor-mais-doce/"
 ---
 
 Minha mãe completou 60 anos. São os 60 mais doces que pude ver-  leves, alegres, suaves e fortes.

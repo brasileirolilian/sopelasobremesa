@@ -17,6 +17,8 @@ tags:
   - "tapioca"
   - "torta"
 image: "/assets/img/2014/09/destaqte.jpg"
+redirect_from:
+  - "/opera-gourmet-gastronomia-com-amor-e-arte/"
 ---
 
 Conheci a Ópera Gourmet pelo Instagram e fotos belíssimas de seus produtos. Coisa fina e com cara de bom...

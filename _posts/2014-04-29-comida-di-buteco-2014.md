@@ -22,6 +22,8 @@ tags:
   - "sobremesa"
   - "vodka"
 image: "/assets/img/2014/04/comidadibuteco-destaque.jpg"
+redirect_from:
+  - "/comida-di-buteco-2014/"
 ---
 
 Mas é Comida di Buteco e não Sobremesa...

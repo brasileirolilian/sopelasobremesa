@@ -19,6 +19,8 @@ tags:
   - "trufas"
   - "vinho"
 image: "/assets/img/2014/03/destaque4.jpg"
+redirect_from:
+  - "/para-um-dia-dos-namorados-mais-doce-delidicas/"
 ---
 
 Que tal adoçar o dia mais romântico do ano com presentes saborosos e lindos?!

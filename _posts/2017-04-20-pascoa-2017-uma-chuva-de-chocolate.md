@@ -32,6 +32,8 @@ tags:
   - "surra-de-chocolate"
   - "twix-caramelo-salgado"
 image: "/assets/img/2017/04/IMG_1132-1-e1492655475392.jpg"
+redirect_from:
+  - "/pascoa-2017-uma-chuva-de-chocolate/"
 ---
 
 Nesse ano, nossa Páscoa foi bem rica. Rica em paz, amor e muito, mas muito chocolate.

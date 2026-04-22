@@ -25,6 +25,8 @@ tags:
   - "sobremesa"
   - "verrine"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/pasta-em-casa-casa-e-nossa/"
 ---
 
 _**O Pasta cresceu!**_

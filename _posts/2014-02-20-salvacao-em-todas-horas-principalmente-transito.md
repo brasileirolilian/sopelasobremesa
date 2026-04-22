@@ -14,6 +14,8 @@ tags:
   - "sem-lactose"
   - "tapioca"
 image: "/assets/img/2014/02/bolinhodetapioca1.jpg"
+redirect_from:
+  - "/salvacao-em-todas-horas-principalmente-transito/"
 ---
 
 Ficar presa no trânsito ninguém merece, principalmente na hora do rush, horário em que a fome mais aperta né?

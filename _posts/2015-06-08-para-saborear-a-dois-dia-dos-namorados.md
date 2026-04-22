@@ -13,6 +13,8 @@ tags:
   - "sobremesa"
   - "sobremesas-a-dois"
 image: "/assets/img/2015/06/destaque-dia-dos-namorados.jpg"
+redirect_from:
+  - "/para-saborear-a-dois-dia-dos-namorados/"
 ---
 
 _#LoveIsinTheAir_

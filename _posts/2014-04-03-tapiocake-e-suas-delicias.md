@@ -12,6 +12,8 @@ tags:
   - "doce-de-leite"
   - "docinho"
 image: "/assets/img/2014/04/IMG_9907-e1396487496269.jpg"
+redirect_from:
+  - "/tapiocake-e-suas-delicias/"
 ---
 
 Pra começar hoje o dia indeciso se chove ou se faz sol, nada melhor que um bolinho de tapioca com doce de leite artesanal né?!

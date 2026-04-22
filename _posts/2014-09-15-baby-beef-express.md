@@ -9,6 +9,8 @@ tags:
   - "pudim"
   - "sobremesa"
 image: "/assets/img/2014/07/destaque6.jpg"
+redirect_from:
+  - "/baby-beef-express/"
 ---
 
 Almoçar em shopping em pleno domingo pode ser super estressante. Parece que a cidade inteira teve a mesma ideia. É disputa na fila pra comprar a refeição, é disputa pra sentar próximo  do restaurante. "Demora" no preparo dos pedidos, malabarismo para que ninguém  se esbarre com você e sua bandeja.  Pra completar, essas refeições tipo prato executivo vem em porções exorbitantes  de acompanhamento.

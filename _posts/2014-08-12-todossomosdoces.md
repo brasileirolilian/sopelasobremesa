@@ -13,6 +13,8 @@ tags:
   - "quindim"
   - "sobremesa"
 image: "/assets/img/2014/03/destaque3.jpg"
+redirect_from:
+  - "/todossomosdoces/"
 ---
 
 (até que enfim saiu esse post, rsrsrsrsrs)

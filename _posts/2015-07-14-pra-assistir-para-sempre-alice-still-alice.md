@@ -11,6 +11,8 @@ tags:
   - "pra-assistir"
   - "still-alice"
 image: "/assets/img/2015/07/destaque-still-alice.jpg"
+redirect_from:
+  - "/pra-assistir-para-sempre-alice-still-alice/"
 ---
 
 Ok, posso até estar atrasada nesse post. Mas, assisti quando ele ainda estava em exibição nas salas de cinema pelo país e ainda quando me lembro me emociono bastante com a história. Não tem como não se emocionar. Quem já teve a experiência de viver com alguém querido passando por essa mesma situação sabe como é. E mesmo aqueles que nunca, mas que tem um pouquinho de sensibilidade tenta se colocar no lugar do outro e imaginar como duro é.

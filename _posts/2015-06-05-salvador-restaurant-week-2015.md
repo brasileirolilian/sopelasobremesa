@@ -13,6 +13,8 @@ tags:
   - "sobremesas-2"
   - "ssa-rw"
 image: "/assets/img/2014/03/destque.jpg"
+redirect_from:
+  - "/salvador-restaurant-week-2015/"
 ---
 
 O evento mais esperado de Salvador, não, não é o Festival de Verão. Nem a Liquida Salvador, muito menos os Arraiás de São João, mas é o Salvador Restaurant Week - festival que reúne grandes restaurantes da capital com menu completo e especial no almoço e/ou no jantar, a preços super acessíveis (R$ 37,90 + 1,00 / R$ 49,90 + 1,00 - respectivamente, sendo R$ 1,00 para doação ao Martagão Gesteira).

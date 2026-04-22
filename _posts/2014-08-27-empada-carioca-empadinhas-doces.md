@@ -11,6 +11,8 @@ tags:
   - "empada-carioca"
   - "empadinha"
 image: "/assets/img/2014/09/destaque7.jpg"
+redirect_from:
+  - "/empada-carioca-empadinhas-doces/"
 ---
 
 Eu adoro empada, pra mim é um dos salgados assados mais gostosos, e a versão doce me encanta cada vez mais.

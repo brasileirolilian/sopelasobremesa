@@ -18,6 +18,8 @@ tags:
   - "the-best-of"
   - "torta"
 image: "/assets/img/2017/03/IMG_9861-1-e1489787605523.jpg"
+redirect_from:
+  - "/as-melhores-tortas-de-chocolate-com-morango/"
 ---
 
 Sim, por algum tempo fui em busca das Melhores Tortas de Chocolate com Morango de Salvador.

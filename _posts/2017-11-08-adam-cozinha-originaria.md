@@ -21,6 +21,8 @@ tags:
   - "salvador"
   - "sobremesas-2"
 image: "/assets/img/2017/02/IMG_7827.jpg"
+redirect_from:
+  - "/adam-cozinha-originaria/"
 ---
 
 Com uma cozinha super criativa e original, o Adam Restaurante, que leva o nome de seu proprietário e chef, propõe uma gastronomia autêntica e única. Sabe quando você passa a conhecer uma pessoa através do seu trabalho?! Pois bem, em cada prato e garfada no Adam Cozinha Originária, pude conhecer toda história de seu criador: Adam Schinitman.

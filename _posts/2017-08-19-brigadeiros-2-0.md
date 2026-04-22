@@ -15,6 +15,8 @@ tags:
   - "sobremesa"
   - "sweet"
 image: "/assets/img/2017/08/IMG_6417.jpg"
+redirect_from:
+  - "/brigadeiros-2-0/"
 ---
 
 Brigadeiro é a paixão nacional, né mesmo môres?!

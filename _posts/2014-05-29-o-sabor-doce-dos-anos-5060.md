@@ -15,6 +15,8 @@ tags:
   - "sobremesas-2"
   - "torta"
 image: "/assets/img/2014/05/IMG_1869.jpg"
+redirect_from:
+  - "/o-sabor-doce-dos-anos-5060/"
 ---
 
 Ontem tive a oportunidade de ir conhecer a nova unidade Eddie Fine Burgers de Salvador, localizada no antigo espaço do cinema do Shopping Barra.

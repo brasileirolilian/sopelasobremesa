@@ -17,6 +17,8 @@ tags:
   - "parabens"
   - "sobremesa"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/para-cantar-parabens/"
 ---
 
 Aniversário sem bolo não é aniversário. Não tem graça nenhuma comemorar sem o principal item de uma boa festa, já disse [_AQUI_](http://www.sopelasobremesa.com/para-soprar-velinhas-os-melhores-bolos-e-tortas/) que não faço questão de presentes, festa, arrumação, mas bolo, um delicioso bolo tem que ter.

@@ -19,6 +19,8 @@ tags:
   - "panetone"
   - "sobremesa"
 image: "/assets/img/2017/01/11752017_770747766379789_1053250334695310040_n.png"
+redirect_from:
+  - "/cake-for-you-by-junia-franco/"
 ---
 
 Como não se apaixonar?! Só de olhar as fotos no instagram da confeiteira Junia Franco já ficamos apaixonados, visualmente todos os seus produtos são lindíssimos, bem apresentados e produzidos.

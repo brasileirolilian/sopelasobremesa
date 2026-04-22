@@ -15,6 +15,8 @@ tags:
   - "sorvete"
   - "sorvete-assado"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/brasil-e-seus-doces-sabores/"
 ---
 
 Ontem tive uma das experiências mais incríveis ao provar algumas delícias com sabor totalmente brasileiro. Conheci a loja de sorvetes e picolés Frutos do Brasil, que há dois anos está localizada no Salvador Norte Shopping e é uma franquia de uma rede 100% brasileira.

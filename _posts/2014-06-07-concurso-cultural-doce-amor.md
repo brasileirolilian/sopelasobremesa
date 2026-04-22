@@ -16,6 +16,8 @@ tags:
   - "namorados"
   - "torta"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/concurso-cultural-doce-amor/"
 ---
 
 Com a data mais romântica do ano se aproximando, nada melhor do que um Concurso Cultural para os enamorados, heim?!

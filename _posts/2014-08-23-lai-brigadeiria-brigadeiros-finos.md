@@ -16,6 +16,8 @@ tags:
   - "sobremesas-2"
   - "twix"
 image: "/assets/img/2014/03/destaque3.jpg"
+redirect_from:
+  - "/lai-brigadeiria-brigadeiros-finos/"
 ---
 
 Com a proposta de brigadeiros finos e que parecem joias, a Lai Brigadeiria traz um menu recheado com 26 sabores diferentes e exóticos do docinho preferido dos brasileiros, e ainda vem mais por aí.

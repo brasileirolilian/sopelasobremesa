@@ -18,6 +18,8 @@ tags:
   - "sobremesas-2"
   - "sobremesas-afetivas"
 image: "/assets/img/2018/05/image1.jpeg"
+redirect_from:
+  - "/lembrancas-com-docura-e-muito-afeto-do-almoco-em-familia-ao-menu-do-restaurante/"
 ---
 
 Ali no número 26, na praça Alexandre Fernandes, Garcia, o charmoso bistrô _**Larriquerrí**_ é conhecido por possuir uma cozinha afetiva, com criações e montagens contemporâneas mas que trazem lembranças e memórias aos seus comensais.

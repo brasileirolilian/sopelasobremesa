@@ -22,6 +22,8 @@ tags:
   - "sobremesa"
   - "sorvete"
 image: "/assets/img/2014/05/doces-de-feira-destaque.jpg"
+redirect_from:
+  - "/os-sabores-doces-brasil/"
 ---
 
 "Do cultivo da cana, do engenho e da senzala, a trajetória dos doces brasileiros praticamente começa quando nasce o País. \[...\] Antes mesmo de termos imperador, já havíamos nos rendido a compotas, bolos e quitutes que ganharam formas e adequações locais assim que os portugueses desembarcaram em nosso litoral."¹

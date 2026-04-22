@@ -20,6 +20,8 @@ tags:
   - "sobremesa"
   - "spain"
 image: "/assets/img/2017/10/FullSizeRender-1-1.jpg"
+redirect_from:
+  - "/doce-tradicao-na-espanha/"
 ---
 
 O **_Doçuras e Aventuras_** de hoje lhes apresenta a **Crema Catalaña**, uma sobremesa muito típica da Catalunya, uma verdadeira doce tradição.

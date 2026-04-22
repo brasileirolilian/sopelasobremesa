@@ -22,6 +22,8 @@ tags:
   - "sobremesa-barata"
   - "sushi"
 image: "/assets/img/2018/05/IMG_2327.jpg"
+redirect_from:
+  - "/docuras-comidinhas-que-cabem-no-bolso/"
 ---
 
 _E quem é que não gosta de sair pra comer e gastar o mínimo possível? Pensando nas vezes que estamos na rua e queremos saborear umas **doçuras & comidinhas que cabem no bolso**, seja lanchinhos ou até uma refeição pra segurar a onda, mas sem que gastemos muito, me juntei com a **Dani Coni** do **[@GastronomiaSalvador](https://gastronomiasalvador.com.br/)** e batemos pernas pelas ruas da capital baiana, em busca de Doces, Sobremesas e umas comidinhas: BBB - bom, bonito e barato, sem esquecer o sabor, claro._

@@ -13,6 +13,8 @@ tags:
   - "restaurante"
   - "sobremesas-2"
 image: "/assets/img/2015/07/alfredo-destaque.jpg"
+redirect_from:
+  - "/almoco-em-boa-companhia/"
 ---
 
 O 'Alfredo di Roma' é sempre uma maravilhosa escolha, seja para o almoço ou jantar, e no dia 29/06 - uma sexta- feira acompanhada de minha mãe (o que é super raro sair pra almoçar só nós duas), tinha que ser, claro, nesse restaurante que carrega tradição, requinte e alta qualidade em sua cozinha.

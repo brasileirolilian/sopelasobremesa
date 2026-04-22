@@ -32,6 +32,8 @@ tags:
   - "sheraton-da-bahia"
   - "zank"
 image: "/assets/img/2017/03/IMG_9666-1-e1488750583724.jpg"
+redirect_from:
+  - "/07-motivos-para-acordar-feliz-especial-cafe-da-manha/"
 ---
 
 Tem motivo melhor do que acordar para se empanturrar no café da manhã?! Fala sério: quem não ama aquele banquete com tudo o que há de bom, pra começar o dia bem e cheio de delicias?!

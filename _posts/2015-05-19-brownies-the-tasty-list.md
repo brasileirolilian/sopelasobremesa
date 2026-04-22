@@ -11,6 +11,8 @@ tags:
   - "sobremesas-2"
   - "tasty-list"
 image: "/assets/img/2015/05/revista-donna-destaque.jpg"
+redirect_from:
+  - "/brownies-the-tasty-list/"
 ---
 
 Quem não gosta de brownie?

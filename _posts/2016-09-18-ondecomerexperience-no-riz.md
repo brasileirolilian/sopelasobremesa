@@ -19,6 +19,8 @@ tags:
   - "riz"
   - "sobremesa"
 image: "/assets/img/2016/09/detaque.jpg"
+redirect_from:
+  - "/ondecomerexperience-no-riz/"
 ---
 
 Mais uma edição de sucesso do **Onde Comer Experience**, projeto idealizado pelo blog [**Onde Comer em Salvador**](http://ondecomeremsalvador.com.br/) da _Gabi Martinez_ - nossa amiga queria e super parceria -, e que tem a intenção de promover uma experiência única ao público, junto com restaurantes parceiros. Com um menu completo \[entrada + prato principal + sobremesa\] à um preço bacana.  A bola da vez ficou por conta do Riz Bistrô e Risotos custando **R$ 50** por pessoa, fomos conferir esse menu especial no Jantar, mas caso preferia pode ir no almoço que rola também.

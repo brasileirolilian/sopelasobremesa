@@ -11,6 +11,8 @@ tags:
   - "movie"
   - "seu-eu-ficar"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/pra-assistir-se-eu-ficar/"
 ---
 
 Relutei muito para dedicar quase duas horas do meu tempo ao longa **'Se Eu Ficar'**.

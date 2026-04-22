@@ -16,6 +16,8 @@ tags:
   - "submarino"
   - "torta"
 image: "/assets/img/2014/03/torta-mil-folhas.jpg"
+redirect_from:
+  - "/uma-aventura-congelante-e-sabores-quentinhos/"
 ---
 
 \[ATUALIZAÇÃO EM 06/02/2015 - Abuela Goye unidades de Salvador - FECHARAM!!!\]

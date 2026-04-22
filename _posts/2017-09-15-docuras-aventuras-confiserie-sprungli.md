@@ -25,6 +25,8 @@ tags:
   - "trufas"
   - "zurich"
 image: "/assets/img/2017/09/IMG_4074.jpg"
+redirect_from:
+  - "/docuras-aventuras-confiserie-sprungli/"
 ---
 
 E quando a gente recebe uma mensagem no whatsapp recheada de fotos e comentários à respeito de uma das melhores docerias/ confeitarias do mundo?!...

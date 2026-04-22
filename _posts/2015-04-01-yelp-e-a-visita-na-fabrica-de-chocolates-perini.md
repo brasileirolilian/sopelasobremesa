@@ -12,6 +12,8 @@ tags:
   - "salvador"
   - "yelp"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/yelp-e-a-visita-na-fabrica-de-chocolates-perini/"
 ---
 
 Numa tarde do mês passado, fui convidada pelo Yelp Salvador a fazer um tour pela Fábrica de Chocolate da Perini, uma das mais antigas delicatessen da cidade. Infelizmente um imprevisto me impossibilitou de comparecer, mas prometi que postaria aqui para vocês leitores essa experiência dos colaboradores convidados do Yelp, através do relato da Monique - embaixadora do portal aqui em Salvador.

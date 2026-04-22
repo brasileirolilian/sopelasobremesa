@@ -6,6 +6,8 @@ categories:
 tags: 
   - "chocolate"
 image: "/assets/img/2014/03/chocolate-derretido.jpg"
+redirect_from:
+  - "/dia-mundial-chocolate/"
 ---
 
 Pra quem não sabe, hoje é o DIA MUNDIAL DO CHOCOLATE (amém!)

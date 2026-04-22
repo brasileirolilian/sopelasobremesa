@@ -14,6 +14,8 @@ tags:
   - "sorvete"
   - "twix"
 image: "/assets/img/2014/04/IMG_0299-e1397253956100.jpg"
+redirect_from:
+  - "/sobremesa-leve-e-delicada-como-uma-ninfa/"
 ---
 
 Segundo a Mitologia Grega, Ninfas são membros da categoria espíritos naturais femininos, ou seja Deusas, ligadas a um objeto ou local. Em resumo: fadas sem asas, leves e delicadas.

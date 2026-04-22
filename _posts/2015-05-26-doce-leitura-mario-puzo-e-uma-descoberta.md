@@ -13,6 +13,8 @@ tags:
   - "seis-tumulos-para-munique"
   - "thriller"
 image: "destque-seis-túmulos.jpg"
+redirect_from:
+  - "/doce-leitura-mario-puzo-e-uma-descoberta/"
 ---
 
 #DesafioDoceLeitura

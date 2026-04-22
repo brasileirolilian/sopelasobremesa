@@ -23,6 +23,8 @@ tags:
   - "sweet"
   - "tortas"
 image: "/assets/img/2017/12/IMG_5672.jpg"
+redirect_from:
+  - "/nonna-confeitaria-cafe/"
 ---
 
 Sabe aquele lugar super aconchegante, que quando a gente tá nos sentimos em casa? Na **Nonna Confeitaria & Café** é assim...

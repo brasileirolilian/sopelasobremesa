@@ -27,6 +27,8 @@ tags:
   - "sobremesa"
   - "twix"
 image: "/assets/img/2017/09/IMG_2380.jpg"
+redirect_from:
+  - "/festival-de-cheesecake-onira-cafe/"
 ---
 
 É isso mesmo que você leu no título aí em cima!

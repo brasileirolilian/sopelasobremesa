@@ -27,6 +27,8 @@ tags:
   - "natal"
   - "paris"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/por-um-natal-mais-doce/"
 ---
 
 Para lhe ajudar na hora de escolher os doces quitutes para compor sua Ceia de Natal ou presentear alguém querido, resolvi compilar aqui nessa postagem alguns dos melhores doces e sobremesas (na minha humilde opinião) que além de sabor tem precinhos ótimos.

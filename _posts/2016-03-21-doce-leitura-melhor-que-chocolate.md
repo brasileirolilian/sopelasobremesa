@@ -18,6 +18,8 @@ tags:
   - "romance"
   - "seducao"
 image: "/assets/img/2016/03/destaque-post-melhor-que-chocolate.jpg"
+redirect_from:
+  - "/doce-leitura-melhor-que-chocolate/"
 ---
 
 '_Uma história sobre amor, Paris e teimosia.'_ - leitura ideal para essa semana que antecede a Páscoa, com muito amora e sabor de chocolate pairando pelo ar.

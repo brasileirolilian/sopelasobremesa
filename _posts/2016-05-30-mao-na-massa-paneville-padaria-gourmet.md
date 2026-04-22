@@ -19,6 +19,8 @@ tags:
   - "pao"
   - "sobremesas-2"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/mao-na-massa-paneville-padaria-gourmet/"
 ---
 
 No último **21/05**, fui convidada pela Família **Paneville** e sua assessoria à passar um dia incrível, na verdade uma manhã e tarde riquíssima em aprendizado e delícias. Uma experiência única, no qual fui apresentada ao conceito de padaria gourmet - localizada no bairro da Pituba, a padaria ficou mais aconchegante e ampla; além de disponibilizar para venda o tradicional pãozinho francês a casa conta com produtos artesanais e de fabricação própria na parte de panificação, confeitaria e delicatessen; além de marcas exclusivas e produtos especiais e gourmet. Também contam com novos serviços: **Café da Manhã** em um buffet variado, diversificado e delicioso; **almoço**, **ceia**, **sushi bar**, **hamburguer gourmet artesanal**, **doceria** e lanches rápidos. Alta qualidade, sabor de feito em casa com muito amor, cuidado e carinho.

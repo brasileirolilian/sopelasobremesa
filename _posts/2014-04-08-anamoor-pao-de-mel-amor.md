@@ -11,6 +11,8 @@ tags:
   - "mel"
   - "pao-de-mel"
 image: "/assets/img/2014/04/IMG_0181.jpg"
+redirect_from:
+  - "/anamoor-pao-de-mel-amor/"
 ---
 
 Nossa em plena segundona fui trabalhar meio irritada!

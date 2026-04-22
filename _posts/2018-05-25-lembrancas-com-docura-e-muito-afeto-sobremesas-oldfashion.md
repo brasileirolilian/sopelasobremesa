@@ -27,6 +27,8 @@ tags:
   - "sobremesas-afetivas"
   - "sobremesas-oldfashion"
 image: "/assets/img/2018/05/7ce94bc6-fb2f-43d7-83dc-5679290097df-1.jpg"
+redirect_from:
+  - "/lembrancas-com-docura-e-muito-afeto-sobremesas-oldfashion/"
 ---
 
 _Ainda na busca de reviver as lembranças açucaradas do passado, eu & a **Gabi** do **@ReporterGourmet** fomos atrás de dois cozinheiros que seguem essa linha de trazer à mesa doçuras de ruas raízes, histórias e vivências. Em um bate papo recheado de saudades e um punhado de açúcar - **Karine Poggio**, chef do restaurante [**Coentro Gastronomia Afetiva**](https://www.instagram.com/coentrogastronomiaafetiva/) e **Tomás Villarpando**, doceiro e sócio do [**Açucareiros**](https://www.instagram.com/acucareiros/?hl=pt) - empresa idealizada por irmãos apaixonados por doces com simplicidade e muito sabor; nos confessaram as sobremesas que mexem com suas lembranças e que eles fazem questão de compartilhar com seus clientes._

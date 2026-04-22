@@ -12,6 +12,8 @@ tags:
   - "pao-de-mel"
   - "recheio"
 image: "/assets/img/2014/06/benditos-pao-de-mel-destque.jpg"
+redirect_from:
+  - "/bendito-pao-de-mel/"
 ---
 
 De origem européia, o Pão de Mel é feito à base de mel, farinha, chocolate e especiarias, e já tem muito tempo que eu queria provar o Pão de Mel da Benditos Brigadeiros, que a Gabi do Onde Comer em Salvador, de tanto falar me fez babar por eles.

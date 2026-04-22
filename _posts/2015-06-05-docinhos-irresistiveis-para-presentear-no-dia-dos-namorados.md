@@ -13,6 +13,8 @@ tags:
   - "editorial"
   - "sao-paulo"
 image: "/assets/img/2015/06/destaque-paradis-sp-dia-dos-ados-2015.jpg"
+redirect_from:
+  - "/docinhos-irresistiveis-para-presentear-no-dia-dos-namorados/"
 ---
 
 Para os casais apaixonados da capital paulista, não poderia deixar de dar uma dica de uma doceria que sou apaixonada e é especializada em docinhos franceses.

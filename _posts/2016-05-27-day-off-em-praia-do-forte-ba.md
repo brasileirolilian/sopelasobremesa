@@ -21,6 +21,8 @@ tags:
   - "verano"
   - "viagem"
 image: "/assets/img/2016/05/destaque-post.jpg"
+redirect_from:
+  - "/day-off-em-praia-do-forte-ba/"
 ---
 
 A convite do Via dos Corais e Sobrado da Vila, hotel e pousada em Praia do Forte; e Lume Comunicação responsável pela assessoria, passei o último sábado (14/05)  relaxando, ao lado de Gabi do Onde Comer em Salvador, Tairine do Com Sabor, Vivi do Ti Ti Ti Bahia, Nai do @itsnaiana e editora da Revista PLUS, as meninas da Lume e Correio da Bahia.

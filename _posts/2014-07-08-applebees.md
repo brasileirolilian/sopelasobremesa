@@ -10,6 +10,8 @@ tags:
   - "doce-de-leite"
   - "sobremesas-2"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/applebees/"
 ---
 
 Pra galera que mora no Rio ou em SP, ou pra quem tá passeando e na sua cidade não tem **AppleBee's**, vale a pena conhecer o restaurante que é franquia da rede de mesmo nome que surgiu na Geórgia - Atlanta, nos EUA.

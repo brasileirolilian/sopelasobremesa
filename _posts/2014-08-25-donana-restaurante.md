@@ -13,6 +13,8 @@ tags:
   - "salvador"
   - "sobremesas-2"
 image: "/assets/img/2014/08/IMG_3668.jpg"
+redirect_from:
+  - "/donana-restaurante/"
 ---
 
 O Restaurante com 20 anos de existência e sucesso, iniciou suas atividades no bairro de Brotas, na capital baiana, trazendo para o nosso paladar a original culinária baiana. Eleita a melhor moqueca de Salvador, já apareceu nos principais foodblogs da cidade e sempre muito bem elogiado.

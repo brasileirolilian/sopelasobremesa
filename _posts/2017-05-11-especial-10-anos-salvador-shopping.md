@@ -32,6 +32,8 @@ tags:
   - "sweet"
   - "torta"
 image: "/assets/img/2017/05/IMG_3867-1-e1494462149447.jpg"
+redirect_from:
+  - "/especial-10-anos-salvador-shopping/"
 ---
 
 Aniversário que é aniversário não pode faltar bolo. Né verdade?!

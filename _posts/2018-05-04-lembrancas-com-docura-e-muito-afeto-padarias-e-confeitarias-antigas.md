@@ -27,6 +27,8 @@ tags:
   - "sonho"
   - "torta-de-tapioca"
 image: "/assets/img/2018/05/IMG_2579-1-1.jpg"
+redirect_from:
+  - "/lembrancas-com-docura-e-muito-afeto-padarias-e-confeitarias-antigas/"
 ---
 
 _Na primeira parte dessa pauta, em parceria com a **Gabi** do [**@ReporterGourmet**](http://www.reportergourmet.com.br/padarias-e-confeitarias-antigas-de-salvador/) [**(conheça aqui como começou)**](http://www.sopelasobremesa.com/lembrancas-com-docuras-e-muito-afeto/) regada à reencontros memoráveis afetivos: caminhei pelo Centro de Salvador, entre Padarias e Confeitarias antigas, e claro, pelas ruas de minha cidade que ainda contam muitas histórias. Me lembrei de parte da minha infância e a saudade bateu..._

@@ -17,6 +17,8 @@ tags:
   - "pudim"
   - "sobremesas-2"
 image: "/assets/img/2014/10/destaque-carro-de-boi.jpg"
+redirect_from:
+  - "/carro-de-boi-almoco-do-dia-das-criancas-em-familia/"
 ---
 
 Pensa comigo: Almoço +  domingo + Dia das Crianças = Shopping cheio.

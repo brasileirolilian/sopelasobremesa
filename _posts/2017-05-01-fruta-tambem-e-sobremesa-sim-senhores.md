@@ -37,6 +37,8 @@ tags:
   - "verrine"
   - "yogurt-frozen"
 image: "/assets/img/2017/05/IMG_1689-e1493655307428.jpg"
+redirect_from:
+  - "/fruta-tambem-e-sobremesa-sim-senhores/"
 ---
 
 Quem disse que fruta não é sobremesa, ou perdeu o juízo ou sabe ver a doçura por um outro ponto de vista.

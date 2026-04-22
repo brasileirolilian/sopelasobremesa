@@ -33,6 +33,8 @@ tags:
   - "tortas"
   - "verrine"
 image: "/assets/img/2017/10/IMG_3653.jpg"
+redirect_from:
+  - "/mais-cantinhos-para-chamar-de-seu/"
 ---
 
 Ano passado eu escolhi 06 cantinhos especiais e muito aconchegantes. Já fiz um post aqui falando de cantinhos especiais dos quais me encantam em Salvador, seja para ter um encontrinho com as aZmigas para aquele bate papo, seja para dar uma pausa na rotina e respirar, seja para saborear uma sobremesa gostosa, claro! [_\[CLIQUE AQUI\]_](http://www.sopelasobremesa.com/5-cantinhos-para-uma-pausa-na-rotina/).

@@ -13,6 +13,8 @@ tags:
   - "sobremesa"
   - "sundae"
 image: "/assets/img/2016/03/destaque-perini.jpg"
+redirect_from:
+  - "/pascoa-na-perini-uma-experiencia-incrivel/"
 ---
 
 No dia 12/03 a convite da Perini fui conhecer a sua _fantástica fábrica de chocolate_, e junto com alguns outros foodblogs tivemos uma doce e incrível experiência.

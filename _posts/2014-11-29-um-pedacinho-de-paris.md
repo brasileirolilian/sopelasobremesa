@@ -19,6 +19,8 @@ tags:
   - "sobremesas-2"
   - "st-michel"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/um-pedacinho-de-paris/"
 ---
 
 Eu já falei aqui no blog da minha paixão por Paris, do quanto amo suas ruas, seu cheiro, do seu sotaque e da sua confeitaria.

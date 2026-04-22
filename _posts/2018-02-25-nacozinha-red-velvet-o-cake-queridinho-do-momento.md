@@ -18,6 +18,8 @@ tags:
   - "red-velvet"
   - "sobremesa"
 image: "/assets/img/2018/02/IMG_6955.jpg"
+redirect_from:
+  - "/nacozinha-red-velvet-o-cake-queridinho-do-momento/"
 ---
 
 _Traduzindo popularmente como Veludo Vermelho, o bolo americano **Red Velvet** tem se tornado pop pelo Brasil, e vem sendo um queridinho do momento._

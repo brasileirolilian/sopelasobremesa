@@ -11,6 +11,8 @@ tags:
   - "sobremesa"
   - "sorvete"
 image: "/assets/img/2014/03/bolo-de-rolo-destaque.jpg"
+redirect_from:
+  - "/um-boteco-um-happy-hour-e-o-celebrar-vida/"
 ---
 
 Então a vida lhe presenteia com o que há de melhor: amigos, pessoas queridas, que tornam os nossos dias leves, doces e divertidos.

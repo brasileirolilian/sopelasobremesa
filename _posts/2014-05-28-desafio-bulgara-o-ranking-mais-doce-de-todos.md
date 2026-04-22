@@ -11,6 +11,8 @@ tags:
   - "chocolate"
   - "torta"
 image: "/assets/img/2014/05/destaque-com-nome.jpg"
+redirect_from:
+  - "/desafio-bulgara-o-ranking-mais-doce-de-todos/"
 ---
 
 (Demorou, mas esse ranking saiu!)

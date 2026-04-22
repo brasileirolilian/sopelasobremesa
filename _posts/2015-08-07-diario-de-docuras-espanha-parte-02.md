@@ -15,6 +15,8 @@ tags:
   - "sobremesa"
   - "viagem"
 image: "/assets/img/2015/08/churros-destaque.jpg"
+redirect_from:
+  - "/diario-de-docuras-espanha-parte-02/"
 ---
 
 É impossível vir a Espanha e não comer um dos seus tradicionais **Churros**. Pois encontramos o melhor churros da cidade: o _"Las Farolas de la Calle Mayor"_, uma churreria e chocolateria deliciosa de Madrid. Eles servem no café da manhã um "desayuno las farolas" que vem com uma xícara de chocolate quente ou café e 5 churros enormes por apenas 2,45€. Os churros da Espanha, diferentes dos do Brasil, não vem enroladinhos no açúcar e na canela (que nós, particularmente, até preferimos), mas quando molhamos no chocolate, huuuuum! Ficam deliciosos! É uma boa opção até para os que comem demais. Uma pessoa normal se satisfaz com uma porção desta de churros.

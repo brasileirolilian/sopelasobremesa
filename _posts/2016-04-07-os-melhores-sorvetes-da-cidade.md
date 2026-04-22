@@ -16,6 +16,8 @@ tags:
   - "sorvete"
   - "sorveteria"
 image: "/assets/img/2016/04/destaque-post-sorvete.jpg"
+redirect_from:
+  - "/os-melhores-sorvetes-da-cidade/"
 ---
 
 _Esse não é um post sobre as melhores sorveterias da capital baiana, mas dos sorvetes que mais gosto em cada uma._

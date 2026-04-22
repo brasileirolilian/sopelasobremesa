@@ -27,6 +27,8 @@ tags:
   - "tartelete"
   - "tortas"
 image: "/assets/img/2017/09/IMG_1921.jpg"
+redirect_from:
+  - "/onira-cafe-bistro/"
 ---
 
 O Onira Café & Bistrô com quase um ano encantando e conquistando o paladar dos soteropolitanos, surpreende (positivamente, claro!) à cada dia. Com um menu de tortas doces, sobremesas, sanduíches e cafés de tirar o fôlego e deixar a gente sempre na dúvida do que pedir.

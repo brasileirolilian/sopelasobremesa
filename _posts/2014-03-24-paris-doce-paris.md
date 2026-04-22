@@ -16,6 +16,8 @@ tags:
   - "patisserie-2"
   - "tiramisu"
 image: "/assets/img/2014/04/IMG_9714-e1397389773677.jpg"
+redirect_from:
+  - "/paris-doce-paris/"
 ---
 
 \[FECHOU EM AGOSTO/2014\]

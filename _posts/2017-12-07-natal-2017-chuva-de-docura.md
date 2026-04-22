@@ -28,6 +28,8 @@ tags:
   - "sucre"
   - "xmas"
 image: "/assets/img/2017/12/IMG_9619.jpg"
+redirect_from:
+  - "/natal-2017-chuva-de-docura/"
 ---
 
 Chegou uma das melhores épocas do ano: o Natal. E neste ano de 2017 o bicho vai pegar!

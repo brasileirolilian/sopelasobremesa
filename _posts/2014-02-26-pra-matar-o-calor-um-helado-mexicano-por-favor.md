@@ -9,6 +9,8 @@ tags:
   - "picole"
   - "verao"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/pra-matar-o-calor-um-helado-mexicano-por-favor/"
 ---
 
 Ninguém merece passar calorão de verão sem se refrescar né?

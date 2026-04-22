@@ -16,6 +16,8 @@ tags:
   - "zero-lac"
   - "zero-lactose"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/docinhos-do-bem/"
 ---
 
 Essa postagem já era pra sair tem um bom tempo. Mas entre uma sobremesa e outra só pude parar a pouco para escrever e me dedicar também aos **docinhos do bem**.

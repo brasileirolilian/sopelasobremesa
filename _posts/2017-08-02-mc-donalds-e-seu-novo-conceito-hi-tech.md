@@ -24,6 +24,8 @@ tags:
   - "sp"
   - "tablets"
 image: "/assets/img/2017/08/IMG_9830.jpg"
+redirect_from:
+  - "/mc-donalds-e-seu-novo-conceito-hi-tech/"
 ---
 
 A unidade Henrique Schaumann em São Paulo, de uma das maiores redes de fast food: o **Mc Donalds** ganhou um novo conceito no mês passado.

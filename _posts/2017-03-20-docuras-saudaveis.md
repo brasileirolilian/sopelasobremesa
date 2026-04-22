@@ -23,6 +23,8 @@ tags:
   - "zero-gluten"
   - "zero-lac"
 image: "/assets/img/2017/03/2A8977B9-821D-4902-9981-A5ECC60A9EAE-1-e1490042264985.jpg"
+redirect_from:
+  - "/docuras-saudaveis/"
 ---
 
 Depois de meter o pé na jaca em plena folia carnavalesca, todo mundo tenta retornar para uma rotina mais saudável e equilibrada. Até eu, formiga mor, nesse pós folia vazia uma detox rígida, abria mão de doçuras e outras gostosuras por pelo menos uma semana. Mas eis que os tempos mudaram, e atualmente encontramos cantinhos especiais que nos permitem a felicidade com quitutes doces, porém mais leves, equilibrados, saborosos e com saúde.

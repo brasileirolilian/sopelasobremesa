@@ -14,6 +14,8 @@ tags:
   - "sequilho"
   - "sobremesas-2"
 image: "/assets/img/2014/06/IMG_2571.jpg"
+redirect_from:
+  - "/em-dia-frio-e-chuvoso/"
 ---
 
 ...sobremesas que aquecem a alma!

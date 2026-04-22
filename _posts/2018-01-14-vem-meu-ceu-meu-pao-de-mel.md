@@ -19,6 +19,8 @@ tags:
   - "sweet"
   - "vem-meu-ceu"
 image: "/assets/img/2018/01/pao-de-mel-tempero-de-familia-rodrigo-hilbert-2016-670x320.jpg"
+redirect_from:
+  - "/vem-meu-ceu-meu-pao-de-mel/"
 ---
 
 Primeiro post de 2018 não poderia ser menos doce e apaixonante...

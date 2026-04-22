@@ -19,6 +19,8 @@ tags:
   - "sorvete"
   - "verao"
 image: "/assets/img/2014/03/foto-41.jpg"
+redirect_from:
+  - "/sobremesas-e-amor-nunca-tiram-ferias/"
 ---
 
 Vamos falar a verdade: todo mundo tira férias, mas ninguém abre mão de uma boa sobremesa!

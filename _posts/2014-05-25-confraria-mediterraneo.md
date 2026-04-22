@@ -19,6 +19,8 @@ tags:
   - "sobremesas-2"
   - "sorvete"
 image: "/assets/img/2014/06/IMG_1782.jpg"
+redirect_from:
+  - "/confraria-mediterraneo/"
 ---
 
 Um restaurante meio escondidinho no Acupe de Brotas, isolado do concreto da cidade pelas árvores, pássaros e o verde tornando nossa visita bem acolhedora. Funciona numa vila gourmet, seu espaço não tão grande nos convida ainda mais a um momento íntimo e agradável.

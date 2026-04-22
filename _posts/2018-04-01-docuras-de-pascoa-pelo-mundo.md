@@ -25,6 +25,8 @@ tags:
   - "reino-unido"
   - "sobremesas-2"
 image: "/assets/img/2018/04/IMG_7062.jpg"
+redirect_from:
+  - "/docuras-de-pascoa-pelo-mundo/"
 ---
 
 _A **Páscoa** é celebrada em várias partes do mundo, por diversas culturas. É uma festividade religiosa que celebra a Ressureição de Jesus, ocorrida três dias depois da sua crucificação. O Domingo de Páscoa marca o ápice da Paixão de Cristo._

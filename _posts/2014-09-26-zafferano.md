@@ -18,6 +18,8 @@ tags:
   - "sorvete"
   - "zafferano"
 image: "/assets/img/2014/09/destaque-zafferano.jpg"
+redirect_from:
+  - "/zafferano/"
 ---
 
 Hoje é aniversário do meu namorado e como em todos os aniversários optamos em almoçar ou jantar num lugar legal.  Este ano ele escolheu o restaurante italiano Zafferano de tanto ouvir falar no nosso blog parceiro [Onde Comer em Salvador](http://ondecomeremsalvador.com.br/zafferano/ "Site - blog parceiro") e a sugestão foi ótima. Chegamos por volta das 12:30, o restaurante tinha algumas mesas vazias, apesar de pequeno o ambiente, e ainda estava tudo tranquilo. Mas foi sentar, fazer o pedido e aguardar por 15 minutos e quando olhei para o lado...BUM.. O restaurante estava super movimentado e com uma filinha de espera.

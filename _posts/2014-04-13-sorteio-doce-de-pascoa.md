@@ -9,6 +9,8 @@ tags:
   - "sorte"
   - "sorteio"
 image: "/assets/img/2014/04/destaque-sorteio.jpg"
+redirect_from:
+  - "/sorteio-doce-de-pascoa/"
 ---
 
 Galera,

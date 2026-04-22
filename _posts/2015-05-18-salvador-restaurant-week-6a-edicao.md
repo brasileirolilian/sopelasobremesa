@@ -11,6 +11,8 @@ tags:
   - "salvador"
   - "week"
 image: "/assets/img/2015/05/10635811_734124783309021_6739358254881420803_n.jpg"
+redirect_from:
+  - "/salvador-restaurant-week-6a-edicao/"
 ---
 
 **6ª EDIÇÃO DA SALVADOR RESTAURANT WEEK COMEÇA AGORA, EM MAIO** _O festival mais democrático do mundo acontece durante 3 semanas nos melhores restaurantes da capital baiana_

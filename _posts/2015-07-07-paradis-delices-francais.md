@@ -16,6 +16,8 @@ tags:
   - "patisserie-2"
   - "sao-paulo"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/paradis-delices-francais/"
 ---
 
 _por: **Gabi Martinez - [Onde Comer em Salvador](http://ondecomeremsalvador.com.br/)**  e do **@ondecomeremsaopaulo**_

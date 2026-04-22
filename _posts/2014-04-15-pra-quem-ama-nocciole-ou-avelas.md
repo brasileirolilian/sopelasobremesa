@@ -20,6 +20,8 @@ tags:
   - "torta"
   - "tuille"
 image: "/assets/img/2014/04/IMG_0483-2-e1397912841215.jpg"
+redirect_from:
+  - "/pra-quem-ama-nocciole-ou-avelas/"
 ---
 
 Nocciola em italiano significa avelã.

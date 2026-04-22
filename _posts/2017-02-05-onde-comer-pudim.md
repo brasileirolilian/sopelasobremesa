@@ -19,6 +19,8 @@ tags:
   - "sobremesa"
   - "taste"
 image: "/assets/img/2017/02/IMG_37641-400x400.png"
+redirect_from:
+  - "/onde-comer-pudim/"
 ---
 
 _Como você prefere o seu **PUDIM**: com furinhos ou sem furinhos?!_

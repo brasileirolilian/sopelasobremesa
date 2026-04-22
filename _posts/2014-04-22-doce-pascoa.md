@@ -16,6 +16,8 @@ tags:
   - "pascoa"
   - "trufinhas"
 image: "/assets/img/2014/04/IMG_0847.jpg"
+redirect_from:
+  - "/doce-pascoa/"
 ---
 
 Deixei pra saborear meus Ovos de Páscoa na volta da viagem...

@@ -18,6 +18,8 @@ tags:
   - "torta"
   - "vodka"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/vive-la-revolution-grey-goose/"
 ---
 
 Fui convidada no último dia 18/09 para um evento da **Grey Goose** em parceria com a **Granulado Café e Bistrô**. O evento reuniu alguns convidados, entre foodblogs e jornalistas, para o lançamento de novos drinks feitos com a vodka francesa

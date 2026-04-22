@@ -19,6 +19,8 @@ tags:
   - "zero-gluten"
   - "zero-lactose"
 image: "/assets/img/2014/05/blog-maes-2-1.jpg"
+redirect_from:
+  - "/doce-dia-das-maes-delidicas/"
 ---
 
 Dia das Mães se aproximando, mas ainda dá tempo fazer encomendas deli delis para adoçar o dia mais especial do ano!

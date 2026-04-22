@@ -23,6 +23,8 @@ tags:
   - "signature-caprese"
   - "sobremesa"
 image: "/assets/img/2017/07/IMG_8334.jpg"
+redirect_from:
+  - "/mc-donalds-menu-de-inverno-2017/"
 ---
 
 No dia 26 de junho, nossos colabs Larissa Sena & Lucas Locciola, conferiram em São Paulo, à convite da rede de fast food **Mc Donald's** e da agência DM9DDB, os novos lançamentos de inverno. Novidades deliciosas que nenhum foodaholic pode perder.

@@ -17,6 +17,8 @@ tags:
   - "petit-gateau"
   - "sobremesas-2"
 image: "/assets/img/2014/03/destque.jpg"
+redirect_from:
+  - "/o-pao-da-amizade/"
 ---
 
 "Que a nossa amizade cresça feito um pão fofinho ..."

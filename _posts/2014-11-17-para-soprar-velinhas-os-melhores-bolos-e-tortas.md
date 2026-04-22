@@ -26,6 +26,8 @@ tags:
   - "tapioca"
   - "tortas"
 image: "/assets/img/2014/03/destaque3.jpg"
+redirect_from:
+  - "/para-soprar-velinhas-os-melhores-bolos-e-tortas/"
 ---
 
 Todos os anos celebramos nosso aniversário, data na qual chegamos ao mundo e fazemos sempre questão de comemorar, por mais um ano que conseguimos vencer. Para àquelas pessoas que gostam de motivos de comemorar, seja com um jantar, uma festa, almoço ou happy hour. Seja com viagens ou festança. À dois, em família ou sozinho.  O que importa é não deixar passar em branco e o símbolo que mais representa a celebração de um aniversário é o Bolo!

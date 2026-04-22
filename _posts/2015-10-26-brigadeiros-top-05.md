@@ -13,6 +13,8 @@ tags:
   - "fit"
   - "sobremesa"
 image: "/assets/img/2015/10/destaque-brigadeiros.jpg"
+redirect_from:
+  - "/brigadeiros-top-05/"
 ---
 
 Como é que eu ainda não tinha reunido alguns dos melhores brigadeiros em um post só?!

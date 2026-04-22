@@ -20,6 +20,8 @@ tags:
   - "torre-eiffel"
   - "woody"
 image: "/assets/img/2014/04/IMG_0551.jpg"
+redirect_from:
+  - "/paris-je-taime/"
 ---
 
 Eu não escondo de ninguém que amo Paris, sim amo meu Brasil, amo o Rio, amo minha cidade - Salvador.

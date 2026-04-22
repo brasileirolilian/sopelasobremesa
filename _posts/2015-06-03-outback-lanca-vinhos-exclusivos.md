@@ -13,6 +13,8 @@ tags:
   - "vinhos"
   - "wine"
 image: "/assets/img/2015/06/destaque-outback-vinhos.jpg"
+redirect_from:
+  - "/outback-lanca-vinhos-exclusivos/"
 ---
 
 _Rótulos Red Selection e White Selection são produzidos em Mendoza especialmente para harmonizar com os pratos de sabor marcante dos restaurantes Outback._

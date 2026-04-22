@@ -12,6 +12,8 @@ tags:
   - "marigold"
   - "sorria"
 image: "/assets/img/2015/05/blog-so-vim-pela-sobremesa-dicas-filmes-dia-das-maes.jpg"
+redirect_from:
+  - "/dia-das-maes-um-cineminha-em-boa-companhia/"
 ---
 
 Um cineminha no final de semana cai super bem, né?!

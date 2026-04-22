@@ -20,6 +20,8 @@ tags:
   - "sao-paulo"
   - "sedex"
 image: "/assets/img/2014/04/IMG_0214-e1397013868104.jpg"
+redirect_from:
+  - "/um-mimo-com-sabor-chamado-misses-brownie/"
 ---
 
 Genteeee,

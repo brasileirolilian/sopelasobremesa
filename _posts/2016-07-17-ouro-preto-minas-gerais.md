@@ -13,6 +13,8 @@ tags:
   - "sobremesas-2"
   - "viagem"
 image: "/assets/img/2016/07/destaque-1.jpg"
+redirect_from:
+  - "/ouro-preto-minas-gerais/"
 ---
 
 _Essa é a parte 03 daquele post do Carnaval deste ano que fiz, começando por BH, lembram?!._ 
