@@ -10,7 +10,7 @@ tags:
   - "bulgara"
   - "chocolate"
   - "torta"
-coverImage: "/assets/img/2014/05/destaque-com-nome.jpg"
+image: "/assets/img/2014/05/destaque-com-nome.jpg"
 ---
 
 (Demorou, mas esse ranking saiu!)

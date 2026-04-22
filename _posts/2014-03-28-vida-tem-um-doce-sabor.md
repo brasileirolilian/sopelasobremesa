@@ -7,7 +7,7 @@ categories:
 tags: 
   - "ambrosia"
   - "doce-de-leite"
-coverImage: "/assets/img/2014/03/IMG_9791.jpg"
+image: "/assets/img/2014/03/IMG_9791.jpg"
 ---
 
 Eu descobri que a vida tem sabor e este sabor é doce...

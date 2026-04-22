@@ -26,7 +26,7 @@ tags:
   - "pao-doce"
   - "sonho-de-padaria"
   - "sonho-de-padaria"
-coverImage: "/assets/img/2018/05/IMG_8466.jpg"
+image: "/assets/img/2018/05/IMG_8466.jpg"
 ---
 
 _Primo da Bola de Berlim (Berliner) - uma receita originalmente alemã, os **Sonhos de Padaria** é um pão doce em forma de bolinha, e recebe um recheio bem cremoso. Sua comercialização no Brasil se deu no início do séc. XX, nas padarias de São Paulo, devido às sobras de massa._

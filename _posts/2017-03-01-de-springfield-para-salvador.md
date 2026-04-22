@@ -20,7 +20,7 @@ tags:
   - "springfield"
   - "sweet"
   - "the-simpsons"
-coverImage: "/assets/img/2017/03/blog2-e1488329804398.jpg"
+image: "/assets/img/2017/03/blog2-e1488329804398.jpg"
 ---
 
 Quem ama **DONUTS** \- as famosas rosquinhas americanas - levanta a mão!!!!

@@ -10,7 +10,7 @@ tags:
   - "vinhos"
   - "vinicola"
   - "wines"
-coverImage: "/assets/img/2014/09/Domno.jpg"
+image: "/assets/img/2014/09/Domno.jpg"
 ---
 
 Pelo segundo ano, o grupo Famiglia Valduga reunirá convidados no restaurante do Yacht Clube da Bahia para promover o Valduga Gallery Wine, com apresentação e degustação de vinhos e espumantes das marcas Casa Valduga e Domno e de produtos da Casa Madeira. O evento, que já passou por São Paulo, Florianópolis e Joinville, será realizado em Salvador no dia 16 de setembro e terá como anfitrião o enólogo e sócio-proprietário do grupo, João Valduga.

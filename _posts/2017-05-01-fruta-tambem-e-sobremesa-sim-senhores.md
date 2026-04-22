@@ -36,7 +36,7 @@ tags:
   - "torta-de-limao"
   - "verrine"
   - "yogurt-frozen"
-coverImage: "/assets/img/2017/05/IMG_1689-e1493655307428.jpg"
+image: "/assets/img/2017/05/IMG_1689-e1493655307428.jpg"
 ---
 
 Quem disse que fruta não é sobremesa, ou perdeu o juízo ou sabe ver a doçura por um outro ponto de vista.

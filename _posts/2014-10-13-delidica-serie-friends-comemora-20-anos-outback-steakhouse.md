@@ -9,7 +9,7 @@ tags:
   - "friends"
   - "los-angeles"
   - "outback"
-coverImage: "/assets/img/2014/10/destaque-outback-e-friends.jpg"
+image: "/assets/img/2014/10/destaque-outback-e-friends.jpg"
 ---
 
 Imperdível como as temporadas da famosa série, a promoção traz combo especial e leva fãs aos estúdios da Warner na Califórnia A Warner Channel e o Outback Steakhouse se juntam para celebrar o 20º aniversário do fenômeno Friends e convidam os apaixonados pela série televisiva para compartilhar este momento com os amigos. A ação, que tem o apoio da Bassi — linha de cortes selecionados da Marfrig Global Foods — **acontece entre 13 de outubro e 19 de novembro, de domingo a quarta-feira, a partir das 18h**, quando o Outback servirá um combo especial para dois amigos com duas saladas, dois steaks e dois acompanhamentos por R$ 67. **E as surpresas não param por aí:** _na compra do combo promocional no Outback, cada cliente recebe uma raspadinha exclusiva_ com um número para ser cadastrado no site www.outback.com.br/friends. _O vencedor terá a oportunidade de visitar, com um acompanhante, os estúdios da Warner em Burbank, Califórnia, onde foram gravados todos os episódios de Friends e outras grandes séries da televisão como Two and a half men e The Big Bang Theory. O regulamento completo pode ser conferido no site da promoção._

@@ -15,7 +15,7 @@ tags:
   - "pizzaria"
   - "sobremesas-2"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque2.jpg"
+image: "/assets/img/2014/03/destaque2.jpg"
 ---
 
 A Fratello é uma pizzaria pequenina na Graça. Pequena, mas aconchegante com un menù perfetto.

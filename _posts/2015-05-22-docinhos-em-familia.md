@@ -12,7 +12,7 @@ tags:
   - "homens-gourmet"
   - "palha-italiana"
   - "tortinhas"
-coverImage: "destaque-açucareiro.jpg"
+image: "destaque-açucareiro.jpg"
 ---
 
 **#DoceNEWS**

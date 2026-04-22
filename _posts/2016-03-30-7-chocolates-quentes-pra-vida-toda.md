@@ -10,7 +10,7 @@ tags:
   - "chocolate-quente"
   - "doces"
   - "sobremesa"
-coverImage: "/assets/img/2016/03/destaque-01.jpg"
+image: "/assets/img/2016/03/destaque-01.jpg"
 ---
 
 **Chocolate é vida e quentinho então, nem se fala.**

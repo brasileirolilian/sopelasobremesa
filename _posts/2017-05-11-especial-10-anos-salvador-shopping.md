@@ -31,7 +31,7 @@ tags:
   - "surra-de-bolo"
   - "sweet"
   - "torta"
-coverImage: "/assets/img/2017/05/IMG_3867-1-e1494462149447.jpg"
+image: "/assets/img/2017/05/IMG_3867-1-e1494462149447.jpg"
 ---
 
 Aniversário que é aniversário não pode faltar bolo. Né verdade?!

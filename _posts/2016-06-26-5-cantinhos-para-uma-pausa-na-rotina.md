@@ -19,7 +19,7 @@ tags:
   - "lugares"
   - "quitutes"
   - "sobremesas-2"
-coverImage: "/assets/img/2016/06/DESTAQUE.jpg"
+image: "/assets/img/2016/06/DESTAQUE.jpg"
 ---
 
 Sabe aqueles dias em que precisa dar um break na rotina e apenas curtir um momento saboroso? E a gente só quer aquele cantinho acolhedor em que podemos saborear alguma coisa gostosinha?

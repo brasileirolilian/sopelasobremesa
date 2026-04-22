@@ -10,7 +10,7 @@ tags:
   - "musica"
   - "praca-do-mercado"
   - "salvador"
-coverImage: "/assets/img/2014/03/destque.jpg"
+image: "/assets/img/2014/03/destque.jpg"
 ---
 
 Quem acha que comida e música não podem andar de mãos dadas?!

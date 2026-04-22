@@ -11,7 +11,7 @@ tags:
   - "doces"
   - "lugares"
   - "natureza"
-coverImage: "/assets/img/2014/03/destaque2.jpg"
+image: "/assets/img/2014/03/destaque2.jpg"
 ---
 
 _Aaaaah! Como não suspirar ao falar da **Chapada Diamantina**, terra de meus ancestrais, terra de painho e mainha, terra de riquezas, de cultura, histórias, diamantes, grutas, cachoeiras e de uma gastronomia ímpar. Da minha infância, adolescência...das descobertas, dos encontros e reencontros._

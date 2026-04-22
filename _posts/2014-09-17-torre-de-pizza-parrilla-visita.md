@@ -11,7 +11,7 @@ tags:
   - "mascarpone"
   - "sobremesas-2"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.jpg"
 ---
 
 No última dia 09 desse mês, fui convidada para conhecer o novo restaurante da rede Torre de Pizza, o Torre de Pizza Parrilla, com um novo conceito onde a casa oferta corte de carnes nobres feitos na parrilla argentina. No sistema soft opening, o restaurante funciona num espaço super elegante do Mais Hotel Bahia, localizado em Buraquinho,  Lauro de Freitas, região metropolitana de Salvador.

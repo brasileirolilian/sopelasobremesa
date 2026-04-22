@@ -15,7 +15,7 @@ tags:
   - "sobremesa"
   - "sorvete-de-creme"
   - "special-beer"
-coverImage: "/assets/img/2015/05/destaque-carro-de-boi-fruit-beer.jpg"
+image: "/assets/img/2015/05/destaque-carro-de-boi-fruit-beer.jpg"
 ---
 
 O Carro de Boi é um restaurante de comida regional nordestina, famoso na capital baiana, pelo seu pernil de cordeiro, pela sua galinha caipira e pela famosa ambrosia com gostinho de doce de vó.

@@ -13,7 +13,7 @@ tags:
   - "merlot"
   - "vinhos"
   - "vinhos-de-sobremesa"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 No último dia 26 tive a oportunidade de conhecer o Seu Eduardo, Sommelier e responsável pela Gaya Importadora (antes, conhecida como Casa Malbec). A loja muito bem localizada, tem um espaço amplo e arejado com prateleiras e mais prateleiras de uma das bebidas mais antigas do mundo: Vinho. E foi rodeado de muito sabores, tipos de uvas e grandes rótulos que tivemos um papo super agradável pelo universo enogastronômico, que vem a cada dia ganhando mais admiradores, influenciando o turismo e enobrecendo paladares.

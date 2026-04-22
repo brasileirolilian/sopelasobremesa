@@ -10,7 +10,7 @@ tags:
   - "passeio"
   - "preta-restaurante"
   - "sobremesa"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Localizado na Praia de Botelho, na Ilha de Maré, o restaurante Preta vale uma travessia bem interessante e uma visita num dia radiante de sol.

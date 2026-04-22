@@ -10,7 +10,7 @@ tags:
   - "receitas"
   - "sabores"
   - "tiramisu"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Sobre o livro 'ESCOLA DE SABORES' da autora Erica Bauermeister, vou ter que ser bem sincera: eu sou apaixonada por gastronomia, comer e cozinhar, mas ao ler na síntese do livro que a personagem principal, ou melhor guia, se chamava Lillian, claro que eu tinha que comprar. É como se contasse a minha história, daqui a uns..sei lá.. 10 anos.

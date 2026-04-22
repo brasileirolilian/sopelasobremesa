@@ -23,7 +23,7 @@ tags:
   - "trouxinha"
   - "trufa"
   - "viena"
-coverImage: "/assets/img/2014/04/IMG_0364-2-e1397758050374.jpg"
+image: "/assets/img/2014/04/IMG_0364-2-e1397758050374.jpg"
 ---
 
 "Nossaaaa, parece salinha de casa de boneca... Que lindaaaa...minha cara!"

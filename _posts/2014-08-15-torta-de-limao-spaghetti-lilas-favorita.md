@@ -10,7 +10,7 @@ tags:
   - "pave"
   - "sobremesas-2"
   - "torta-de-limao"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Eis minha torta gelada favorita: Torta de Limão - doce, azedinha, refrescante e leve. E desde a minha primeira colherada na Torta de Limão do Restaurante a quilo Spaghetti Lilás, se tornou a melhor da melhor.

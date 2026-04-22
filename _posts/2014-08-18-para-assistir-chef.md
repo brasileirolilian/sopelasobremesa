@@ -15,7 +15,7 @@ tags:
   - "filme"
   - "new-orleans"
   - "sanduiches-cubanos"
-coverImage: "/assets/img/2014/08/destaque-post-CHEF.jpg"
+image: "/assets/img/2014/08/destaque-post-CHEF.jpg"
 ---
 
 A dica da semana para uma boa sessão de cinema: CHEF (El Jefe) Dirigido e estrelado por Jon Favreau, além de Sofia Vergara, Oliver Platt e Scarlett Johansson; com participação de Dustin Hoffman e Robert Downey Jr.; o filme nos traz a história de um Chef de Cozinha de um restaurante badalado de Los Angeles que após a critica de um foodblogger acaba sendo demitido. O primeiro plot point acontece com uma briga entre o Chef e o Crítico no qual trocam ofensas pelo Twitter e as menagens se tornam um viral.

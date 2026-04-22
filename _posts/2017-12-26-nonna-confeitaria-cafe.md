@@ -22,7 +22,7 @@ tags:
   - "sobremesa"
   - "sweet"
   - "tortas"
-coverImage: "/assets/img/2017/12/IMG_5672.jpg"
+image: "/assets/img/2017/12/IMG_5672.jpg"
 ---
 
 Sabe aquele lugar super aconchegante, que quando a gente tá nos sentimos em casa? Na **Nonna Confeitaria & Café** é assim...

@@ -10,7 +10,7 @@ tags:
   - "if-i-stay"
   - "movie"
   - "seu-eu-ficar"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Relutei muito para dedicar quase duas horas do meu tempo ao longa **'Se Eu Ficar'**.

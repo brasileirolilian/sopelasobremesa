@@ -13,7 +13,7 @@ tags:
   - "inverno"
   - "sequilho"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/06/IMG_2571.jpg"
+image: "/assets/img/2014/06/IMG_2571.jpg"
 ---
 
 ...sobremesas que aquecem a alma!

@@ -5,7 +5,7 @@ categories:
   - "sobremesas"
 tags: 
   - "chocolate"
-coverImage: "/assets/img/2014/03/chocolate-derretido.jpg"
+image: "/assets/img/2014/03/chocolate-derretido.jpg"
 ---
 
 Pra quem não sabe, hoje é o DIA MUNDIAL DO CHOCOLATE (amém!)

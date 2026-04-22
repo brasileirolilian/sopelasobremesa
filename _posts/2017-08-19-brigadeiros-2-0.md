@@ -14,7 +14,7 @@ tags:
   - "doces"
   - "sobremesa"
   - "sweet"
-coverImage: "/assets/img/2017/08/IMG_6417.jpg"
+image: "/assets/img/2017/08/IMG_6417.jpg"
 ---
 
 Brigadeiro é a paixão nacional, né mesmo môres?!

@@ -14,7 +14,7 @@ tags:
   - "ristorante"
   - "tiramisu"
   - "torta-de-maca"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 O **Alfredo di Roma** é um dos restaurantes tradicionais italiano na capital baiana. Sua história remota desde 1910 quando Alfredo di Lélio e 'L’Originale Alfredo di Roma Ristorante' tornou tradição a dinastia do Fettuccine. Em 1927, o sucesso e ascensão é tamanha que expande para Roma (ITA), Nova Iorque (EUA), Cidade do México (MEX) e Salvador (BRA).

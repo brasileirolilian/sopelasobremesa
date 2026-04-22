@@ -10,7 +10,7 @@ tags:
   - "docura"
   - "sobremesas-2"
   - "tasty-list"
-coverImage: "/assets/img/2015/05/revista-donna-destaque.jpg"
+image: "/assets/img/2015/05/revista-donna-destaque.jpg"
 ---
 
 Quem não gosta de brownie?

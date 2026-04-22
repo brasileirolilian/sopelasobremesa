@@ -12,7 +12,7 @@ tags:
   - "sobremesa"
   - "tapioca"
   - "torta"
-coverImage: "/assets/img/2016/04/destaque-torta.jpg"
+image: "/assets/img/2016/04/destaque-torta.jpg"
 ---
 
 Não sou de fazer postagens assim, mas sabe quando você acorda e não entende essa vã filosofia da vida?

@@ -14,7 +14,7 @@ tags:
   - "o-melhor-amigo-da-noiva"
   - "pra-assistir"
   - "sobremesa"
-coverImage: "/assets/img/2014/10/destaque-made-of-honor.jpg"
+image: "/assets/img/2014/10/destaque-made-of-honor.jpg"
 ---
 
 Seguindo a linha comédia romântica, **O Melhor Amigo da Noiva** traz a tela Patrick Dempsey e Michelle Monaghan no papel do casal principal da trama. A história como o título já sugere tem Tom e Hannah como amigos desde a época da faculdade. Ele como o cara popular e sedutor, rico e desprendido com os seus "amores"; ela como uma garota inteligente e estudiosa e muito romântica.

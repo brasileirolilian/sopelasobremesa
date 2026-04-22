@@ -15,7 +15,7 @@ tags:
   - "kitkat"
   - "namorados"
   - "torta"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Com a data mais romântica do ano se aproximando, nada melhor do que um Concurso Cultural para os enamorados, heim?!

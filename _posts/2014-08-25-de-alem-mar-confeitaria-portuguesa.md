@@ -15,7 +15,7 @@ tags:
   - "queijada"
   - "quitutes"
   - "tarte-de-amendoas"
-coverImage: "/assets/img/2014/07/destaque6.jpg"
+image: "/assets/img/2014/07/destaque6.jpg"
 ---
 
 "Pelas terras de "além-mar", em um país com tão vasto litoral, encontramos as melhores receitas que o Atlântico pode oferecer, de pratos onde reina, soberano, o bacalhau. Cabe ainda um capítulo especial: a doçaria portuguesa, misturas consagradas de açúcar, ovos, amêndoas, especiarias, natas...Nas cozinhas de Portugal, história, cultura e sabor se misturam e confundem. Comidas trazem lembranças e sentimentos." (Trecho da apresentação no site www.dealemmar.com.br)

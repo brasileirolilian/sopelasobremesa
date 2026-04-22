@@ -8,7 +8,7 @@ tags:
   - "brownie"
   - "chantilly"
   - "sorvete"
-coverImage: "/assets/img/2014/04/IMG_9898-e1396559009456.jpg"
+image: "/assets/img/2014/04/IMG_9898-e1396559009456.jpg"
 ---
 
 E quem disse que segunda-feira não é dia de happy hour com a tchurma?!

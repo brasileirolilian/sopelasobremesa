@@ -23,7 +23,7 @@ tags:
   - "sobremesa"
   - "sonhos"
   - "sweets"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Adoro chegar em casa e ter me esperando na portaria uma caixa com algum doce mimo.  E eis que em um desses retornos pra casa, após o inteiro de trabalho e  questões administrativas para resolver, tinha a minha espera uma caixa grande pesada e recheada com algum delicioso mimo.

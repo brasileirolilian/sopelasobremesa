@@ -10,7 +10,7 @@ tags:
   - "filme-brasileiro"
   - "o-vendedor-de-passados"
   - "pipoca-doce"
-coverImage: "/assets/img/2015/05/destque-o-vendedor-de-passados.jpg"
+image: "/assets/img/2015/05/destque-o-vendedor-de-passados.jpg"
 ---
 
 O que você faria se pudesse deletar as lembranças dolorosas do passado?

@@ -12,7 +12,7 @@ tags:
   - "pelotas"
   - "quindim"
   - "sobremesa"
-coverImage: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.jpg"
 ---
 
 (até que enfim saiu esse post, rsrsrsrsrs)

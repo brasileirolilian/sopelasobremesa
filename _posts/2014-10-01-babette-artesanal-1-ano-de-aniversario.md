@@ -16,7 +16,7 @@ tags:
   - "pao"
   - "receitas"
   - "sobremesa"
-coverImage: "/assets/img/2014/10/MG_9521-Baixa.jpg"
+image: "/assets/img/2014/10/MG_9521-Baixa.jpg"
 ---
 
 No mês de Setembro a Babette Artesanal completou 1 ano de aniversário e para celebrar, a Maria - responsável por tudo que sai do forno da Babette desafiou a gente do Só Vim Pela Sobremesa e o [Onde Comer em Salvador](http://ondecomeremsalvador.com.br/ "blog parceiro!") à participar de uma brincadeira divertida.

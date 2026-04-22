@@ -12,7 +12,7 @@ tags:
   - "pastel-de-nata"
   - "seis-tumulos-para-munique"
   - "thriller"
-coverImage: "destque-seis-túmulos.jpg"
+image: "destque-seis-túmulos.jpg"
 ---
 
 #DesafioDoceLeitura

@@ -12,7 +12,7 @@ tags:
   - "morango"
   - "torta"
   - "vanilla"
-coverImage: "/assets/img/2014/03/destaque5.jpg"
+image: "/assets/img/2014/03/destaque5.jpg"
 ---
 
 Eu conheço a Doce Vanilla já tem um tempo, mas ainda não tinha saboreado nada depois que passei a escrever no blog. Então, em um dia passeando pelo Shopping Paralela, coisa que  raramente faço, já que o shopping é muito distante da minha  residência, descobri que tinha uma unidade da doceria. Como estava com uma certa pressa, resolvi voltar numa outra oportunidade só para fazer uma visita ao estabelecimento e provar algumas tortas e docinhos que a casa oferta.

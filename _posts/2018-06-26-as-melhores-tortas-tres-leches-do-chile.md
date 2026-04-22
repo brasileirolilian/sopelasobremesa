@@ -24,7 +24,7 @@ tags:
   - "torta"
   - "torta-tres-leches"
   - "trilece"
-coverImage: "/assets/img/2018/06/IMG_6384.jpg"
+image: "/assets/img/2018/06/IMG_6384.jpg"
 ---
 
 _Quem não ama um bolo bem feito? Ao chegar em Santiago, descobri que em praticamente todo menu de restaurantes, docerias e lanchonetes, aparecia na parte de Bolos e doces, a tal da **Torta Tres Leches**, e depois de muito conversar com um e com outro, descobri que este tipo de bolo é bem aclamado pelas bandas de cá._ 

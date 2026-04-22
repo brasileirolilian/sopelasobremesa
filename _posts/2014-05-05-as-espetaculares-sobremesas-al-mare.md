@@ -20,7 +20,7 @@ tags:
   - "petit-gateau"
   - "sobremesa"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Falando sério: não sou fã do Homem-Aranha, Superman e Batman (este último só gosto dos antigos - 1989 a 1997) , prefiro a linha dos X-Men e Vingadores, mas nada contra, o filme _O Espetacular Homem-Aranha 2: A Ameaça de Electro_ é cheio de efeitos interessantes, cenas engraçadas e uma em especial bem emocionante, porém não é um filme que iria assistir sozinha, fui para acompanhar o meu garoto.

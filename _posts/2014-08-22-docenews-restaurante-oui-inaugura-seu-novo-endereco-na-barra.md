@@ -8,7 +8,7 @@ tags:
   - "news-2"
   - "oui"
   - "restaurante"
-coverImage: "/assets/img/2014/08/OUI-04.jpg"
+image: "/assets/img/2014/08/OUI-04.jpg"
 ---
 
 Aberto desde o início de agosto em sistema de soft opening, o restaurante francês OUI vai inaugurar oficialmente seu novo endereço, na Rua Dom Marcos Teixeira, com um jantar exclusivo para convidados: terça-feira, dia 26, a partir das 20h, na Barra. Na programação, os empresários Maria Carmem Barros e Fred Barreto de Araujo apresentam o espaço, dividido em térreo e mezanino, com capacidade para receber até 100 clientes simultaneamente.

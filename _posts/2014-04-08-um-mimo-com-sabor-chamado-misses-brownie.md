@@ -19,7 +19,7 @@ tags:
   - "potinho"
   - "sao-paulo"
   - "sedex"
-coverImage: "/assets/img/2014/04/IMG_0214-e1397013868104.jpg"
+image: "/assets/img/2014/04/IMG_0214-e1397013868104.jpg"
 ---
 
 Genteeee,

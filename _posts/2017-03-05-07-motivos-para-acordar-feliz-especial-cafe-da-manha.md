@@ -31,7 +31,7 @@ tags:
   - "salvador"
   - "sheraton-da-bahia"
   - "zank"
-coverImage: "/assets/img/2017/03/IMG_9666-1-e1488750583724.jpg"
+image: "/assets/img/2017/03/IMG_9666-1-e1488750583724.jpg"
 ---
 
 Tem motivo melhor do que acordar para se empanturrar no café da manhã?! Fala sério: quem não ama aquele banquete com tudo o que há de bom, pra começar o dia bem e cheio de delicias?!

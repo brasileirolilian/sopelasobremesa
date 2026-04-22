@@ -19,7 +19,7 @@ tags:
   - "syrah"
   - "vinho"
   - "wine"
-coverImage: "/assets/img/2017/05/IMG_4871-e1495759135227.jpg"
+image: "/assets/img/2017/05/IMG_4871-e1495759135227.jpg"
 ---
 
 Mais aconchegante, mais sofisticada e ampla. A nova adega **Perini** da unidade Pituba possui mais de 900 rótulos, entre vinhos, destilados e cervejas especiais.

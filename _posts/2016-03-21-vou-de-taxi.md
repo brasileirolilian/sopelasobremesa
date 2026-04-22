@@ -9,7 +9,7 @@ tags:
   - "outback"
   - "restaurante"
   - "taxi"
-coverImage: "/assets/img/2016/03/destaque-vou-de-taxi.jpg"
+image: "/assets/img/2016/03/destaque-vou-de-taxi.jpg"
 ---
 
 **Drink do Outback dá desconto no táxi**

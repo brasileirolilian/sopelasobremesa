@@ -16,7 +16,7 @@ tags:
   - "sabores"
   - "sobremesa"
   - "verao"
-coverImage: "destaque-festival-gastro-itacaré.jpg"
+image: "destaque-festival-gastro-itacaré.jpg"
 ---
 
 #DoceNEWS #DeliDICA #Publieditorial

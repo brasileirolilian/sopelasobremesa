@@ -71,7 +71,7 @@ title:  "El título de mi artículo aquí"
 date:   2024-05-12 10:00:00 -0400
 categories: [ "Receitas", "Doces" ]
 author: "Lílian Brasileiro"
-coverImage: "/assets/img/nombre-de-mi-imagen.jpg"
+image: "/assets/img/nombre-de-mi-imagen.jpg"
 excerpt: "Este texto aparecerá como un pequeño resumen debajo del título en la tarjeta del post de la pantalla principal."
 ---
 ```
@@ -82,7 +82,7 @@ excerpt: "Este texto aparecerá como un pequeño resumen debajo del título en l
 *   **`title`**: El título de tu post (se leerá tal cual, asegúrate de escribirlo bien).
 *   **`date`**: La fecha y hora exactas de publicación. El sufijo `-0400` es la zona horaria.
 *   **`categories`**: Determina en qué filtro del menú de inicio y de la página "Categorías" aparecerá. Puedes colocar más de una separada por comas.
-*   **`coverImage`**: (Opcional pero muy recomendado). La ruta hacia la imagen principal que ilustrará la tarjeta de la página de inicio. Te aconsejo subir primero tus fotos a la carpeta `assets/img/`.
+*   **`image`**: (Opcional pero muy recomendado). La ruta hacia la imagen principal que ilustrará la tarjeta de la página de inicio. Te aconsejo subir primero tus fotos a la carpeta `assets/img/`.
 *   **`excerpt`**: (Opcional). Es el extracto de texto corto introductorio para las tarjetas de navegación.
 
 ### 3. Escribir el contenido

@@ -10,7 +10,7 @@ tags:
   - "chocolate"
   - "cookie"
   - "naked-brownie"
-coverImage: "/assets/img/2014/03/destaque4.jpg"
+image: "/assets/img/2014/03/destaque4.jpg"
 ---
 
 A Boo Brownie traz a Salvador o famoso bolo americano denso de chocolate com irresistíveis recheios, além de inová-lo com coberturas e outras delícias.

@@ -15,10 +15,10 @@ title: Categorías
       <div class="post-grid">
         {% for post in category[1] %}
         <article class="post-card group">
-          {% if post.coverImage %}
+          {% if post.image %}
           <div class="post-cover-wrapper">
             <a href="{{ post.url | relative_url }}">
-              <img src="{{ post.coverImage | relative_url }}" class="post-cover" alt="{{ post.title }}">
+              <img src="{{ post.image | relative_url }}" class="post-cover" alt="{{ post.title }}">
             </a>
           </div>
           {% endif %}

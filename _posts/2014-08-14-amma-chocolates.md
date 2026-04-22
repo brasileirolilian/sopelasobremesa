@@ -10,7 +10,7 @@ tags:
   - "chocolate"
   - "organico"
   - "sobremesa"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 AMMA em sânscrito significa Mãe. "A grande mãe Natureza, o amor universal, a energia que rege o cosmos, a semente de criação do mundo. A essência da vida. Amazônia e Mata Atlântica. Amor." Seguindo essas palavras, a AMMA Chocolates Orgânicos, transforma o fruto dos deuses (cacau) numa das sobremesas mais adoradas do mundo, o chocolate.

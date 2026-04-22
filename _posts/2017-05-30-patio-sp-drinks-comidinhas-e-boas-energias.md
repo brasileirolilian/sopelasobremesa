@@ -21,7 +21,7 @@ tags:
   - "pra-ir-de-galera"
   - "sao-paulo"
   - "sobremesa"
-coverImage: "/assets/img/2017/05/IMG_5249-e1496108502336.jpg"
+image: "/assets/img/2017/05/IMG_5249-e1496108502336.jpg"
 ---
 
 \[Se você mora em São Paulo ou tá indo passar uns dias na terra da garoa, se liga nesse post\]

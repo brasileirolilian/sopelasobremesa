@@ -16,7 +16,7 @@ tags:
   - "sobremesa"
   - "sorvete"
   - "torta"
-coverImage: "/assets/img/2014/07/IMG_2777.jpg"
+image: "/assets/img/2014/07/IMG_2777.jpg"
 ---
 
 Eu sou apaixonada por torta-bolo Baba de Moça, e pra quem não sabe o recheio e a calda do bolo é a base de gema.

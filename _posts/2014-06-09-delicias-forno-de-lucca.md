@@ -11,7 +11,7 @@ tags:
   - "macio"
   - "negresco"
   - "sorvete"
-coverImage: "/assets/img/2014/06/lucca-destaque.jpg"
+image: "/assets/img/2014/06/lucca-destaque.jpg"
 ---
 
 Do forno de Lucca saem delícias incríveis, incluindo o **Brownie de Negresco**, e isso pra mim é novidade!

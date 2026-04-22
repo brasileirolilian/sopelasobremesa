@@ -20,7 +20,7 @@ tags:
   - "salvador"
   - "sobremesas-2"
   - "sobremesas-afetivas"
-coverImage: "/assets/img/2018/05/619716F2-34CC-427F-A6AE-A964FEF1176B.jpeg"
+image: "/assets/img/2018/05/619716F2-34CC-427F-A6AE-A964FEF1176B.jpeg"
 ---
 
 _Em tempos que a modernidade tenta gritar mais alto, em tempos que o capitalismo tenta ditar o ritmo de vida da maior parte da população, pelo fast food e pela industrialização, p__ercebi um movimento muito particular de um número considerável de pessoas, e meu também, em busca das lembranças em forma de sabores que não encontramos mais no nosso dia a dia._

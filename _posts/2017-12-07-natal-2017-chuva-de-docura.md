@@ -27,7 +27,7 @@ tags:
   - "sobremesas-2"
   - "sucre"
   - "xmas"
-coverImage: "/assets/img/2017/12/IMG_9619.jpg"
+image: "/assets/img/2017/12/IMG_9619.jpg"
 ---
 
 Chegou uma das melhores épocas do ano: o Natal. E neste ano de 2017 o bicho vai pegar!

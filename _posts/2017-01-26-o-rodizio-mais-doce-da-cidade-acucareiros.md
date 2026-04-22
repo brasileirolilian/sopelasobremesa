@@ -20,7 +20,7 @@ tags:
   - "rodizio"
   - "sobremesas-2"
   - "tortas"
-coverImage: "açucareiros.jpg"
+image: "açucareiros.jpg"
 ---
 
 Falou em rodízio? e de doces? Pois bem, essa novidade ganhou os soteropolitanos quando os meninos da Açucareiros resolveram adoçar um final de semana em um rodízio com 20 opções de doces delícias. Entre brigadeiros, doces caseiros, tortas e outras delícias, a primeira edição aconteceu nos dias 10 e 11 de dezembro do ano passado (2016)

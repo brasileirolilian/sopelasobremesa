@@ -23,7 +23,7 @@ tags:
   - "sem-lactose"
   - "sobremesa"
   - "sobremesas-2"
-coverImage: "/assets/img/2017/11/Screen-Shot-2017-10-25-at-13.19.32-1.png"
+image: "/assets/img/2017/11/Screen-Shot-2017-10-25-at-13.19.32-1.png"
 ---
 
 O Cozinha Fit & Fat da Nath Araújo já apareceu por aqui pelo menos umas duas vezes, lá no nosso perfil do instagram mais não sei quantas vezes, e graças à ele, nesses 02 anos de sua existência nunca foi tão fácil preparar delícias em casa. Com receitinhas práticas, dicas super saudáveis e deixando mais divertido e descomplicado o preparo de saborosos pratos; resolvermos dedicar um post exclusivo com 03 receitas das sobremesas destaque do blog.

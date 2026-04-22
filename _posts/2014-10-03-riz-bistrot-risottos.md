@@ -17,7 +17,7 @@ tags:
   - "salada-de-frutas"
   - "sobremesas-2"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Conheci o Riz Bistrot & Risottos através da resenha do [Onde Comer em Salvador](http://ondecomeremsalvador.com.br/riz-bistrot-risottos/ "Resenha do Onde"), e depois da Gabi  autora do blog me contar sobre um risotto de chocolate como sobremesa no rodízio que a casa promove as terças-feiras, tive que ir conferir.

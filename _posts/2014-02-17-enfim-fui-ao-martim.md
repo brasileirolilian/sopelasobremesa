@@ -15,7 +15,7 @@ tags:
   - "sobremesas-2"
   - "sorvete"
   - "soufle"
-coverImage: "/assets/img/2014/03/foto-5-1-soufle-de-choco.jpg"
+image: "/assets/img/2014/03/foto-5-1-soufle-de-choco.jpg"
 ---
 
 O Martim Pescador é um dos mais novos restaurantes seafood e japanese de Salvador, que iniciou sua publicidade pelo insta e de tanto postar fotos dos pratos belíssimos atiçou a curiosidade de muitos, incluindo a minha.

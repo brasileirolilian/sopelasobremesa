@@ -12,7 +12,7 @@ tags:
   - "docinhos"
   - "editorial"
   - "sao-paulo"
-coverImage: "/assets/img/2015/06/destaque-paradis-sp-dia-dos-ados-2015.jpg"
+image: "/assets/img/2015/06/destaque-paradis-sp-dia-dos-ados-2015.jpg"
 ---
 
 Para os casais apaixonados da capital paulista, não poderia deixar de dar uma dica de uma doceria que sou apaixonada e é especializada em docinhos franceses.

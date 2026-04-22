@@ -27,7 +27,7 @@ tags:
   - "salvador"
   - "sobremesas-2"
   - "sorvete"
-coverImage: "/assets/img/2014/11/destaque-RW.jpg"
+image: "/assets/img/2014/11/destaque-RW.jpg"
 ---
 
 Nesse ano de 2014 Salvador teve duas edições do Restaurant Week, festival gastronômico presente em 15 cidades brasileiras, que reúne grandes restaurantes com a proposta de ofertar aos apreciadores de uma boa gastronomia um menu completo (entrada+prato principal+sobremesa) às preços democráticos e fixos.  Nessa segunda edição pude apreciar algumas opções, de uma linha mais regional passando por cardápios mais contemporâneos. Saboreei dos mais simples aos mais elaborados menus.

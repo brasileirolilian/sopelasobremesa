@@ -16,7 +16,7 @@ tags:
   - "mousse"
   - "pe-de-moleque"
   - "tiramisu"
-coverImage: "/assets/img/2014/03/destaque2.jpg"
+image: "/assets/img/2014/03/destaque2.jpg"
 ---
 
 #VaiTerCookies

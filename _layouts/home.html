@@ -25,9 +25,9 @@ layout: default
       </div>
     </div>
     <div class="hero-image-wrapper">
-      {% if featured_post.coverImage %}
+      {% if featured_post.image %}
       <a href="{{ featured_post.url | relative_url }}">
-        <img src="{{ featured_post.coverImage | relative_url }}" alt="{{ featured_post.title }}" class="hero-image">
+        <img src="{{ featured_post.image | relative_url }}" alt="{{ featured_post.title }}" class="hero-image">
       </a>
       {% endif %}
     </div>
@@ -43,10 +43,10 @@ layout: default
       <div class="post-grid">
         {% for post in remaining_posts limit: 3 %}
         <article class="post-card group">
-          {% if post.coverImage %}
+          {% if post.image %}
           <div class="post-cover-wrapper">
             <a href="{{ post.url | relative_url }}">
-              <img src="{{ post.coverImage | relative_url }}" class="post-cover" alt="{{ post.title }}">
+              <img src="{{ post.image | relative_url }}" class="post-cover" alt="{{ post.title }}">
             </a>
           </div>
           {% endif %}

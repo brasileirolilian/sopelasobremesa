@@ -13,7 +13,7 @@ tags:
   - "pacoca"
   - "sorvete"
   - "twix"
-coverImage: "/assets/img/2014/04/IMG_0299-e1397253956100.jpg"
+image: "/assets/img/2014/04/IMG_0299-e1397253956100.jpg"
 ---
 
 Segundo a Mitologia Grega, Ninfas são membros da categoria espíritos naturais femininos, ou seja Deusas, ligadas a um objeto ou local. Em resumo: fadas sem asas, leves e delicadas.

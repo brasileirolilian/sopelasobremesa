@@ -10,7 +10,7 @@ tags:
   - "doce-de-leite"
   - "empada-carioca"
   - "empadinha"
-coverImage: "/assets/img/2014/09/destaque7.jpg"
+image: "/assets/img/2014/09/destaque7.jpg"
 ---
 
 Eu adoro empada, pra mim é um dos salgados assados mais gostosos, e a versão doce me encanta cada vez mais.

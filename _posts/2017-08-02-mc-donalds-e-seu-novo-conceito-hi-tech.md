@@ -23,7 +23,7 @@ tags:
   - "sobremesa"
   - "sp"
   - "tablets"
-coverImage: "/assets/img/2017/08/IMG_9830.jpg"
+image: "/assets/img/2017/08/IMG_9830.jpg"
 ---
 
 A unidade Henrique Schaumann em São Paulo, de uma das maiores redes de fast food: o **Mc Donalds** ganhou um novo conceito no mês passado.

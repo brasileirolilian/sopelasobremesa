@@ -13,7 +13,7 @@ tags:
   - "cake"
   - "casa-de-bolos"
   - "top-5"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Quem não gosta de um Bolo Caseiro com gostinho de casa de vó?! Ou daquela pausa no meio da tarde para um cafezinho, com bolo e uma boa prosa?!

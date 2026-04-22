@@ -13,7 +13,7 @@ tags:
   - "self-service"
   - "sobremesa-brasil"
   - "torta-de-banana"
-coverImage: "/assets/img/2015/07/destaque-saude-brasil.jpg"
+image: "/assets/img/2015/07/destaque-saude-brasil.jpg"
 ---
 
 Sim, dá para ser saudável sem abrir mão da sobremesa e do docinho santo de todo dia. E seguindo essa linha, o Restaurante Saúde Brasil nos proporciona uma saborear sem culpa, pratos irresistíveis que enchem os olhos e o paladar, mas não pesam nossa consciência.

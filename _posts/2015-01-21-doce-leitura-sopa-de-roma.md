@@ -15,7 +15,7 @@ tags:
   - "receitas"
   - "roma"
   - "sopa-de-roma"
-coverImage: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.jpg"
 ---
 
 A dica hoje para uma leitura doce, leve e muito saborosa é o livro: _**'SOPA DE ROMÃ'**_; da autora Marsha Mehran, que segundo o jornal 'Orlando Sentinel' é "Um romance de dar água na boca, na tradição de _Chocolate_ e _Sob o sol de Toscana_."

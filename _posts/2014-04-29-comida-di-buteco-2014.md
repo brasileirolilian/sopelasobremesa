@@ -21,7 +21,7 @@ tags:
   - "skyy"
   - "sobremesa"
   - "vodka"
-coverImage: "/assets/img/2014/04/comidadibuteco-destaque.jpg"
+image: "/assets/img/2014/04/comidadibuteco-destaque.jpg"
 ---
 
 Mas é Comida di Buteco e não Sobremesa...

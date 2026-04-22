@@ -11,7 +11,7 @@ tags:
   - "sobremesa"
   - "torta"
   - "torta-alema"
-coverImage: "/assets/img/2014/03/destaque-2.jpg"
+image: "/assets/img/2014/03/destaque-2.jpg"
 ---
 
 acaso? coincidência? ou estava escrito nas estrelas?

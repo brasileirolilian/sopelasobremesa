@@ -14,7 +14,7 @@ tags:
   - "sorbet"
   - "sorvete"
   - "sorvete-assado"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Ontem tive uma das experiências mais incríveis ao provar algumas delícias com sabor totalmente brasileiro. Conheci a loja de sorvetes e picolés Frutos do Brasil, que há dois anos está localizada no Salvador Norte Shopping e é uma franquia de uma rede 100% brasileira.

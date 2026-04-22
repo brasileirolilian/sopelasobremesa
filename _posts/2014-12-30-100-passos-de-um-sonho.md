@@ -10,7 +10,7 @@ tags:
   - "gastronomia"
   - "para-assistir"
   - "pelicula"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 "Mas para cozinhar é preciso matar.. Criar fantasmas. Cozinha para criar fantasmas

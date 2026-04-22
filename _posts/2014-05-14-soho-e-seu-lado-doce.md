@@ -12,7 +12,7 @@ tags:
   - "ganache"
   - "harumakis"
   - "sorvete"
-coverImage: "/assets/img/2014/05/soho-destaque.jpg"
+image: "/assets/img/2014/05/soho-destaque.jpg"
 ---
 
 Por causa da indicação da melhor búlgara de Salvador, segundo nosso leitor/seguidor Matheus, e no último dia 09, fui conhecer as sobremesas do estabelecimento. Logo não resisti ao ler no cardápio o Mix de Sobremesas, que composto por: Torta Betina, Búlgara com creme de leite, potinho de Ganache de chocolate e Harumakis de Goiabada e Banana com açúcar e canela.

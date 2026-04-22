@@ -24,7 +24,7 @@ tags:
   - "salvador"
   - "sobremesa"
   - "verrine"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 _**O Pasta cresceu!**_

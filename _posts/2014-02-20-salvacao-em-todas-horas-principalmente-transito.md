@@ -13,7 +13,7 @@ tags:
   - "sem-gluten"
   - "sem-lactose"
   - "tapioca"
-coverImage: "/assets/img/2014/02/bolinhodetapioca1.jpg"
+image: "/assets/img/2014/02/bolinhodetapioca1.jpg"
 ---
 
 Ficar presa no trânsito ninguém merece, principalmente na hora do rush, horário em que a fome mais aperta né?

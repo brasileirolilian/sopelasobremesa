@@ -17,7 +17,7 @@ tags:
   - "receita"
   - "red-velvet"
   - "sobremesa"
-coverImage: "/assets/img/2018/02/IMG_6955.jpg"
+image: "/assets/img/2018/02/IMG_6955.jpg"
 ---
 
 _Traduzindo popularmente como Veludo Vermelho, o bolo americano **Red Velvet** tem se tornado pop pelo Brasil, e vem sendo um queridinho do momento._

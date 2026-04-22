@@ -10,7 +10,7 @@ tags:
   - "goiaba"
   - "sobremesa"
   - "sorvete"
-coverImage: "/assets/img/2014/03/bolo-de-rolo-destaque.jpg"
+image: "/assets/img/2014/03/bolo-de-rolo-destaque.jpg"
 ---
 
 Então a vida lhe presenteia com o que há de melhor: amigos, pessoas queridas, que tornam os nossos dias leves, doces e divertidos.

@@ -15,7 +15,7 @@ tags:
   - "paes"
   - "publieditorial"
   - "quitutes"
-coverImage: "/assets/img/2014/03/destque.jpg"
+image: "/assets/img/2014/03/destque.jpg"
 ---
 
 **#Publieditorial**

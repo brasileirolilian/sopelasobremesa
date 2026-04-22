@@ -11,7 +11,7 @@ tags:
   - "paraiso"
   - "sobremesas-2"
   - "variedade"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Inicialmente como uma loja de cortes de carnes diferenciados na cidade de Salvador, em 1980, o Mignon localizado no bairro da Graça, sempre teve um atendimento personalizado junto ao seus clientes.

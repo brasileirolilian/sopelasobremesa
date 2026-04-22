@@ -1,0 +1,19 @@
+{
+    "name": "Só vim pela sobremesa",
+    "short_name": "sopelasobremesa",
+    "icons": [
+        {
+            "src": "/assets/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/img/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fff9ec",
+    "background_color": "#f6eed5",
+    "display": "standalone"
+}

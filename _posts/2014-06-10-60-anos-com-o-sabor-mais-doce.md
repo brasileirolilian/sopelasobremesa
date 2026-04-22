@@ -16,7 +16,7 @@ tags:
   - "pudim"
   - "sobremesa"
   - "sorvete"
-coverImage: "/assets/img/2014/06/IMG_2006.jpg"
+image: "/assets/img/2014/06/IMG_2006.jpg"
 ---
 
 Minha mãe completou 60 anos. São os 60 mais doces que pude ver-  leves, alegres, suaves e fortes.

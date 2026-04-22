@@ -25,7 +25,7 @@ tags:
   - "soprar-as-velinhas"
   - "tapioca"
   - "tortas"
-coverImage: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.jpg"
 ---
 
 Todos os anos celebramos nosso aniversário, data na qual chegamos ao mundo e fazemos sempre questão de comemorar, por mais um ano que conseguimos vencer. Para àquelas pessoas que gostam de motivos de comemorar, seja com um jantar, uma festa, almoço ou happy hour. Seja com viagens ou festança. À dois, em família ou sozinho.  O que importa é não deixar passar em branco e o símbolo que mais representa a celebração de um aniversário é o Bolo!

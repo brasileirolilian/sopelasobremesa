@@ -9,7 +9,7 @@ tags:
   - "burnt"
   - "filme"
   - "gastronomia"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Não vou me ater e nem entrar no mérito técnico do filme. A história  retratada em **_Pegando Fogo_** (_Burnt_) é típica daquelas em que o personagem principal tem que se reerguer para alcançar o topo.

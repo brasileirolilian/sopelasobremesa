@@ -11,7 +11,7 @@ tags:
   - "padaria"
   - "religieuse"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Fui conhecer em pleno feriado de 01/05 a Pão do Horto - mais nova delicatessen e patisserie de Salvador, pela indicação de uma das nossas leitoras e seguidoras.

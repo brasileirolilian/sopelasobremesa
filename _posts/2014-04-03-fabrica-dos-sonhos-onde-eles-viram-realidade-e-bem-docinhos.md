@@ -11,7 +11,7 @@ tags:
   - "fabrica"
   - "sonhos"
   - "tortas"
-coverImage: "/assets/img/2014/04/FABRICA-e1397299133180.jpg"
+image: "/assets/img/2014/04/FABRICA-e1397299133180.jpg"
 ---
 
 Hoje tive a honra de conhecer a Fábrica dos Sonhos.

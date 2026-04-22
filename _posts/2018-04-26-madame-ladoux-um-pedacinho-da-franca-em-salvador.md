@@ -35,7 +35,7 @@ tags:
   - "sobremesa"
   - "sobremesas-2"
   - "tortas"
-coverImage: "/assets/img/2017/10/IMG_5816.jpg"
+image: "/assets/img/2017/10/IMG_5816.jpg"
 ---
 
 Com pouco mais de 1 ano e duas unidades na capital baiana, **Madame Ladoux** com suas doçuras vem conquistando os soteropolitanos, e até turistas que visitam a cidade de Salvador.

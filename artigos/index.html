@@ -1,15 +1,16 @@
 ---
 layout: default
 title: "Todos os Artigos"
+image: "/assets/img/share-image.png"
 ---
 
 <div class="post-grid articles-page-layout">
   {% for post in paginator.posts %}
   <article class="post-card group">
-    {% if post.coverImage %}
+    {% if post.image %}
     <div class="post-cover-wrapper">
       <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.coverImage | relative_url }}" class="post-cover" alt="{{ post.title }}">
+        <img src="{{ post.image | relative_url }}" class="post-cover" alt="{{ post.title }}">
       </a>
     </div>
     {% endif %}

@@ -9,7 +9,7 @@ tags:
   - "chocolate"
   - "cookies"
   - "doce"
-coverImage: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.jpg"
 ---
 
 Já fazia um tempinho que eu tinha ouvido falar da Miss Cookies - Biscoitos Finos, só não tinha tido oportunidade ainda de experimentar.

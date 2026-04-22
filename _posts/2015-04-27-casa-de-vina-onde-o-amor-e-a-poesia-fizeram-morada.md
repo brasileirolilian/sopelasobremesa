@@ -17,7 +17,7 @@ tags:
   - "tagliatelle"
   - "vinho"
   - "vinicius-de-moraes"
-coverImage: "/assets/img/2014/03/destque.jpg"
+image: "/assets/img/2014/03/destque.jpg"
 ---
 
 ...Hoje o sabor e a saudade reina...

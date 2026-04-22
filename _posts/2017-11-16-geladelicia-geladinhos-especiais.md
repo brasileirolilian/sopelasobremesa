@@ -20,7 +20,7 @@ tags:
   - "laranjinha"
   - "sacole"
   - "sobremesa"
-coverImage: "/assets/img/2017/11/IMG_8608.jpg"
+image: "/assets/img/2017/11/IMG_8608.jpg"
 ---
 
 _**Sacolé, Gelinho, Dindim, Chup chup, Flau, Geladinho....**_

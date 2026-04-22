@@ -13,7 +13,7 @@ tags:
   - "harmonizacao"
   - "sobremesa"
   - "sommelier-de-cerveja"
-coverImage: "/assets/img/2014/10/destaque-carro-de-boi.jpg"
+image: "/assets/img/2014/10/destaque-carro-de-boi.jpg"
 ---
 
 No sábado, 29/08, fomos convidados pelo **Restaurante Carro de Boi** e pelo **blog parceiro Gastronomia Salvador**, a fazer um passeio pelo universo das Cervejas Especiais. Através de uma Degustação Guiada, hamonizando petiscos, pratos principais e sobremesas com rótulos de cervas da sua Carta de Cervejas Especiais, que a casa aproveitou para lançar especialmente em primeira mão.

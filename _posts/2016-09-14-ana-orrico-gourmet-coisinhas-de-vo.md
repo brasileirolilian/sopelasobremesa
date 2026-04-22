@@ -31,7 +31,7 @@ tags:
   - "sequilhos"
   - "torta-crocante"
   - "vienense"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 No último final de semana, à convite de **Gabi** do _Onde Comer em Salvador_ e junto com **Raiza** do _Bonecas no Boteco_, fomos conhecer o **Empório Orrico**, uma casinha amarela de número 56, localizada na Rua Greenfeld, Barra. Apesar de pouco mais dois meses, o Empório Orrico já carrega em suas sólidas e firmadas raízes 40 anos de história.

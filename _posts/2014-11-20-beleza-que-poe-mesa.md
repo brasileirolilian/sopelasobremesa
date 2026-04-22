@@ -9,7 +9,7 @@ tags:
   - "casamento"
   - "doces-finos"
   - "docinho"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Ontem (19), recebi em plena quarta-feira mais sem graça, sem cor e preguiçosa da minha vida, uma caixinha recheada de doces delícias da Lívia Curi Doces Finos.

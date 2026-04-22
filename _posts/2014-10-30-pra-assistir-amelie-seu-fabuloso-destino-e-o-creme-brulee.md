@@ -13,7 +13,7 @@ tags:
   - "o-fabuloso-destino-de-amelie-poulain"
   - "pelicula"
   - "sobremesa"
-coverImage: "/assets/img/2014/10/destaque-amelie-poulain.jpg"
+image: "/assets/img/2014/10/destaque-amelie-poulain.jpg"
 ---
 
 Pra quem não gosta de filme europeu, mais precisamente filme francês, vou lhe dizer meus caros amigos, é porque você ainda não assistiu **Le Fabuleux destin d'Amélie Poulain**. E se você já teve essa oportunidade, assista novamente mas procure estar com a mente aberta para a simpatia dessa personagem. Uma improvável produção de Jean-Pierre Jeunet do ano de 2001, com a fofa da Audrey Tatou no papel principal de Amélie.

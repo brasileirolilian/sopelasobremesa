@@ -9,7 +9,7 @@ tags:
   - "bodas"
   - "bolo"
   - "recheios"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Meus avós completaram bodas de diamante!

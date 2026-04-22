@@ -25,7 +25,7 @@ tags:
   - "rio"
   - "sao-paulo"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/04/paris-6-marca-destaque.jpg"
+image: "/assets/img/2014/04/paris-6-marca-destaque.jpg"
 ---
 
 Tem mais ou menos 1 ano e pouco que acompanho o IG do Paris 6, e há um ano tive a oportunidade de conhecer o bistrô 24h lá no Rio. O IG com fotos de chamar atenção e fazer salivar, o Paris 6 conta ainda com as unidades de São Paulo, e vira e mexe estão fazendo um menu especial na Praia do Forte-Ba no Tivoli Ecoresort.

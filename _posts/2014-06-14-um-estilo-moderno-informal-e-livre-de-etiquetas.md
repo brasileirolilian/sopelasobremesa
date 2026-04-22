@@ -17,7 +17,7 @@ tags:
   - "pudding"
   - "pudim"
   - "sorvete"
-coverImage: "/assets/img/2014/06/destaque-DOC-diadosados.jpg"
+image: "/assets/img/2014/06/destaque-DOC-diadosados.jpg"
 ---
 
 É exatamente como o subtitulo de apresentação em seu site que o DOC Casual Dinning serve delícias para um bom happy hour, um bom jantar entre amigos ou a dois.
