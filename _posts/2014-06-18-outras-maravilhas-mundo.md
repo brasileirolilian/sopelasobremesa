@@ -22,6 +22,8 @@ tags:
   - "sorvete-de-nata"
   - "vesuvio"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/outras-maravilhas-mundo/"
 ---
 
 A humanidade não tem apenas 07 maravilhas, definitivamente não tem! Até porque são 14 entre antigas e modernas.

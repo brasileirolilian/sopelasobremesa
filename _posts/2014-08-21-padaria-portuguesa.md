@@ -13,6 +13,8 @@ tags:
   - "quitutes"
   - "travesseiro-sintra"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/padaria-portuguesa/"
 ---
 
 Com a proposta de trazer a mesa o sabor de Portugal, a Padaria Portuguesa localizada na região metropolitana de Salvador, além dos tradicionais pães de todo dia, conta também com pães portugueses, doces, biscoitos e outras gostosuras. Na primeira visita que fiz, tentei trazer um de cada quitute da vitrine, procurei os mais diferentes, aqueles que não encontramos em  qualquer padaria ou delicatessen para compor minhas compras e claro alguns dos quitutes tradicionais de Portugal.

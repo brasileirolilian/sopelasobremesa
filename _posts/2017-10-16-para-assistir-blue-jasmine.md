@@ -18,6 +18,8 @@ tags:
   - "wine"
   - "woody-allen"
 image: "/assets/img/2017/10/poster_bluejasmine.jpg"
+redirect_from:
+  - "/para-assistir-blue-jasmine/"
 ---
 
 16Tem gente não gosta, mas eu particularmente sou apaixonada pelos filmes de Woddy Allen e fiquei encantada com o filme _Blue Jasmine_.

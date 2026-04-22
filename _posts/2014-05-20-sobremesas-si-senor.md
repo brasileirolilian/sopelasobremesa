@@ -15,6 +15,8 @@ tags:
   - "petit-gateau"
   - "sorvete"
 image: "/assets/img/2014/05/IMG_1624.jpg"
+redirect_from:
+  - "/sobremesas-si-senor/"
 ---
 
 Celebrar a vida em um Mexican Bar é a coisa mais divertida que há!

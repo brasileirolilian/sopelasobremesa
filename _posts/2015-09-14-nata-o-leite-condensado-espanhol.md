@@ -12,6 +12,8 @@ tags:
   - "sobremesa"
   - "torta-imperial-de-nata"
 image: "/assets/img/2015/09/destaque-torta-nata.jpg"
+redirect_from:
+  - "/nata-o-leite-condensado-espanhol/"
 ---
 
 Enquanto os brasileiros são loucos pelo Leite Condensado, os espanhóis, e sobretudo os galegos, preferem misturar tudo com **Nata**, esta parte do leite da vaca tão rejeitada por nós. Aqui em _Pontevedra-ES_, enquanto o Leite Condensado só se vende em um único mercado, a Nata domina o terreno e é encontrada em absolutamente tudo: no pão, nas galhetas, nos biscoitos, nas tortas e no chocolate quente.

@@ -14,6 +14,8 @@ tags:
   - "mms"
   - "nutella"
 image: "/assets/img/2014/03/IMG_9452-e1395709537599.jpg"
+redirect_from:
+  - "/miss-cookies-2/"
 ---
 
 Vou logo avisando: não consegui resistir e esperar março chegar pra pedir de novo.

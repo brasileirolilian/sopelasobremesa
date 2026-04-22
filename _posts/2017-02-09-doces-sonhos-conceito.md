@@ -35,6 +35,8 @@ tags:
   - "tortas"
   - "zero-lac"
 image: "/assets/img/2017/02/IMG_8144-e1486594575287.jpg"
+redirect_from:
+  - "/doces-sonhos-conceito/"
 ---
 
 Em tempos de modinhas, principalmente nas tendências da alimentação, a busca de algo mais saudável deixou de ser momentâneo e veio pra ficar, afim de se manter o equilíbrio, sem abominar o lado doce da vida. E seguindo nessa linha a Doces Sonhos entrou o ano de 2017 com a mais doce e saudável novidade: **Doces Sonhos Conceito**, partindo por uma linha mais saúde, sem perder sua essência e principalmente, o sabor.

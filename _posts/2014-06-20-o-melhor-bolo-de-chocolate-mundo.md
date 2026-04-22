@@ -17,6 +17,8 @@ tags:
   - "tradicional"
   - "zero-acucar"
 image: "/assets/img/2014/06/IMG_2510.jpg"
+redirect_from:
+  - "/o-melhor-bolo-de-chocolate-mundo/"
 ---
 
 Não é de hoje que estou para provar "O Melhor Bolo de Chocolate do Mundo", sempre tive a curiosidade, mas também tive receio.Ora pois, quem não teria com o nome bem pretensioso heim?!

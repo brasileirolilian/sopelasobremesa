@@ -18,6 +18,8 @@ tags:
   - "vinho"
   - "vinicius-de-moraes"
 image: "/assets/img/2014/03/destque.jpg"
+redirect_from:
+  - "/casa-de-vina-onde-o-amor-e-a-poesia-fizeram-morada/"
 ---
 
 ...Hoje o sabor e a saudade reina...

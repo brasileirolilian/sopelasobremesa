@@ -18,6 +18,8 @@ tags:
   - "pudim"
   - "sorvete"
 image: "/assets/img/2014/06/destaque-DOC-diadosados.jpg"
+redirect_from:
+  - "/um-estilo-moderno-informal-e-livre-de-etiquetas/"
 ---
 
 É exatamente como o subtitulo de apresentação em seu site que o DOC Casual Dinning serve delícias para um bom happy hour, um bom jantar entre amigos ou a dois.

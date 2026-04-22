@@ -21,6 +21,8 @@ tags:
   - "viagem"
   - "vina-del-mar"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/chile-e-seus-sabores-doces/"
 ---
 
 Há um ano tive a oportunidade de conhecer as terras chilenas.

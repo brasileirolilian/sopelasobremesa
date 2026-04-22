@@ -11,6 +11,8 @@ tags:
   - "para-assistir"
   - "pelicula"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/100-passos-de-um-sonho/"
 ---
 
 "Mas para cozinhar é preciso matar.. Criar fantasmas. Cozinha para criar fantasmas

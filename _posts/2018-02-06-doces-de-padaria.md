@@ -21,6 +21,8 @@ tags:
   - "tartelette"
   - "tiramisu"
 image: "/assets/img/2018/02/IMG_6643.jpg"
+redirect_from:
+  - "/doces-de-padaria/"
 ---
 
 Fala sério: quem entra na padaria e resiste e fica só no comprar pão pra levar pra casa? Mesmo que você, apenas você resista àqueles doces super lindos de padaria, e não leve exatamente naquele dia, você vai dar uma olhadinha pra saber o que há de novo, né verdade?! (e vai babar escondido!)

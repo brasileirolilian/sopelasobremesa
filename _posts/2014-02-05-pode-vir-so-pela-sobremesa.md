@@ -9,6 +9,8 @@ tags:
   - "rir"
   - "sobremesa"
 image: "/assets/img/2014/02/Gastron01-e1393898336432.jpg"
+redirect_from:
+  - "/pode-vir-so-pela-sobremesa/"
 ---
 
 Cá pra nós... Sejamos sinceros, fato: comer arrebata paladar e corações. Mas a sobremesa, aquele doce tão esperado, a "chave de ouro" que encerra o ritual gastronômico ganha papel principal em vários momentos de nossas vidas: Se estamos tristes Comemos - um pote de sorvete de chocolate e/ou uma fatia generosa de torta.

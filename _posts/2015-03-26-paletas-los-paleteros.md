@@ -10,6 +10,8 @@ tags:
   - "paletas"
   - "sobremesas-2"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/paletas-los-paleteros/"
 ---
 
 Quando soube que iria abrir uma loja da **Los Paleteros** em Salvador, fiquei super curiosa em conhecer, já que eu tinha ouvido falar super bem dessas Paletas _tipo_ Mexicanas. E numa tarde tranquila, logo após a inauguração (no último dia 13 desse mês), passei na unidade localizada na Barra e bati um papo super bacana com o sócio franqueado Diego Figueredo e a assessora Rafaela.

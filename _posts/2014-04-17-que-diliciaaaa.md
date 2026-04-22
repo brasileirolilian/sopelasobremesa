@@ -11,6 +11,8 @@ tags:
   - "pop"
   - "trouxinhas"
 image: "/assets/img/2014/04/destque-dilicia.jpg"
+redirect_from:
+  - "/que-diliciaaaa/"
 ---
 
 Enquanto me preparava pra viajar e aproveitar o feriadão no interior, o interfone tocou e o porteiro me avisou que uma moça tinha deixado naquela hora uma sacolinha, até aí a greve já tinha chegado ao fim e todos tentavam voltar ao "normal"...

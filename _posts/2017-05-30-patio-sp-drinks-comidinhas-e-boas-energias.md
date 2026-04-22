@@ -22,6 +22,8 @@ tags:
   - "sao-paulo"
   - "sobremesa"
 image: "/assets/img/2017/05/IMG_5249-e1496108502336.jpg"
+redirect_from:
+  - "/patio-sp-drinks-comidinhas-e-boas-energias/"
 ---
 
 \[Se você mora em São Paulo ou tá indo passar uns dias na terra da garoa, se liga nesse post\]

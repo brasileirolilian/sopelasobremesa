@@ -10,6 +10,8 @@ tags:
   - "doces-finos"
   - "docinho"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/beleza-que-poe-mesa/"
 ---
 
 Ontem (19), recebi em plena quarta-feira mais sem graça, sem cor e preguiçosa da minha vida, uma caixinha recheada de doces delícias da Lívia Curi Doces Finos.

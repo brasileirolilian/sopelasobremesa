@@ -16,6 +16,8 @@ tags:
   - "sobremesa"
   - "torta"
 image: "/assets/img/2014/03/destaque-com-cred.jpg"
+redirect_from:
+  - "/algumas-maravilhas-da-humanidade/"
 ---
 
 "Muita poesia e arte para adoçar as nossas vidas"

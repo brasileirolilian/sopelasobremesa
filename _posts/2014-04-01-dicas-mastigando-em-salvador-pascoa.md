@@ -8,6 +8,8 @@ tags:
   - "mastigando-em-alvador"
   - "pascoa"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/dicas-mastigando-em-salvador-pascoa/"
 ---
 
 Um dos nossos parceiros: MASTIGANDO EM SALVADOR

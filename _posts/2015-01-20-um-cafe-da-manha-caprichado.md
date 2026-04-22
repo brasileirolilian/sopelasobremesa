@@ -14,6 +14,8 @@ tags:
   - "espumante"
   - "salada-de-fruta"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/um-cafe-da-manha-caprichado/"
 ---
 
 No último dia 15 (quinta-feira), comemorei 05 anos de relacionamento com meu namorado, não sou de falar aqui da vida "pessoal", né? Mas quando envolve coisa boa, doce e de comer, por que não? Então, pra começar o dia bem...

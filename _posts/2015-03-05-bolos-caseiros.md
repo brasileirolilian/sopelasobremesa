@@ -14,6 +14,8 @@ tags:
   - "casa-de-bolos"
   - "top-5"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/bolos-caseiros/"
 ---
 
 Quem não gosta de um Bolo Caseiro com gostinho de casa de vó?! Ou daquela pausa no meio da tarde para um cafezinho, com bolo e uma boa prosa?!

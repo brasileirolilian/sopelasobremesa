@@ -15,6 +15,8 @@ tags:
   - "o-irresistivel-cafe-de-cupcakes"
   - "simses"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/doce-leitura-o-irresistivel-cafe-de-cupcakes/"
 ---
 
 Primeiramente, o que chamou minha atenção foi o título: 'O Irresistível Café de Cupcakes' de Mary Simses, parece clichê, mas tudo que envolve doces e comida e ainda mais doces comidas chamam minha atenção. E essa foi uma das minhas últimas leituras leve, saborosa e previsível . Porém não menos divertida e enriquecedora.

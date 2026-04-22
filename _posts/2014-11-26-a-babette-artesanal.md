@@ -16,6 +16,8 @@ tags:
   - "publieditorial"
   - "quitutes"
 image: "/assets/img/2014/03/destque.jpg"
+redirect_from:
+  - "/a-babette-artesanal/"
 ---
 
 **#Publieditorial**

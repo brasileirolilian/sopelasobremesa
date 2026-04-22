@@ -10,6 +10,8 @@ tags:
   - "bolo"
   - "recheios"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/amor-em-forma-de-bolo/"
 ---
 
 Meus avós completaram bodas de diamante!

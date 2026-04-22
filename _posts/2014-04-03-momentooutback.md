@@ -9,6 +9,8 @@ tags:
   - "chantilly"
   - "sorvete"
 image: "/assets/img/2014/04/IMG_9898-e1396559009456.jpg"
+redirect_from:
+  - "/momentooutback/"
 ---
 
 E quem disse que segunda-feira não é dia de happy hour com a tchurma?!

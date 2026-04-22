@@ -10,6 +10,8 @@ tags:
   - "pudim"
   - "sobremesas-2"
 image: "/assets/img/2014/03/1149296_371918169577239_649412422_o-e1394653628255.jpg"
+redirect_from:
+  - "/um-cantinho-com-sabor-de-casa/"
 ---
 
 Sabe aquele lugar que nos deixa a vontade além da nossa casa ?!

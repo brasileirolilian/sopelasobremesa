@@ -15,6 +15,8 @@ tags:
   - "sobremesa"
   - "sorvete"
 image: "/assets/img/2014/06/destaque-laprovence-dia-dos-ados.jpg"
+redirect_from:
+  - "/maca-de-eva/"
 ---
 
 Todo mundo já sabe ou pelo menos conhece por alto a história do fruto proibido, no qual Eva ao morder tal fruto e oferecer a Adão, que não resiste, e o saboreia também, provocam o que se chama de pecado original da humanidade. Se era maçã o não, está fruta ficou mundialmente conhecida como o fruto do pecado. Mas pecado mesmo seria se no Dia dos Namorados eu não tivesse provado essa sobremesa no La Provence, a MAÇÃ DE EVA.

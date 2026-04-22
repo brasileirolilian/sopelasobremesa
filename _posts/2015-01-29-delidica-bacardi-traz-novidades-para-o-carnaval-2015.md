@@ -13,6 +13,8 @@ tags:
   - "pernambuco"
   - "salvador"
 image: "/assets/img/2014/07/destaque6.jpg"
+redirect_from:
+  - "/delidica-bacardi-traz-novidades-para-o-carnaval-2015/"
 ---
 
 **BIG SALADA MISTA É A CAMPANHA DO BACARDI® BIG PARA O CARNAVAL 2015** - O portfólio BACARDI BIG vai para as ruas de Salvador e Olinda e esquenta o clima de curtição com os amigos com o jogo Salada Mista. São Paulo, 12 de janeiro de 2015 - BACARDI® rum já preparou sua ativação para o Carnaval 2015. BACARDÍ BIG APPLE®, BACARDÍ BIG PINEAPPLE® E BACARDÍ BIG LEMON® serão ativados nas cidades de Salvador (Bahia) e Olinda (Pernambuco) durante uma das festas mais famosas do Brasil. De forma divertida, o portfólio BACARDI BIG traz a campanha BIG SALADA MISTA, recriando a conhecida brincadeira em que os participantes escolhem uma fruta que corresponde a uma atitude.

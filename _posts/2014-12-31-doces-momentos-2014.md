@@ -23,6 +23,8 @@ tags:
   - "roska"
   - "sobremesas-2"
 image: "/assets/img/2014/03/destque.jpg"
+redirect_from:
+  - "/doces-momentos-2014/"
 ---
 
 **2014** foi o ano de nascimento do blog Só Vim Pela Sobremesa, e neste ano tivemos muitos doces momentos. Todos deveriam caber nesta postagem, mas para sintetizar destacamos alguns para a Retrospectiva Doce, algumas que nos marcaram de alguma maneira: seja pela apresentação, pelo mix de texturas e sabores. Seja pela simplicidade que nos trouxe às boas memórias de infância, seja por gostarmos muito do lugar, enfim... Foi um ano recheado de boas surpresas, caprichado em coberturas de boas energias, com uma base sólida de amizades e lindos leitores e adoçado com delícias que queremos compartilhar ainda mais em 2015.

@@ -21,6 +21,8 @@ tags:
   - "sorvetes"
   - "viagem"
 image: "/assets/img/2017/10/FullSizeRender-9.jpg"
+redirect_from:
+  - "/siga-me-barcelona-ferias-2017/"
 ---
 
 No início de agosto a Déa Martinez, nossa colab em Barcelona, conseguiu finalmente tirar férias e aproveitar o verão.

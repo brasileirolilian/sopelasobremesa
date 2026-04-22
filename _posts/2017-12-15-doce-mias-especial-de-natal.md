@@ -22,6 +22,8 @@ tags:
   - "natal"
   - "sobremesas-2"
 image: "/assets/img/2017/12/DSC_0511.jpg"
+redirect_from:
+  - "/doce-mias-especial-de-natal/"
 ---
 
 Fim de Ano chegando e com ele aquelas festas que todo mundo aguarda o ano inteirinho: confraternizar com a galera do trabalho, encontrar os amigos e reunir à família.

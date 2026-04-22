@@ -16,6 +16,8 @@ tags:
   - "morangos"
   - "romeu"
 image: "/assets/img/2014/04/IMG_0149-e1396961055596.jpg"
+redirect_from:
+  - "/um-sonho-de-croasonho/"
 ---
 
 Sábado a noite não é dia apenas de balada!

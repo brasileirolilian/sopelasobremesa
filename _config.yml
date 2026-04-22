@@ -35,7 +35,7 @@ logo_bordo: "/assets/img/sopelasobremesa.png"
 
 # Pagination
 paginate: 12
-paginate_path: "artigos/page:num/"
+paginate_path: "artigos/:num/"
 
 # Permalinks
 permalink: /:year-:month-:day-:title.html
@@ -47,6 +47,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 defaults:
   -

@@ -17,6 +17,8 @@ tags:
   - "salvador"
   - "sobremesa"
 image: "/assets/img/2016/12/destaque-opera-natal.jpg"
+redirect_from:
+  - "/opera-gourmet-e-um-doce-menu-de-natal/"
 ---
 
 No último dia 24 de novembro, em plena quarta-feira, fui acompanhar em primeira mão a produção das fotos para o _Menu de Natal_ da Ópera Gourmet - uma das patisseries mais elegantes, requintadas e delicadas da cidade. Com um padrão de altíssima qualidade, e super bom gosto, **Fabi Santana**, a chef confeiteira responsável pelas delícias da marca, carrega ao mesmo tempo: simplicidade e uma simpatia incrível.

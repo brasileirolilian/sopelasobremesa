@@ -13,6 +13,8 @@ tags:
   - "publieditorial"
   - "sobremesa"
 image: "/assets/img/2014/08/destaque21.jpg"
+redirect_from:
+  - "/lai-brigadeiria/"
 ---
 
 **#Publieditorial**

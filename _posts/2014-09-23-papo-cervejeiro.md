@@ -20,6 +20,8 @@ tags:
   - "porter"
   - "sobremesas-2"
 image: "/assets/img/2014/09/destaque7.jpg"
+redirect_from:
+  - "/papo-cervejeiro/"
 ---
 
 Quem disse que cerveja não combina com sobremesas e doces?!

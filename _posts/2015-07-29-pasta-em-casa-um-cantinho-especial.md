@@ -21,6 +21,8 @@ tags:
   - "sorvete"
   - "torta-de-maca"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/pasta-em-casa-um-cantinho-especial/"
 ---
 
 Sabe aquele restaurante que você se sente em um cantinho de sua própria casa ?!

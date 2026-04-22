@@ -14,6 +14,8 @@ tags:
   - "peanut-butter"
   - "pipobrownie"
 image: "/assets/img/2014/05/brownie-mah-destaque.jpg"
+redirect_from:
+  - "/brownie-com-sabor-de-abraco/"
 ---
 
 Esses são os brownies da Mah **O Fantástico Brownie da Mah** e chegaram pra mim num dia meio chuvoso, meio cinza e meio triste diga-se de passagem, pois por mais que a data seja especial - Dia do Abraço, faltaram aqueles abraços quentinhos e sinceros.

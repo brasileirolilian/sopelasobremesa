@@ -12,6 +12,8 @@ tags:
   - "sonhos"
   - "tortas"
 image: "/assets/img/2014/04/FABRICA-e1397299133180.jpg"
+redirect_from:
+  - "/fabrica-dos-sonhos-onde-eles-viram-realidade-e-bem-docinhos/"
 ---
 
 Hoje tive a honra de conhecer a Fábrica dos Sonhos.

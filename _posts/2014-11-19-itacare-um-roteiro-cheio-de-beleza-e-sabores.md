@@ -17,6 +17,8 @@ tags:
   - "sobremesa"
   - "verao"
 image: "destaque-festival-gastro-itacaré.jpg"
+redirect_from:
+  - "/itacare-um-roteiro-cheio-de-beleza-e-sabores/"
 ---
 
 #DoceNEWS #DeliDICA #Publieditorial

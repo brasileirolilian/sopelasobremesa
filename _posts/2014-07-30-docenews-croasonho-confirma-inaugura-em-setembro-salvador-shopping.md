@@ -11,6 +11,8 @@ tags:
   - "nova-unidade"
   - "salvador"
 image: "/assets/img/2014/07/croasonho-03.jpg"
+redirect_from:
+  - "/docenews-croasonho-confirma-inaugura-em-setembro-salvador-shopping/"
 ---
 
 Em menos de um ano após ter aberto sua primeira franquia em Salvador - em novembro de 2013 no Shopping Paralela - a Croasonho anuncia agora a abertura de seu segundo restaurante na cidade: em setembro, na praça de alimentação do piso L3 do Salvador Shopping, localizado num lounge gastronômico próximo a bilheteria do Cinemark.

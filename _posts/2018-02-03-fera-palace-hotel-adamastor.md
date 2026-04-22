@@ -29,6 +29,8 @@ tags:
   - "tour-em-salvador"
   - "vintage"
 image: "/assets/img/2018/02/IMG_9471.jpg"
+redirect_from:
+  - "/fera-palace-hotel-adamastor/"
 ---
 
 Localizado no Centro Histórico de Salvador, debruçado sobre a Baía de Todos os Santos, a Rua Chile, que inicialmente era conhecida como Rua Direita dos Mercadores e Rua Direita do Palácio, a primeira rua do Brasil ganhou mais vida neste ano de 2017, com a revitalização do Fera Palace Hotel, fundado em 1931 e inaugurado em 1934.

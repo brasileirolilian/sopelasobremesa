@@ -23,6 +23,8 @@ tags:
   - "sorvete"
   - "torta-mousse"
 image: "/assets/img/2014/03/destaque-2.jpg"
+redirect_from:
+  - "/dia-do-amigo-perini-compartilhando-doces-momentos/"
 ---
 
 \[Editorial\]

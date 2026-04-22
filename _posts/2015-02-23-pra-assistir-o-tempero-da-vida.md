@@ -8,6 +8,8 @@ tags:
   - "filme"
   - "tempero-da-vida"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/pra-assistir-o-tempero-da-vida/"
 ---
 
 Tive conhecimento a respeito desse filme, em um outro foodblog, na verdade é um blog com canal no youtube (também!) de uma chef pâtissier que compartilha receitas descomplicadas de doces, sobremesas e outras comidinhas. (A Dani do [IKFD](http://www.icouldkillfordessert.com.br/ "site")). Como adoro filmes (e livros) que mencionam comida, porque é ela que nos remete a lembranças e sensações, claro que eu tinha que colocar este filme na minha listinha e dei super sorte de encontrá-lo no acervo do Netflix.

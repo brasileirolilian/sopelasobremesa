@@ -18,6 +18,8 @@ tags:
   - "tim-tim"
   - "wine"
 image: "/assets/img/2017/08/IMG_9719.jpg"
+redirect_from:
+  - "/na-mesa-do-bares/"
 ---
 
 Sei que o blog é sobre sobremesa, mas não consegui resistir a uma outra paixão minha e precisava compartilhar com vocês: **BARES**. Fico encantada com restaurantes que tem um bar digno de fotografia de revista. Super respeito!

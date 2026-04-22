@@ -27,6 +27,8 @@ tags:
   - "tabuleiro-da-baiana"
   - "tabuleiro-da-baiana"
 image: "/assets/img/2018/05/image1-1.jpeg"
+redirect_from:
+  - "/doces-da-baiana-tabuleiro-da-felicidade/"
 ---
 
 _“No tabuleiro da Baiana tem… Vatapá, Caruru, Mungunzá tem Ungú pra ioiô... Se eu pedir você me dá...o seu coração,seu amor de iaiá… “._

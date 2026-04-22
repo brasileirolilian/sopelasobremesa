@@ -7,6 +7,8 @@ categories:
 tags: 
   - "brigadeiro"
 image: "/assets/img/2014/03/IMG_9847.jpg"
+redirect_from:
+  - "/brigadeiro-sobremesa-para-todas-horas/"
 ---
 
 Sexta a noite e sábado (o dia inteiro incluindo a noite) eu estava numa solidão salgada, me sentindo um pouco mal, parecendo que ia adoecer.

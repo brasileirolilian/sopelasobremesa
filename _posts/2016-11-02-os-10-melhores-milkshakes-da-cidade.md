@@ -35,6 +35,8 @@ tags:
   - "whisky"
   - "yellow-easy-food"
 image: "/assets/img/2016/11/destaque-milkskake.jpg"
+redirect_from:
+  - "/os-10-melhores-milkshakes-da-cidade/"
 ---
 
 Quem acha que **_Milkshake_** não é sobremesa está redondamente enganado. Sinto-lhes dizer que sim, é uma verdadeira e autêntica sobremesa de beber. E mais: dá pra compartilhar com alguém muito especial.

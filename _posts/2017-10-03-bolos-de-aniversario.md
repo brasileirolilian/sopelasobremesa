@@ -17,6 +17,8 @@ tags:
   - "salvador"
   - "sobremesa"
 image: "/assets/img/2017/10/IMG_6382.jpg"
+redirect_from:
+  - "/bolos-de-aniversario/"
 ---
 
 Todo ano, no meu aniversário, monto uma _lista seleta_ indicando bolos para não só abrilhantar os parabéns, mas para alegrar a alma da galera.

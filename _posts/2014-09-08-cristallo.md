@@ -17,6 +17,8 @@ tags:
   - "sobremesas-2"
   - "sorvete"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/cristallo/"
 ---
 
 "La dolce vita è qui" - ao ler essa frase na parede da **Cristallo** acreditei estar no lugar certo.

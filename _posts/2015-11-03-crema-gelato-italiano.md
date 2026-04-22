@@ -10,6 +10,8 @@ tags:
   - "sobremesa"
   - "sorvetes"
 image: "/assets/img/2015/11/destaque-crema.jpg"
+redirect_from:
+  - "/crema-gelato-italiano/"
 ---
 
 Uma experiência única.

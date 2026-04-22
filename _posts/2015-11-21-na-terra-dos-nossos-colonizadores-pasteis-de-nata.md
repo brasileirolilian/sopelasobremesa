@@ -13,6 +13,8 @@ tags:
   - "porto"
   - "portugal"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/na-terra-dos-nossos-colonizadores-pasteis-de-nata/"
 ---
 
 _\- Em Outubro a Déa deu um pulinho em Porto -_ 

@@ -11,6 +11,8 @@ tags:
   - "doces"
   - "sobremesa"
 image: "/assets/img/2016/03/destaque-01.jpg"
+redirect_from:
+  - "/7-chocolates-quentes-pra-vida-toda/"
 ---
 
 **Chocolate é vida e quentinho então, nem se fala.**

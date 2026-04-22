@@ -13,6 +13,8 @@ tags:
   - "tapioca"
   - "torta"
 image: "/assets/img/2016/04/destaque-torta.jpg"
+redirect_from:
+  - "/20-fios-de-cabelo-branco-1-desabafo-e-1-fatia-de-torta-pra-alegrar/"
 ---
 
 Não sou de fazer postagens assim, mas sabe quando você acorda e não entende essa vã filosofia da vida?

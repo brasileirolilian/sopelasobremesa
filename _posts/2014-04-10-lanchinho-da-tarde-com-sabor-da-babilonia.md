@@ -19,6 +19,8 @@ tags:
   - "romance"
   - "sabor"
 image: "/assets/img/2014/04/IMG_0252-e1397250511309.jpg"
+redirect_from:
+  - "/lanchinho-da-tarde-com-sabor-da-babilonia/"
 ---
 
 Estou em casa trabalhando e chega uma sacolinha em papel panamá com a minha encomenda da Babette Artesanal.

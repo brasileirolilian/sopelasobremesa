@@ -11,6 +11,8 @@ tags:
   - "o-vendedor-de-passados"
   - "pipoca-doce"
 image: "/assets/img/2015/05/destque-o-vendedor-de-passados.jpg"
+redirect_from:
+  - "/pra-assistir-o-vendedor-de-passados/"
 ---
 
 O que você faria se pudesse deletar as lembranças dolorosas do passado?

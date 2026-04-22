@@ -16,6 +16,8 @@ tags:
   - "mae-chegamos"
   - "menorca"
 image: "casal-mãe-chegamos.jpg"
+redirect_from:
+  - "/diario-de-docuras-espanha/"
 ---
 
 A Espanha é um lugar onde se cultua bons hábitos de vida, como caminhar e comer bem. Mas sempre sobra espaço pra um docinho, não é? E aqui é muito fácil encontrar vitrines recheadas de doces, principalmente nas chamadas Panaderias e Bolerias.

@@ -36,6 +36,8 @@ tags:
   - "sobremesas-2"
   - "tortas"
 image: "/assets/img/2017/10/IMG_5816.jpg"
+redirect_from:
+  - "/madame-ladoux-um-pedacinho-da-franca-em-salvador/"
 ---
 
 Com pouco mais de 1 ano e duas unidades na capital baiana, **Madame Ladoux** com suas doçuras vem conquistando os soteropolitanos, e até turistas que visitam a cidade de Salvador.

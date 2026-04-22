@@ -29,6 +29,8 @@ tags:
   - "turismo"
   - "viagem"
 image: "/assets/img/2018/03/IMG_2042-1.jpg"
+redirect_from:
+  - "/um-final-de-semana-no-estilo-santiaguino/"
 ---
 
 _Tenho recebido muitos directs nas redes sociais, pedindo dicas do que fazer em Santiago, por exemplo, em um final de semana. E pode até não parecer, mas tem tanta coisa na capital chilena pra fazer que eu fico meio perdida sem saber o que indicar._

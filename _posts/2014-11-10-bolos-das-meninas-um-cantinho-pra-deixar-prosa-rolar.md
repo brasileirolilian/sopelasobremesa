@@ -26,6 +26,8 @@ tags:
   - "sobremesa"
   - "tapioca"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/bolos-das-meninas-um-cantinho-pra-deixar-prosa-rolar/"
 ---
 
 Na última terça, dia 04/11, fui conhecer a lojinha **Bolos das Meninas**.

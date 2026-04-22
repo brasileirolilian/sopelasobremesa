@@ -12,6 +12,8 @@ tags:
   - "torta"
   - "torta-alema"
 image: "/assets/img/2014/03/destaque-2.jpg"
+redirect_from:
+  - "/coincidencia-ou-destino/"
 ---
 
 acaso? coincidência? ou estava escrito nas estrelas?

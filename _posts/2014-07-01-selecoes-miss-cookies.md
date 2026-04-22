@@ -17,6 +17,8 @@ tags:
   - "pe-de-moleque"
   - "tiramisu"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/selecoes-miss-cookies/"
 ---
 
 #VaiTerCookies

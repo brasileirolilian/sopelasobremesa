@@ -14,6 +14,8 @@ tags:
   - "nutella"
   - "tapioca"
 image: "/assets/img/2014/07/angelical-alfajor-destaque.jpg"
+redirect_from:
+  - "/um-alfajor-angelical/"
 ---
 
 Conheci os produtos da Angelical já tem um bom tempo, no evento de formatura de minha prima e eles foram responsáveis pelo buffet. Lembro até hoje o sabor dos salgadinhos que provei e claro dos docinhos também. Tudo muito bem feito e saboroso.

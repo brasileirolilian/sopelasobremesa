@@ -12,6 +12,8 @@ tags:
   - "sobremesas-2"
   - "variedade"
 image: "/assets/img/2014/03/destaque1.jpg"
+redirect_from:
+  - "/o-quilo-mais-charmoso-da-cidade/"
 ---
 
 Inicialmente como uma loja de cortes de carnes diferenciados na cidade de Salvador, em 1980, o Mignon localizado no bairro da Graça, sempre teve um atendimento personalizado junto ao seus clientes.

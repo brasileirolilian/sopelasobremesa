@@ -10,6 +10,8 @@ tags:
   - "parrilla"
   - "restaurante"
 image: "/assets/img/2014/09/TORRE-DE-PIZZA-sobremesa-pave-cremoso.jpg"
+redirect_from:
+  - "/docenews-torre-de-pizza-parrilla/"
 ---
 
 TORRE DE PIZZA PARRILA INAUGURA RESTAURANTE NA PRAIA DE BURAQUINHO

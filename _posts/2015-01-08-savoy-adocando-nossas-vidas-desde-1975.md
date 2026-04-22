@@ -9,6 +9,8 @@ tags:
   - "torta"
   - "tradicao"
 image: "/assets/img/2014/03/destaque.jpg"
+redirect_from:
+  - "/savoy-adocando-nossas-vidas-desde-1975/"
 ---
 
 Não poderia iniciar 2015 com um poste menos doce.

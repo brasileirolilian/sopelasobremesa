@@ -13,6 +13,8 @@ tags:
   - "palha-italiana"
   - "tortinhas"
 image: "destaque-açucareiro.jpg"
+redirect_from:
+  - "/docinhos-em-familia/"
 ---
 
 **#DoceNEWS**

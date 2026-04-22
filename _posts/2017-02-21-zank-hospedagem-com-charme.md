@@ -25,6 +25,8 @@ tags:
   - "you-must-go"
   - "zank-hotel"
 image: "/assets/img/2017/02/zank-destaque-01.jpg"
+redirect_from:
+  - "/zank-hospedagem-com-charme/"
 ---
 
 Localizado no mais boêmio bairro de Salvador, o Zank by Toque Hotel escapa dos padrões das grandes redes internacionais de hoteleiras.

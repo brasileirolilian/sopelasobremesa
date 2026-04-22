@@ -23,6 +23,8 @@ tags:
   - "sobremesa"
   - "torta"
 image: "/assets/img/2017/10/IMG_7650.jpg"
+redirect_from:
+  - "/ganache-docaria-salvador-shopping-l3/"
 ---
 
 Tenho que confessar que a Ganache Doçaria, aquele quiosque fofo localizado na Praça de Alimentação do Salvador Shopping, é a minha perdição. Desde que iniciou suas atividades no shopping eu me apaixonei.

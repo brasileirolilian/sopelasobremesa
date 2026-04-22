@@ -19,6 +19,8 @@ tags:
   - "sobremesas-2"
   - "waffle"
 image: "/assets/img/2014/03/destaque2.jpg"
+redirect_from:
+  - "/docenews-nova-unidade-eddie-fine-burgers-salvador/"
 ---
 
 A rede de hamburgueria _prime_ mineira Eddie Fine Burgers inaugurou no dia 09/maio sua segunda loja na capital baiana. Localizada na parte do antigo cinema do Shopping Barra, a nova unidade possui salão exclusivo para clientes e 134m², o espaço repete o percurso da matriz, que contabiliza quatro lojas espalhadas por Belo Horizonte.

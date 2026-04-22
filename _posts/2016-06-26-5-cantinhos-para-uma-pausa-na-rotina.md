@@ -20,6 +20,8 @@ tags:
   - "quitutes"
   - "sobremesas-2"
 image: "/assets/img/2016/06/DESTAQUE.jpg"
+redirect_from:
+  - "/5-cantinhos-para-uma-pausa-na-rotina/"
 ---
 
 Sabe aqueles dias em que precisa dar um break na rotina e apenas curtir um momento saboroso? E a gente só quer aquele cantinho acolhedor em que podemos saborear alguma coisa gostosinha?

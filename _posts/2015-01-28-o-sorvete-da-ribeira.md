@@ -10,6 +10,8 @@ tags:
   - "sorveteria"
   - "sorvetes"
 image: "/assets/img/2014/03/destaque5.jpg"
+redirect_from:
+  - "/o-sorvete-da-ribeira/"
 ---
 
 A **Ribeira do Sorvete** está localizada num pedacinho de paraíso de Salvador. Situada na cidade baixa, ainda conserva costumes antigos familiares e íntimos, e é abençoada com um mar tranquilo e um lindo pôr do sol. Na península de Itapagipe, os barcos de pesca e saveiros repousam na maré baixa, senhorinhas sentam na calçada em frente às suas residências e veem o ir e vir de cada um que passa num fim de tarde bucólico. E é no Largo da Ribeira sob velhas árvores e grandes tamarindeiros, que **desde 1931** a **Sorveteria da Ribeira** faz história, refresca a alma dos soteropolitanos e turistas e alegra nossas tardes, transformando uma simples ida à uma sorveteria em um passeio histórico.

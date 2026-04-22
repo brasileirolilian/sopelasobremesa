@@ -35,6 +35,8 @@ tags:
   - "sobremesas-2"
   - "tesouro"
 image: "/assets/img/2017/10/IMG_7120.jpg"
+redirect_from:
+  - "/doce-de-leite-tesouro-dos-deuses/"
 ---
 
 Uma paixão de que vem de outras vidas, o _**Doce de Leite**_, é de fato uma sobremesa dos Deuses.

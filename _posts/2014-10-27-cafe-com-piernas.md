@@ -13,6 +13,8 @@ tags:
   - "santiago"
   - "viagem"
 image: "destque-café-haiti.jpg"
+redirect_from:
+  - "/cafe-com-piernas/"
 ---
 
 Também conhecido como 'café com piernas', o Café Haiti é um dos  mais famosos e antigos cafés, se não for o mais, em Santiago no Chile. Pra começar, já aviso de cara, que é proibido entrar com crianças. Mas não se espante, o estabelecimento não está ligado a nudez e nem prostituição. Apenas porque as garçonetes atendem os clientes com micro saias e bem justas por sinal. (Fiquei tímida em tirar foto das meninas). Por sinal, elas são bem sérias, assim os clientes  não ficam engraçadinhos, entendeu?!

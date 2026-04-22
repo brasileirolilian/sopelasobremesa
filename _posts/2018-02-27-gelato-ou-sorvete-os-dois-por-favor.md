@@ -15,6 +15,8 @@ tags:
   - "sorvete"
   - "sorveterias"
 image: "/assets/img/2018/02/IMG_6791.jpg"
+redirect_from:
+  - "/gelato-ou-sorvete-os-dois-por-favor/"
 ---
 
 _Muita gente acredita que não exista diferença nenhuma entre **Gelato** e **Sorvete**. Na verdade, muitos acreditam que apenas são denominações dadas em países diferentes (Itália X Brasil), e que por isso o gelato custa mais caro._
