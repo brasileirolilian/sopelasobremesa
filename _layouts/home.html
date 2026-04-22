@@ -11,9 +11,9 @@ layout: default
   <section class="hero-section">
     <div class="hero-content">
       <span class="hero-date">{{ featured_post.date | date: "%d de %b, %Y" | upcase }}</span>
-      <h1 class="hero-title">
+      <h2 class="hero-title">
         <a href="{{ featured_post.url | relative_url }}">{{ featured_post.title | escape }}</a>
-      </h1>
+      </h2>
       <p class="hero-excerpt">
         {{ featured_post.excerpt | strip_html | truncatewords: 25 }}
       </p>
@@ -71,7 +71,7 @@ layout: default
     </div>
   </section>
 
-  <div class="categories-section">
+  <section class="categories-section">
     <h3 class="categories-title">Explorar por Categorias</h3>
     <div class="category-pills">
       {% assign categories_list = site.categories | sort %}
@@ -81,14 +81,14 @@ layout: default
           class="pill-count">({{ category[1].size }})</span></a>
       {% endfor %}
     </div>
-  </div>
+  </section>
 
   <!-- About the Author Section -->
-  <div class="author-section full-width-breakout">
+  <section class="author-section full-width-breakout">
     <div class="container">
       <div class="author-container">
         <div class="author-avatar">
-          <img src="/assets/img/lilian-brasileiro.jpg" alt="Autora">
+          <img src="/assets/img/lilian-brasileiro.jpg" alt="Lílian Brasileiro">
         </div>
         <div class="author-info">
           <h2 class="author-heading">Sobre a Autora</h2>
@@ -101,5 +101,5 @@ layout: default
         </div>
       </div>
     </div>
-  </div>
+  </section>
 </div>

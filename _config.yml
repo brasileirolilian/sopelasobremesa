@@ -38,7 +38,7 @@ paginate: 12
 paginate_path: "artigos/:num/"
 
 # Permalinks
-permalink: /:year-:month-:day-:title.html
+permalink: /:year-:month-:day-:title
 
 # Build settings
 # theme: minima # Custom theme
