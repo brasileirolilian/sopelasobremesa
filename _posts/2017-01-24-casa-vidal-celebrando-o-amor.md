@@ -24,7 +24,7 @@ tags:
   - "sobremesa"
   - "tapas"
   - "tripadvisor"
-coverImage: "/assets/img/2017/01/SANTA-COMIDA.jpg"
+image: "/assets/img/2017/01/SANTA-COMIDA.jpg"
 ---
 
 Já tinha um bom tempo que eu tentava uma reserva em uma das casas mais procuradas da capital baiana, A Casa Vidal, também conhecida carinhosamente como 'A Casinha'. Notícia nos principais blogs de gastronomia e em colunas do segmento como a grande descoberta, só faltava a gente conhecer, se encantar, provar e se apaixonar pela cozinha contemporânea, com a riqueza da Espanha e axé da Bahia.

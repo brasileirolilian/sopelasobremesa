@@ -26,7 +26,7 @@ tags:
   - "gingerbread"
   - "natal"
   - "paris"
-coverImage: "/assets/img/2014/03/destaque2.jpg"
+image: "/assets/img/2014/03/destaque2.jpg"
 ---
 
 Para lhe ajudar na hora de escolher os doces quitutes para compor sua Ceia de Natal ou presentear alguém querido, resolvi compilar aqui nessa postagem alguns dos melhores doces e sobremesas (na minha humilde opinião) que além de sabor tem precinhos ótimos.

@@ -17,7 +17,7 @@ tags:
   - "salvador"
   - "sobremesas-2"
   - "sobremesas-afetivas"
-coverImage: "/assets/img/2018/05/image1.jpeg"
+image: "/assets/img/2018/05/image1.jpeg"
 ---
 
 Ali no número 26, na praça Alexandre Fernandes, Garcia, o charmoso bistrô _**Larriquerrí**_ é conhecido por possuir uma cozinha afetiva, com criações e montagens contemporâneas mas que trazem lembranças e memórias aos seus comensais.

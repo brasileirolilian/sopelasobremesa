@@ -10,7 +10,7 @@ tags:
   - "chocolate"
   - "nozes"
   - "ovomaltine"
-coverImage: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.jpg"
 ---
 
 Esse é o ingrediente principal da **Castanho Brownie Artesanal**, dos pequenos detalhes na embalagem, na marquinha, no cuidado com as palavras escritas no cartãozinho, no papel manteiga timbrado, pude perceber a delicadeza e o cuidado. E ao dar a primeira mordida tive a certeza de que carinho e amor tornam ainda mais saboroso o brownie.

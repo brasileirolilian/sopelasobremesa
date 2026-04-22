@@ -14,7 +14,7 @@ tags:
   - "free-gluten"
   - "free-lactose"
   - "sobremesa"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Já tem algum tempo que venho namorando os bolos decorados da Duda, também venho acompanhando seu trabalho e os comentários de que são maravilhosos, incluindo das versões de bolinho do pote.

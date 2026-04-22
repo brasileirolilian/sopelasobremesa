@@ -22,7 +22,7 @@ tags:
   - "sem-reserva"
   - "sobremesas-2"
   - "sobremesas-de-filmes"
-coverImage: "/assets/img/2018/04/IMG_6734.1.jpg"
+image: "/assets/img/2018/04/IMG_6734.1.jpg"
 ---
 
 _Quem nunca babou pelos doces e sobremesas que aparecem nas telonas de longas do cinema?_  _Nesse post super inspirador pelos filmes e pelas doçuras, apresento à vocês sugestões deliciosas:_

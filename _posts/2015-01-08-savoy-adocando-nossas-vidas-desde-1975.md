@@ -8,7 +8,7 @@ tags:
   - "tapioca"
   - "torta"
   - "tradicao"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Não poderia iniciar 2015 com um poste menos doce.

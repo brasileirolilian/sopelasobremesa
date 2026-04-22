@@ -15,7 +15,7 @@ tags:
   - "paradis"
   - "patisserie-2"
   - "sao-paulo"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 _por: **Gabi Martinez - [Onde Comer em Salvador](http://ondecomeremsalvador.com.br/)**  e do **@ondecomeremsaopaulo**_

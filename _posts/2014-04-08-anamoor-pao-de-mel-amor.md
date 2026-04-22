@@ -10,7 +10,7 @@ tags:
   - "fofinho"
   - "mel"
   - "pao-de-mel"
-coverImage: "/assets/img/2014/04/IMG_0181.jpg"
+image: "/assets/img/2014/04/IMG_0181.jpg"
 ---
 
 Nossa em plena segundona fui trabalhar meio irritada!

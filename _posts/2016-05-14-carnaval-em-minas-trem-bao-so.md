@@ -35,7 +35,7 @@ tags:
   - "tiradentes"
   - "torresmo"
   - "viagem"
-coverImage: "/assets/img/2016/05/bh-post-destaque.jpg"
+image: "/assets/img/2016/05/bh-post-destaque.jpg"
 ---
 
 \[O post tá um tico atrasadinho, mas vale demais pra matar a saudade e se programar para o ano que vem\].

@@ -9,7 +9,7 @@ tags:
   - "gelatos"
   - "sobremesa"
   - "sorvetes"
-coverImage: "/assets/img/2015/11/destaque-crema.jpg"
+image: "/assets/img/2015/11/destaque-crema.jpg"
 ---
 
 Uma experiência única.

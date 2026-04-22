@@ -22,7 +22,7 @@ tags:
   - "salvador"
   - "sorvete"
   - "torta-mousse"
-coverImage: "/assets/img/2014/03/destaque-2.jpg"
+image: "/assets/img/2014/03/destaque-2.jpg"
 ---
 
 \[Editorial\]

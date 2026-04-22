@@ -26,7 +26,7 @@ tags:
   - "sobremesas-afetivas"
   - "tabuleiro-da-baiana"
   - "tabuleiro-da-baiana"
-coverImage: "/assets/img/2018/05/image1-1.jpeg"
+image: "/assets/img/2018/05/image1-1.jpeg"
 ---
 
 _“No tabuleiro da Baiana tem… Vatapá, Caruru, Mungunzá tem Ungú pra ioiô... Se eu pedir você me dá...o seu coração,seu amor de iaiá… “._

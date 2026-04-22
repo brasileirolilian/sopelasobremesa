@@ -15,7 +15,7 @@ tags:
   - "seven"
   - "sobremesa"
   - "torta"
-coverImage: "/assets/img/2014/03/destaque-com-cred.jpg"
+image: "/assets/img/2014/03/destaque-com-cred.jpg"
 ---
 
 "Muita poesia e arte para adoçar as nossas vidas"

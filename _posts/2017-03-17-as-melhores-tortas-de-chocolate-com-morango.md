@@ -17,7 +17,7 @@ tags:
   - "sobremesa"
   - "the-best-of"
   - "torta"
-coverImage: "/assets/img/2017/03/IMG_9861-1-e1489787605523.jpg"
+image: "/assets/img/2017/03/IMG_9861-1-e1489787605523.jpg"
 ---
 
 Sim, por algum tempo fui em busca das Melhores Tortas de Chocolate com Morango de Salvador.

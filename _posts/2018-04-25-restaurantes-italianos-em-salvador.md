@@ -20,7 +20,7 @@ tags:
   - "restaurantes"
   - "salvador"
   - "sobremesa"
-coverImage: "/assets/img/2018/03/IMG_1576.jpg"
+image: "/assets/img/2018/03/IMG_1576.jpg"
 ---
 
 _Resolvi compartilhar os meus Restaurantes Italianos em Salvador que são uns queridos para mim. Não conheço um ser humano que não goste de comida italiana. Sei lá o que esse tempero tem que só de sentir o cheiro, as texturas e os sabores: suspiro de amores._

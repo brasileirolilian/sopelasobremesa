@@ -16,7 +16,7 @@ tags:
   - "panini"
   - "sobremesas-2"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 "La dolce vita è qui" - ao ler essa frase na parede da **Cristallo** acreditei estar no lugar certo.

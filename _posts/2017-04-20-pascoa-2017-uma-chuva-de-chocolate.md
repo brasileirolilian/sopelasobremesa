@@ -31,7 +31,7 @@ tags:
   - "red-velvet"
   - "surra-de-chocolate"
   - "twix-caramelo-salgado"
-coverImage: "/assets/img/2017/04/IMG_1132-1-e1492655475392.jpg"
+image: "/assets/img/2017/04/IMG_1132-1-e1492655475392.jpg"
 ---
 
 Nesse ano, nossa Páscoa foi bem rica. Rica em paz, amor e muito, mas muito chocolate.

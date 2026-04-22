@@ -20,7 +20,7 @@ tags:
   - "sobremesa"
   - "sorvetes"
   - "viagem"
-coverImage: "/assets/img/2017/10/FullSizeRender-9.jpg"
+image: "/assets/img/2017/10/FullSizeRender-9.jpg"
 ---
 
 No início de agosto a Déa Martinez, nossa colab em Barcelona, conseguiu finalmente tirar férias e aproveitar o verão.

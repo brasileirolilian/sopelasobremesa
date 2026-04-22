@@ -18,7 +18,7 @@ tags:
   - "sobremesa"
   - "sorvete"
   - "verao"
-coverImage: "/assets/img/2014/03/foto-41.jpg"
+image: "/assets/img/2014/03/foto-41.jpg"
 ---
 
 Vamos falar a verdade: todo mundo tira férias, mas ninguém abre mão de uma boa sobremesa!

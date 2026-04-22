@@ -15,7 +15,7 @@ tags:
   - "pastel-de-belem"
   - "queijada-de-leite"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/03/destaque4.jpg"
+image: "/assets/img/2014/03/destaque4.jpg"
 ---
 
 Essa é a primeira frase que chama atenção no cardápio de sobremesas do restaurante português Casa Lisboa, que traz no  a essência da cozinha lusa e funciona numa linda casa de dois andares, com características típicas portuguesas e mediterrâneas. Da iluminação à decoração, o sentimento de fato é como se estivéssemos passando férias num lugarzinho como Arganil ou Ilha da Madeira.

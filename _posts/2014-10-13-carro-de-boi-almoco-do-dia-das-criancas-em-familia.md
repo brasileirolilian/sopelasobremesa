@@ -16,7 +16,7 @@ tags:
   - "infancia"
   - "pudim"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/10/destaque-carro-de-boi.jpg"
+image: "/assets/img/2014/10/destaque-carro-de-boi.jpg"
 ---
 
 Pensa comigo: Almoço +  domingo + Dia das Crianças = Shopping cheio.

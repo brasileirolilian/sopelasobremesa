@@ -21,7 +21,7 @@ tags:
   - "minas-gerais"
   - "queijo-canastra"
   - "tiradentes"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Como ir em Minas Gerais e não conhecer a cidadezinha de Tiradentes?!

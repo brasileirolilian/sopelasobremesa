@@ -21,7 +21,7 @@ tags:
   - "rio-vermelho"
   - "sobremesa"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque-2.jpg"
+image: "/assets/img/2014/03/destaque-2.jpg"
 ---
 
 Numa tarde de sábado qualquer, fui convidada para um compartilhar de conhecimentos sobre o mundo dos gelatos, na mais nova gelateria de Salvador:  **Mondo Gelatos Artesanais**, localizada no Rio Vermelho, no Largo de Santana. De um papo super descontraído, surgiu uma aula mais que interessante, surpreendente por assim dizer.

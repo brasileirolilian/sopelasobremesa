@@ -12,7 +12,7 @@ tags:
   - "ouro-preto"
   - "sobremesas-2"
   - "viagem"
-coverImage: "/assets/img/2016/07/destaque-1.jpg"
+image: "/assets/img/2016/07/destaque-1.jpg"
 ---
 
 _Essa é a parte 03 daquele post do Carnaval deste ano que fiz, começando por BH, lembram?!._ 

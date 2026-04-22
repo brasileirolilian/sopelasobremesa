@@ -17,7 +17,7 @@ tags:
   - "rio"
   - "tartelette"
   - "waffles"
-coverImage: "/assets/img/2014/03/destaque-2.jpg"
+image: "/assets/img/2014/03/destaque-2.jpg"
 ---
 
 Hoje o post é dedicado ao Rio de Janeiro, cidade que me conquistou e me acolheu no exato momento em que pisei os pés em seu solo.

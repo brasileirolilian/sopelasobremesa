@@ -17,7 +17,7 @@ tags:
   - "sobremesa"
   - "wine"
   - "woody-allen"
-coverImage: "/assets/img/2017/10/poster_bluejasmine.jpg"
+image: "/assets/img/2017/10/poster_bluejasmine.jpg"
 ---
 
 16Tem gente não gosta, mas eu particularmente sou apaixonada pelos filmes de Woddy Allen e fiquei encantada com o filme _Blue Jasmine_.

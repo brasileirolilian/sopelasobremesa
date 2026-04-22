@@ -8,7 +8,7 @@ tags:
   - "japones"
   - "restaurante"
   - "toko"
-coverImage: "/assets/img/2015/05/destaque-chefsclub-01.jpg"
+image: "/assets/img/2015/05/destaque-chefsclub-01.jpg"
 ---
 
 Me cadastrei no maior club para apaixonados por gastronomia tem mais ou menos um mês, um mês e meio.

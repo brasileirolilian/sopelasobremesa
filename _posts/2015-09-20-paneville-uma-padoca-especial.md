@@ -12,7 +12,7 @@ tags:
   - "docinhos"
   - "padaria"
   - "padoca"
-coverImage: "/assets/img/2015/09/destque-paneville.jpg"
+image: "/assets/img/2015/09/destque-paneville.jpg"
 ---
 
 Conheci a **Paneville Padaria Gourmet** em uma segunda de manhã bem cedo, voltando da casa do amore. Ainda não tinha tomado café e me lembrei que numa rua próxima da minha casa, tinha recentemente inaugurado uma padoca com fachada bem charmosa. Resolvi que minha primeira refeição do dia seria ali, num cantinho bem decorado, com atendentes extremamente atenciosas e com um buffet com aparência de delicioso. Simples, mas reforçado, organizado e com uma boa variedade.

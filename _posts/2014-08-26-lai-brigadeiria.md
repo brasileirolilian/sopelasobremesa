@@ -12,7 +12,7 @@ tags:
   - "para-presentear"
   - "publieditorial"
   - "sobremesa"
-coverImage: "/assets/img/2014/08/destaque21.jpg"
+image: "/assets/img/2014/08/destaque21.jpg"
 ---
 
 **#Publieditorial**

@@ -12,7 +12,7 @@ tags:
   - "importadoras"
   - "kits"
   - "vinhos"
-coverImage: "/assets/img/2015/06/destaque-post-paulagaya-diaados-kits.jpg"
+image: "/assets/img/2015/06/destaque-post-paulagaya-diaados-kits.jpg"
 ---
 
 A **Paula Gaya Importadora**, representante exclusiva de grandes marcas de vinhos em Salvador e com duas lojas na Ladeira da Barra e na Av. Luis Eduardo Magalhães, aproveita o **Dia dos Namorados**, celebrado no Brasil no dia 12 de junho, para criar três kits que atendem como belos presentes, tanto para ele quanto para ela.

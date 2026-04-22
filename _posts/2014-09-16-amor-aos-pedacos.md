@@ -11,7 +11,7 @@ tags:
   - "docinhos"
   - "sobremesas-2"
   - "sorvetes"
-coverImage: "/assets/img/2014/09/IMG_4547.jpg"
+image: "/assets/img/2014/09/IMG_4547.jpg"
 ---
 
 A primeira vez que fui a doceria Amor aos Pedaços provei a Torta Mil Folhas - a massa bem leve, não engordurada e o recheio de creme com leve sabor de baunilha. Estava boa, mas  nada surpreendente.  Como não sabia exatamente como funcionava o sistema de compra, não sabia que pesava o pedaço de torta. Pedi um pedaço do tamanho  que a maioria das docerias servem e na hora de pagar...Putz! A rebordosa.

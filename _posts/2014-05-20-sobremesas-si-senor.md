@@ -14,7 +14,7 @@ tags:
   - "flauta"
   - "petit-gateau"
   - "sorvete"
-coverImage: "/assets/img/2014/05/IMG_1624.jpg"
+image: "/assets/img/2014/05/IMG_1624.jpg"
 ---
 
 Celebrar a vida em um Mexican Bar é a coisa mais divertida que há!

@@ -12,7 +12,7 @@ tags:
   - "restaurantes"
   - "sobremesa"
   - "sobremesas-a-dois"
-coverImage: "/assets/img/2015/06/destaque-dia-dos-namorados.jpg"
+image: "/assets/img/2015/06/destaque-dia-dos-namorados.jpg"
 ---
 
 _#LoveIsinTheAir_

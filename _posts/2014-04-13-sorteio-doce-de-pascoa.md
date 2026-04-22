@@ -8,7 +8,7 @@ tags:
   - "pascoa"
   - "sorte"
   - "sorteio"
-coverImage: "/assets/img/2014/04/destaque-sorteio.jpg"
+image: "/assets/img/2014/04/destaque-sorteio.jpg"
 ---
 
 Galera,

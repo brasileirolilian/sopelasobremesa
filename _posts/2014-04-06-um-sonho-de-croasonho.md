@@ -15,7 +15,7 @@ tags:
   - "julieta"
   - "morangos"
   - "romeu"
-coverImage: "/assets/img/2014/04/IMG_0149-e1396961055596.jpg"
+image: "/assets/img/2014/04/IMG_0149-e1396961055596.jpg"
 ---
 
 Sábado a noite não é dia apenas de balada!

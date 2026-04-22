@@ -15,7 +15,7 @@ tags:
   - "salao-de-pascoa"
   - "sobremesa"
   - "tendencias"
-coverImage: "/assets/img/2018/01/salao-de-pascoa-q98a8523-credito-marcelo-brandt-g1.jpg"
+image: "/assets/img/2018/01/salao-de-pascoa-q98a8523-credito-marcelo-brandt-g1.jpg"
 ---
 
 A [_Gabi Ribeiro do Blog da Confeiteira_](http://blogdaconfeiteira.com.br/) foi conferir o Salão de Páscoa 2018, que aconteceu em São Paulo no dia 23/01 (terça-feira); a Feira promovida na capital paulista com o intuito de apresentar as novidades no mercado, tem uma grande aposta da Associação Brasileira da Industria de Chocolates, Cacau, Amendoim, Balas e Derivados (Abicab) que este ano, os brasileiros farão jus e manterão a tradição de presentear com ovos de Páscoa à Semana Santa.

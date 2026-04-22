@@ -16,7 +16,7 @@ tags:
   - "mousse"
   - "petit-gateau"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/03/destque.jpg"
+image: "/assets/img/2014/03/destque.jpg"
 ---
 
 "Que a nossa amizade cresça feito um pão fofinho ..."

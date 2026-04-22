@@ -34,7 +34,7 @@ tags:
   - "santiago"
   - "sobremesas-2"
   - "tesouro"
-coverImage: "/assets/img/2017/10/IMG_7120.jpg"
+image: "/assets/img/2017/10/IMG_7120.jpg"
 ---
 
 Uma paixão de que vem de outras vidas, o _**Doce de Leite**_, é de fato uma sobremesa dos Deuses.

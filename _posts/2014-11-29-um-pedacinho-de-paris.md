@@ -18,7 +18,7 @@ tags:
   - "patisserie-2"
   - "sobremesas-2"
   - "st-michel"
-coverImage: "/assets/img/2014/03/destaque2.jpg"
+image: "/assets/img/2014/03/destaque2.jpg"
 ---
 
 Eu já falei aqui no blog da minha paixão por Paris, do quanto amo suas ruas, seu cheiro, do seu sotaque e da sua confeitaria.

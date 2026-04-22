@@ -10,7 +10,7 @@ tags:
   - "pizza"
   - "pizza-doce"
   - "rodizio"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 No dia 31 de Julho, a convite da Equipe **Sampa Grill & Pizza**, fomos conferir um dos dias da programação da Semana da Resenha. Neste dia, acontecia a Sexta do Rodízio de Pizzas Especiais, incluindo uma carta de Pizzas Doces, como Ovomaltine, Sonho de Valsa, M&M's, Churros, Paçoca, Beijinho. Brigadeiro, Pipoca de Brownie e muitos outros sabores.

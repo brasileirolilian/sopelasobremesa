@@ -10,7 +10,7 @@ tags:
   - "doces-brasileiros"
   - "sobremesa"
   - "sorvete"
-coverImage: "/assets/img/2014/03/destaque4.jpg"
+image: "/assets/img/2014/03/destaque4.jpg"
 ---
 
 Yes, nós temos doces de compotas!!!

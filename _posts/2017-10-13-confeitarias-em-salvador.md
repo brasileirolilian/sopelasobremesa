@@ -26,7 +26,7 @@ tags:
   - "sweet"
   - "sweet-milla"
   - "torta"
-coverImage: "/assets/img/2017/10/621008_417868088249622_1510077985_o.jpg"
+image: "/assets/img/2017/10/621008_417868088249622_1510077985_o.jpg"
 ---
 
 Não sei vocês, mas eu não sei o que seria de mim sem as docerias, confeitarias e patisseries. Em resumo, basicamente, são a mesma coisa: é o universo de gostosuras cheias de doçuras = doces e sobremesas. Mas, trazendo um pouquinho de informação para esclarecimento, não custa nada compartilhar aqui né?

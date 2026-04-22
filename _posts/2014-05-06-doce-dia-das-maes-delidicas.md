@@ -18,7 +18,7 @@ tags:
   - "mamis"
   - "zero-gluten"
   - "zero-lactose"
-coverImage: "/assets/img/2014/05/blog-maes-2-1.jpg"
+image: "/assets/img/2014/05/blog-maes-2-1.jpg"
 ---
 
 Dia das Mães se aproximando, mas ainda dá tempo fazer encomendas deli delis para adoçar o dia mais especial do ano!

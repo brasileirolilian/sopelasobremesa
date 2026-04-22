@@ -18,7 +18,7 @@ tags:
   - "sobremesa"
   - "sweet"
   - "vem-meu-ceu"
-coverImage: "/assets/img/2018/01/pao-de-mel-tempero-de-familia-rodrigo-hilbert-2016-670x320.jpg"
+image: "/assets/img/2018/01/pao-de-mel-tempero-de-familia-rodrigo-hilbert-2016-670x320.jpg"
 ---
 
 Primeiro post de 2018 não poderia ser menos doce e apaixonante...

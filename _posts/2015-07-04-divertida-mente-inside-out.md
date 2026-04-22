@@ -11,7 +11,7 @@ tags:
   - "pipoca"
   - "pipoca-doce"
   - "pra-assistir"
-coverImage: "/assets/img/2015/07/destaque-inside-out.jpg"
+image: "/assets/img/2015/07/destaque-inside-out.jpg"
 ---
 
 Para quem acha que animação é filme apenas para criança, engana-se. E **'Divertida Mente'** (_Inside Out_) é mais um lindo exemplo que está aí para provar o contrário. Um filme em animação feito para todas as idades.

@@ -19,7 +19,7 @@ tags:
   - "mr-beer"
   - "porter"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/09/destaque7.jpg"
+image: "/assets/img/2014/09/destaque7.jpg"
 ---
 
 Quem disse que cerveja não combina com sobremesas e doces?!

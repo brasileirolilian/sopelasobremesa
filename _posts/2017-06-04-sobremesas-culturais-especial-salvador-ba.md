@@ -25,7 +25,7 @@ tags:
   - "sobremesa"
   - "sobremesas-culturais"
   - "sorvete"
-coverImage: "/assets/img/2017/06/IMG_1369-1-e1496595074860.jpg"
+image: "/assets/img/2017/06/IMG_1369-1-e1496595074860.jpg"
 ---
 
 **_\[Esse post é dedicado a Salvador, cultura e suas doçuras\]_**

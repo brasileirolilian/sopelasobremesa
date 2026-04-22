@@ -11,7 +11,7 @@ tags:
   - "filme"
   - "marigold"
   - "sorria"
-coverImage: "/assets/img/2015/05/blog-so-vim-pela-sobremesa-dicas-filmes-dia-das-maes.jpg"
+image: "/assets/img/2015/05/blog-so-vim-pela-sobremesa-dicas-filmes-dia-das-maes.jpg"
 ---
 
 Um cineminha no final de semana cai super bem, né?!

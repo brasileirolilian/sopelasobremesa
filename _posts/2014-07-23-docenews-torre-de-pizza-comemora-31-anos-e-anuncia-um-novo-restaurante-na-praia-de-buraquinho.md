@@ -9,7 +9,7 @@ tags:
   - "restaurante"
   - "salvador"
   - "torre-de-pizza"
-coverImage: "/assets/img/2014/07/torre-05.jpg"
+image: "/assets/img/2014/07/torre-05.jpg"
 ---
 
 Comemorando 31 anos da Torre de Pizza, o casal de empresários Giselle e Flavio Barbosa acaba de anunciar a chegada de uma nova unidade de sua tradicional rede de pizzarias. Em clima de ‘soft opening’, a inauguração acontece em agosto, junto ao “Mais Hotel”, localizado na exclusiva Praia de Buraquinho.

@@ -21,7 +21,7 @@ tags:
   - "mousse"
   - "natal"
   - "sobremesas-2"
-coverImage: "/assets/img/2017/12/DSC_0511.jpg"
+image: "/assets/img/2017/12/DSC_0511.jpg"
 ---
 
 Fim de Ano chegando e com ele aquelas festas que todo mundo aguarda o ano inteirinho: confraternizar com a galera do trabalho, encontrar os amigos e reunir à família.

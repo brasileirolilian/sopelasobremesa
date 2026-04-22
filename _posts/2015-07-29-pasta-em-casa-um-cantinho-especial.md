@@ -20,7 +20,7 @@ tags:
   - "sobremesas-2"
   - "sorvete"
   - "torta-de-maca"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Sabe aquele restaurante que você se sente em um cantinho de sua própria casa ?!

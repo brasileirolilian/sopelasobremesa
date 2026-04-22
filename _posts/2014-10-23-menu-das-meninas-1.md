@@ -14,7 +14,7 @@ tags:
   - "petiscos"
   - "restaurantes"
   - "sobremesas-2"
-coverImage: "/assets/img/2014/10/destaque-menu-das-meninas-ep01.jpg"
+image: "/assets/img/2014/10/destaque-menu-das-meninas-ep01.jpg"
 ---
 
 No dia 29/09 foi ao ar o primeiro episódio de um trabalho que venho fazendo junto a Gabi (Onde Comer em Salvador) e Raiza (Bonecas do Boteco), é o projeto #MenudasMeninas.

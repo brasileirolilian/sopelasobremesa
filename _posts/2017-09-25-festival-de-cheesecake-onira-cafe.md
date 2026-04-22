@@ -26,7 +26,7 @@ tags:
   - "salvador-shopping"
   - "sobremesa"
   - "twix"
-coverImage: "/assets/img/2017/09/IMG_2380.jpg"
+image: "/assets/img/2017/09/IMG_2380.jpg"
 ---
 
 É isso mesmo que você leu no título aí em cima!

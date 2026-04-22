@@ -19,7 +19,7 @@ tags:
   - "salvador"
   - "santo-antonio-alem-do-carmo"
   - "turismo"
-coverImage: "/assets/img/2018/03/Piscina_Top_Suite_1707x1280_S.jpg"
+image: "/assets/img/2018/03/Piscina_Top_Suite_1707x1280_S.jpg"
 ---
 
 _Sou apaixonada por hotéis que têm um conceito boutique: o clima intimista, todo aconchegadinho e fofinho. Onde podemos encontrar ênfase maior nos elementos de arte, prvacidade e interatividade, similar ao conceito charme._

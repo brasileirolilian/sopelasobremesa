@@ -19,7 +19,7 @@ tags:
   - "sorvete"
   - "torre-eiffel"
   - "woody"
-coverImage: "/assets/img/2014/04/IMG_0551.jpg"
+image: "/assets/img/2014/04/IMG_0551.jpg"
 ---
 
 Eu não escondo de ninguém que amo Paris, sim amo meu Brasil, amo o Rio, amo minha cidade - Salvador.

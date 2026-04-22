@@ -7,7 +7,7 @@ categories:
 tags: 
   - "brigadeiro"
   - "ovomaltine"
-coverImage: "/assets/img/2014/04/IMG_0101-e1396835340853.jpg"
+image: "/assets/img/2014/04/IMG_0101-e1396835340853.jpg"
 ---
 
 Em pleno sábado precisei ir ao Centro da cidade resolver umas coisas. Tinha acordado cedo, e nem tinha tomado café direito guardando minha barriguinha para o almoço. Depois de muito engarrafamento , muitas horas depois, quando chego em casa e recebo das mãos do porteiro uma sacolinha em papel panamá, com uma fitinha do Senhor do Bonfim e a etiquetinha da Delícias da Daninha. Quando abro.... uma linda caixinha com Brigadeiros Gourmets.

@@ -16,7 +16,7 @@ tags:
   - "sabor"
   - "tapioca"
   - "torta"
-coverImage: "/assets/img/2014/09/destaqte.jpg"
+image: "/assets/img/2014/09/destaqte.jpg"
 ---
 
 Conheci a Ópera Gourmet pelo Instagram e fotos belíssimas de seus produtos. Coisa fina e com cara de bom...

@@ -15,7 +15,7 @@ tags:
   - "paris"
   - "patisserie-2"
   - "tiramisu"
-coverImage: "/assets/img/2014/04/IMG_9714-e1397389773677.jpg"
+image: "/assets/img/2014/04/IMG_9714-e1397389773677.jpg"
 ---
 
 \[FECHOU EM AGOSTO/2014\]

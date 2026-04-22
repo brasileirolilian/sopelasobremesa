@@ -8,7 +8,7 @@ tags:
   - "familia"
   - "pizza"
   - "salvador"
-coverImage: "/assets/img/2015/05/destaque-33.jpg"
+image: "/assets/img/2015/05/destaque-33.jpg"
 ---
 
 No último domingo (17), fomos convidados para o lançamento do novo cardápio de pizza do **Restaurante 33**, localizado na ala gourmet do Salvador Shopping. Com serviço a la carte, as pizzas são servidas aos domingos a partir das 18h e é ideal para fechar o final de semana em família e com chave de ouro.

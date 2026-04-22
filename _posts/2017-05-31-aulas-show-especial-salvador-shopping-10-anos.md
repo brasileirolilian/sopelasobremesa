@@ -22,7 +22,7 @@ tags:
   - "salvador-shopping"
   - "sobremesa"
   - "torta-gelada"
-coverImage: "/assets/img/2017/06/IMG_5598-e1496861350189.jpg"
+image: "/assets/img/2017/06/IMG_5598-e1496861350189.jpg"
 ---
 
 No último dia 27, sábado, fui conferir as aulas show que estavam rolando no Salvador Shopping, em comemoração dos seus 10 anos e em celebração às 10 edições do Restaurant Week Salvador (que vai até o dia 09/06).

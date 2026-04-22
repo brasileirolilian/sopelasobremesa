@@ -26,7 +26,7 @@ tags:
   - "sopelasobremesa"
   - "spain"
   - "tarta"
-coverImage: "La-Pedrera-Gaudí.jpg"
+image: "La-Pedrera-Gaudí.jpg"
 ---
 
 _\[A Déa Martinez do extinto @maechegamos, agora se fixou em Barcelona, e num post compacto, selecionou algumas das primeiras dicas de doçuras pelas terras espanholas e dá outras dicas no Perfil do Instagram: @sigamebcn. Confira e acompanhe, porque vem mais coisa por aí...\]_

@@ -8,7 +8,7 @@ tags:
   - "helado-mexicano"
   - "picole"
   - "verao"
-coverImage: "/assets/img/2014/03/destaque2.jpg"
+image: "/assets/img/2014/03/destaque2.jpg"
 ---
 
 Ninguém merece passar calorão de verão sem se refrescar né?

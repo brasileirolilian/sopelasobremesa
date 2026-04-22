@@ -22,7 +22,7 @@ tags:
   - "sheraton-da-bahia"
   - "sobremesas-2"
   - "turismo"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Qualquer dia você pode curtir uns dias de puro romance, não necessariamente precisa ser no Dia dos Namorados em específico. Mas quando pintar um clima ou até fazer esse clima surgir, porque no Sheraton da Bahia, antigo Tropical da Bahia, tem super clima de amor no ar. Pra começar pela sofisticação, beleza e estrutura de todo o hotel; segundo, pelo aconchego e delícia que o quarto é. A cama, os lençóis, travesseiros, toalhas. E ainda recebemos de mimo água para refrescar e um par de roupão.

@@ -12,7 +12,7 @@ tags:
   - "docinhos"
   - "fit"
   - "sobremesa"
-coverImage: "/assets/img/2015/10/destaque-brigadeiros.jpg"
+image: "/assets/img/2015/10/destaque-brigadeiros.jpg"
 ---
 
 Como é que eu ainda não tinha reunido alguns dos melhores brigadeiros em um post só?!

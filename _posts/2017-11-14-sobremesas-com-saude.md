@@ -26,7 +26,7 @@ tags:
   - "sorvetes"
   - "tortinha-raw"
   - "veganza"
-coverImage: "/assets/img/2017/11/IMG_7875.jpg"
+image: "/assets/img/2017/11/IMG_7875.jpg"
 ---
 
 Vamos ser honestos? Não dá pra ser fat o tempo todo, né? Por mais que a gente queira só aquelas belezuras cheias de chocolate, açúcar, glacê, brigadeiros e etc; o organismo pede algo mais frescos, mais natural, menos doce e mais leve. E como somos democráticos, e não temos preconceito de provar nada, se diz que é sobremesa 'nóis tá como?!', isso mesmo: doidos pra provar. Sendo fit ou sendo fat, doces e sobremesas são com a gente mesmo.

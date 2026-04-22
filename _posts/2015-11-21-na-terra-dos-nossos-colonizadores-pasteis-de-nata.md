@@ -12,7 +12,7 @@ tags:
   - "pastel-de-nata"
   - "porto"
   - "portugal"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 _\- Em Outubro a Déa deu um pulinho em Porto -_ 

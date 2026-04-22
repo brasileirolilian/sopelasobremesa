@@ -24,7 +24,7 @@ tags:
   - "suica"
   - "trufas"
   - "zurich"
-coverImage: "/assets/img/2017/09/IMG_4074.jpg"
+image: "/assets/img/2017/09/IMG_4074.jpg"
 ---
 
 E quando a gente recebe uma mensagem no whatsapp recheada de fotos e comentários à respeito de uma das melhores docerias/ confeitarias do mundo?!...

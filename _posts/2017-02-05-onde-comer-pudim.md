@@ -18,7 +18,7 @@ tags:
   - "salvador"
   - "sobremesa"
   - "taste"
-coverImage: "/assets/img/2017/02/IMG_37641-400x400.png"
+image: "/assets/img/2017/02/IMG_37641-400x400.png"
 ---
 
 _Como você prefere o seu **PUDIM**: com furinhos ou sem furinhos?!_

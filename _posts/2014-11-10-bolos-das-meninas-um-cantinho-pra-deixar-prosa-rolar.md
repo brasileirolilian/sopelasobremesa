@@ -25,7 +25,7 @@ tags:
   - "sequilho"
   - "sobremesa"
   - "tapioca"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Na última terça, dia 04/11, fui conhecer a lojinha **Bolos das Meninas**.

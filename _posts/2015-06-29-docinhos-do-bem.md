@@ -15,7 +15,7 @@ tags:
   - "zero-gluten"
   - "zero-lac"
   - "zero-lactose"
-coverImage: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.jpg"
 ---
 
 Essa postagem já era pra sair tem um bom tempo. Mas entre uma sobremesa e outra só pude parar a pouco para escrever e me dedicar também aos **docinhos do bem**.

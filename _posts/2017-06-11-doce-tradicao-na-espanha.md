@@ -19,7 +19,7 @@ tags:
   - "siga-me-bcn"
   - "sobremesa"
   - "spain"
-coverImage: "/assets/img/2017/10/FullSizeRender-1-1.jpg"
+image: "/assets/img/2017/10/FullSizeRender-1-1.jpg"
 ---
 
 O **_Doçuras e Aventuras_** de hoje lhes apresenta a **Crema Catalaña**, uma sobremesa muito típica da Catalunya, uma verdadeira doce tradição.

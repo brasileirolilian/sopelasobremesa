@@ -14,7 +14,7 @@ tags:
   - "pudim"
   - "special"
   - "tapioca"
-coverImage: "/assets/img/2014/04/1900174_646658018716352_940513360_n-e1396900476166.jpg"
+image: "/assets/img/2014/04/1900174_646658018716352_940513360_n-e1396900476166.jpg"
 ---
 
 Depois de tanto ouvir falar e muito bem do cardápio especial do Al Mare, ela0borado pelo Chef Fabrício Lemos, resolvi ir provar no almoço e claro que tinha de ter sobremesa. (pra não perder a graça! rsrsrsrs O Al Mare Special Week entre os dias 24/03 a 06/04 oferecerá uma experiência única com preços únicos também: entrada + prato principal + sobremesa, no almoço por R$ 39,90 e o jantar por R$ 54,90.

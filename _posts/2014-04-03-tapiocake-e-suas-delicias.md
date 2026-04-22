@@ -11,7 +11,7 @@ tags:
   - "brigadeiro"
   - "doce-de-leite"
   - "docinho"
-coverImage: "/assets/img/2014/04/IMG_9907-e1396487496269.jpg"
+image: "/assets/img/2014/04/IMG_9907-e1396487496269.jpg"
 ---
 
 Pra começar hoje o dia indeciso se chove ou se faz sol, nada melhor que um bolinho de tapioca com doce de leite artesanal né?!

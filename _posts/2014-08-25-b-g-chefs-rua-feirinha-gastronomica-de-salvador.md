@@ -15,7 +15,7 @@ tags:
   - "salvador"
   - "sobremesas-2"
   - "tortinha"
-coverImage: "/assets/img/2014/03/destaque4.jpg"
+image: "/assets/img/2014/03/destaque4.jpg"
 ---
 
 Nos dias 23 e 24 de agosto, aconteceu a primeira feira gastronômica de Salvador reunindo alguns do melhores Chefs da capital soteropolitana. Entre quitutes, sanduíches, doces e sobremesas, turistas e soteropolitanos, amantes e afins de uma boa comida marcaram presença para uma muvuca cheia de aromas e sabores, na inauguração do novo calçadão de Salvador na orla da Barra.

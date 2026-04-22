@@ -17,7 +17,7 @@ tags:
   - "sobremesa"
   - "torta"
   - "vodka"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Fui convidada no último dia 18/09 para um evento da **Grey Goose** em parceria com a **Granulado Café e Bistrô**. O evento reuniu alguns convidados, entre foodblogs e jornalistas, para o lançamento de novos drinks feitos com a vodka francesa

@@ -15,7 +15,7 @@ tags:
   - "mil-folhas"
   - "submarino"
   - "torta"
-coverImage: "/assets/img/2014/03/torta-mil-folhas.jpg"
+image: "/assets/img/2014/03/torta-mil-folhas.jpg"
 ---
 
 \[ATUALIZAÇÃO EM 06/02/2015 - Abuela Goye unidades de Salvador - FECHARAM!!!\]

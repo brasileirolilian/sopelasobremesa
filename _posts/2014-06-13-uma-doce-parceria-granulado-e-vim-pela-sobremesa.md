@@ -15,7 +15,7 @@ tags:
   - "morango"
   - "sobremesa"
   - "torta"
-coverImage: "/assets/img/2014/06/granulado-destaque.jpg"
+image: "/assets/img/2014/06/granulado-destaque.jpg"
 ---
 
 A Granulado fechou com a gente uma doce parceria para o concurso cultural para o Dia dos Namorados, nos dando duas mini tortas KitKat com Morangos como gifts para os participantes ganhadores, sendo uma para quem ganhasse no IG e outra para o vencedor na fanpage.

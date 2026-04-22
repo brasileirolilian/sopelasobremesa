@@ -20,7 +20,7 @@ tags:
   - "valparaiso"
   - "viagem"
   - "vina-del-mar"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Há um ano tive a oportunidade de conhecer as terras chilenas.

@@ -13,7 +13,7 @@ tags:
   - "gotas-de-chocolate"
   - "mms"
   - "nutella"
-coverImage: "/assets/img/2014/03/IMG_9452-e1395709537599.jpg"
+image: "/assets/img/2014/03/IMG_9452-e1395709537599.jpg"
 ---
 
 Vou logo avisando: não consegui resistir e esperar março chegar pra pedir de novo.

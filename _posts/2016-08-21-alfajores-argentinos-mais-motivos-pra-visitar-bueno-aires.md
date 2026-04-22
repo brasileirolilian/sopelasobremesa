@@ -17,7 +17,7 @@ tags:
   - "la-recoleta"
   - "milka"
   - "sobremesa"
-coverImage: "/assets/img/2016/07/destaque-1.jpg"
+image: "/assets/img/2016/07/destaque-1.jpg"
 ---
 
 Ai como é bom ganhar mimos de seguidores e amigos do blog. **\\o/** E um desses mimos foram _alfajores_ vindos diretamente de Buenos Aires/ARG,  trazidos pela querida Tai Queiroz.

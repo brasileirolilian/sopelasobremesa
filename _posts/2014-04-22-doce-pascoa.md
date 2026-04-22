@@ -15,7 +15,7 @@ tags:
   - "nha-benta"
   - "pascoa"
   - "trufinhas"
-coverImage: "/assets/img/2014/04/IMG_0847.jpg"
+image: "/assets/img/2014/04/IMG_0847.jpg"
 ---
 
 Deixei pra saborear meus Ovos de Páscoa na volta da viagem...

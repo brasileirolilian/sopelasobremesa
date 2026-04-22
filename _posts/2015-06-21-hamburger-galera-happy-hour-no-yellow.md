@@ -11,7 +11,7 @@ tags:
   - "hamburger"
   - "happy-hour"
   - "onin-rings"
-coverImage: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.jpg"
 ---
 
 Hambúrguer + Galera = Happy Hour no Yellow...

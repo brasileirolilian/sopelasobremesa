@@ -20,7 +20,7 @@ tags:
   - "saudavel"
   - "saude"
   - "zero-gluten"
-coverImage: "/assets/img/2014/04/IMG_0325-e1397302679954.jpg"
+image: "/assets/img/2014/04/IMG_0325-e1397302679954.jpg"
 ---
 
 Pra quem não sabe o alimento funcional é aquele além de fornecer energia ao corpo promove a manutenção da nossa saúde.

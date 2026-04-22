@@ -18,7 +18,7 @@ tags:
   - "nutella"
   - "trufas"
   - "vinho"
-coverImage: "/assets/img/2014/03/destaque4.jpg"
+image: "/assets/img/2014/03/destaque4.jpg"
 ---
 
 Que tal adoçar o dia mais romântico do ano com presentes saborosos e lindos?!

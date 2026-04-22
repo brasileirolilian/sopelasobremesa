@@ -14,13 +14,20 @@ layout: default
             }}</span></span>
         {%- endif -%}
       </p>
-      {% if page.coverImage %}
-      <img src="{{ page.coverImage | relative_url }}" alt="{{ page.title | escape }}" class="post-detail-cover">
+
+      {% if page.image %}
+      <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="post-detail-cover">
       {% endif %}
     </header>
+
+    {% include share_buttons.html %}
+    <hr class="share-divider">
 
     <div class="post-content" itemprop="articleBody">
       {{ content }}
     </div>
+
+    <hr class="share-divider">
+    {% include share_buttons.html %}
   </article>
 </div>

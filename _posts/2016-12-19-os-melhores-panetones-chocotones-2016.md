@@ -27,7 +27,7 @@ tags:
   - "perini"
   - "salvador"
   - "sobremesa"
-coverImage: "/assets/img/2016/12/01_PANETTONE-kYW-1200x900@Quotidiano_Inside_Italy-Web.jpg"
+image: "/assets/img/2016/12/01_PANETTONE-kYW-1200x900@Quotidiano_Inside_Italy-Web.jpg"
 ---
 
 De origem italiana, o Panetone é um pãozinho doce - com suave aroma e sabor de baunilha recheado com frutas secas. Tradicionalmente feito no Natal, o Panetone tem algumas versões ao redor de sua história e com o passar do tempo adaptações foram feitas em sua receita, surgindo: chocotones, sorvetones, colombas, roscas, e outras delícias.
