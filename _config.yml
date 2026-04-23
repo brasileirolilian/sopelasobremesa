@@ -25,9 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.sopelasobremesa.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 author: Lílian Brasileiro
+lang: pt-BR
 
 # Social
-github_username: sopelasobremesa
 instagram_username: sopelasobremesa
 
 # Logo

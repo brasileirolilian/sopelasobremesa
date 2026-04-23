@@ -20,7 +20,7 @@ find "$SRC_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \
     # We only convert if the destination file doesn't exist or is older than the source file
     if [ ! -f "$dest_path" ] || [ "$file" -nt "$dest_path" ]; then
         echo "Converting: $file -> $dest_path"
-        cwebp -q 95 "$file" -o "$dest_path" -quiet
+        cwebp -q 85 "$file" -o "$dest_path" -quiet
     else
         echo "Skipping (already exists and up to date): $dest_path"
     fi
