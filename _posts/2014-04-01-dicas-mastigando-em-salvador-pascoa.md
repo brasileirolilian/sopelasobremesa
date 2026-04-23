@@ -7,7 +7,7 @@ tags:
   - "dicas"
   - "mastigando-em-alvador"
   - "pascoa"
-image: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.webp"
 redirect_from:
   - "/dicas-mastigando-em-salvador-pascoa/"
 ---

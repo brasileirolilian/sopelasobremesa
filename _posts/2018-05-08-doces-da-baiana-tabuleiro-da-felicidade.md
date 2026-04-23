@@ -26,7 +26,7 @@ tags:
   - "sobremesas-afetivas"
   - "tabuleiro-da-baiana"
   - "tabuleiro-da-baiana"
-image: "/assets/img/2018/05/image1-1.jpeg"
+image: "/assets/img/2018/05/image1-1.webp"
 redirect_from:
   - "/doces-da-baiana-tabuleiro-da-felicidade/"
 ---
@@ -42,21 +42,21 @@ Tudo começou quando ela tinha 13 anos. A mãe, também baiana de acarajé, a co
 E além das preparações salgadas, como acarajé, abará e passarinha, a Katita aprendeu também com sua mãe a fazer os doces, que trazem a felicidade para seu tabuleiro e despertam as memória afetivas de muitas pessoas e por isso elas fazem parte da nossa série _**“Doces e sobremesas afetivas”**_ [(clique aqui saiba mais).](http://www.sopelasobremesa.com/lembrancas-com-docuras-e-muito-afeto/)
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/78ABB87B-300F-454C-942A-859304A44568-510x680.jpg" alt="Cocada sempre uma doçura afetiva." />
+  <img src="/assets/img/2018/05/78ABB87B-300F-454C-942A-859304A44568-510x680.webp" alt="Cocada sempre uma doçura afetiva." />
   <figcaption>Cocada sempre uma doçura afetiva.</figcaption>
 </figure>
 
 Começando com as _**Cocadas**_. Sejam elas de _amendoim_, _queimada_ ou _branca_, elas têm seu público cativo, além de conquistarem muito o paladar dos turistas. Mas no tabuleiro da Katita há outras opções, como o **_Doce de Tamarindo_** - um _“azedinho-doce gostoso”_ que vira sobremesa após a um acarajé duplo. A Baiana revela que a fruta do doce é comprada na Feira de São Joaquim e que todas as suas preparações são artesanais, além de prezar por usar ingredientes frescos.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/5D54CD01-8E5D-499E-98EC-AA116FBB3C03-510x680.jpg" alt="O copinho de café é vendido por R$1,50 e cocada por R$4" />
+  <img src="/assets/img/2018/05/5D54CD01-8E5D-499E-98EC-AA116FBB3C03-510x680.webp" alt="O copinho de café é vendido por R$1,50 e cocada por R$4" />
   <figcaption>O copinho de café é vendido por R$1,50 e cocada por R$4</figcaption>
 </figure>
 
 Outra doçura, que faz parte do tabuleiro da baiana, é conhecida por dois nomes. O primeiro, _segundo o antropólogo Raul Lody_, é por ele ser frito no final da tarde, hora que os estudantes passava, ao sair dos colégios, pelas esquinas, onde estão arrumados os tabuleiros. Por isso ganhou o nome de _**“Bolinho de estudante”**_.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/2DDC5FA6-0C46-4B57-B59F-DA6EEB9C2EB5-510x680.jpg" alt="Bolinho de Estudante - fresquinho e quentinho é igual a abraço com carinho." />
+  <img src="/assets/img/2018/05/2DDC5FA6-0C46-4B57-B59F-DA6EEB9C2EB5-510x680.webp" alt="Bolinho de Estudante - fresquinho e quentinho é igual a abraço com carinho." />
   <figcaption>Bolinho de Estudante - fresquinho e quentinho é igual a abraço com carinho.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ _“Como é mesmo tia Romélia? E tu não sabes menina? Olha que tu sabes muito 
 **Katita**, diz que o doce é fácil de fazer, não tem segredo pois leva apenas tapioca, coco, açúcar e canela. Apenas, mas diz que o segredo é fazer artesanalmente o leite de coco. _**“Nada de usar aqueles prontos. Não é a mesma coisa”**_, afirma a baiana. E a dica é sempre comê-lo quentinho. É muito mais gostoso.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/97F5B4C1-BD24-40F0-A05B-D3A925B962D1-510x680.jpg" alt="Katita vende a unidade por R$3,50." />
+  <img src="/assets/img/2018/05/97F5B4C1-BD24-40F0-A05B-D3A925B962D1-510x680.webp" alt="Katita vende a unidade por R$3,50." />
   <figcaption>Katita vende a unidade por R$3,50.</figcaption>
 </figure>
 

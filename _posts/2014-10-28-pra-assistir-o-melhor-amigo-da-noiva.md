@@ -14,7 +14,7 @@ tags:
   - "o-melhor-amigo-da-noiva"
   - "pra-assistir"
   - "sobremesa"
-image: "/assets/img/2014/10/destaque-made-of-honor.jpg"
+image: "/assets/img/2014/10/destaque-made-of-honor.webp"
 redirect_from:
   - "/pra-assistir-o-melhor-amigo-da-noiva/"
 ---
@@ -35,7 +35,7 @@ Outra parte que achei super a minha cara e a de meu namorado é quando Hannah e 
 
 **Para Acompanhar:** Torta -Bolo de Chocolate e Torta de Limão da [Doces Sonhos](http://www.docessonhosdoceria.com.br/ "Site Oficial") 
 
-\[caption id="attachment\_1644" align="alignnone" width="680"\]![\[Torta de Limão com Chocolate Branco\]](/assets/img/2014/10/post-made-of-honor-680x680.jpg) \[Torta de Limão com Chocolate Branco\]\[/caption\]\[caption id="attachment\_1645" align="alignnone" width="629"\]![\[Torta-bolo de Chocolate com recheio de brigadeiro..huuum\]](/assets/img/2014/10/image1.jpg) \[Torta-bolo de Chocolate com recheio de brigadeiro..huuum\]\[/caption\]**Ficha Técnica:** 
+\[caption id="attachment\_1644" align="alignnone" width="680"\]![\[Torta de Limão com Chocolate Branco\]](/assets/img/2014/10/post-made-of-honor-680x680.webp) \[Torta de Limão com Chocolate Branco\]\[/caption\]\[caption id="attachment\_1645" align="alignnone" width="629"\]![\[Torta-bolo de Chocolate com recheio de brigadeiro..huuum\]](/assets/img/2014/10/image1.webp) \[Torta-bolo de Chocolate com recheio de brigadeiro..huuum\]\[/caption\]**Ficha Técnica:** 
 
 'O Melhor Amigo da Noiva'
 

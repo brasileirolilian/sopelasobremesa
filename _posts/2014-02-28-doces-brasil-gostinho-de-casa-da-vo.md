@@ -10,7 +10,7 @@ tags:
   - "doces-brasileiros"
   - "sobremesa"
   - "sorvete"
-image: "/assets/img/2014/03/destaque4.jpg"
+image: "/assets/img/2014/03/destaque4.webp"
 redirect_from:
   - "/doces-brasil-gostinho-de-casa-da-vo/"
 ---
@@ -27,7 +27,7 @@ Vamos lá, peguem papel e caneta ou simplesmente abram o bloco de notas:
 
 **Doce de Banana com Sorvete de Creme**
 
-![1795762\_10201173625376706\_1841162756\_n](/assets/img/2014/03/1795762_10201173625376706_1841162756_n.jpg)
+![1795762\_10201173625376706\_1841162756\_n](/assets/img/2014/03/1795762_10201173625376706_1841162756_n.webp)
 
 Ingredientes:
 

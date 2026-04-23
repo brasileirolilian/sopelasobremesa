@@ -12,7 +12,7 @@ tags:
   - "sobremesa"
   - "tapioca"
   - "torta"
-image: "/assets/img/2016/04/destaque-torta.jpg"
+image: "/assets/img/2016/04/destaque-torta.webp"
 redirect_from:
   - "/20-fios-de-cabelo-branco-1-desabafo-e-1-fatia-de-torta-pra-alegrar/"
 ---
@@ -29,11 +29,11 @@ Então, nesse feriado de _21 de abril_, sim essa quinta que acabou de passar, eu
 
 Ao receber a linda fatia em uma caixinha de presente, meus olhinhos cintilaram de alegria: **Torta de Tapioca com Brigadeiro Branco e Cocada de forno no recheio e para completar minha alegria, Cobertura de Doce de Leite e coco ralado.** Desci, recebi minha torta com muita gratidão e voltei para o conforto do meu sofá.
 
-\[caption id="attachment\_2875" align="alignnone" width="640"\]![\[Sabor em harmonia\]](/assets/img/2016/04/IMG_0759-2.jpg) \[Sabor em harmonia\]\[/caption\]A massa do bolo incrivelmente macia, fofinha e fantástica. O recheio cremoso e doce do brigadeiro branco harmonizou perfeitamente com a doçura equilibrada da coca de forno, como se os dois fossem apenas um, mas dava perfeitamente distinguir o que era cada um. A cobertura de doce de leite super equilibrada, cremosa e intensa, arrematada pelo frescor do coco ralado por cima.
+\[caption id="attachment\_2875" align="alignnone" width="640"\]![\[Sabor em harmonia\]](/assets/img/2016/04/IMG_0759-2.webp) \[Sabor em harmonia\]\[/caption\]A massa do bolo incrivelmente macia, fofinha e fantástica. O recheio cremoso e doce do brigadeiro branco harmonizou perfeitamente com a doçura equilibrada da coca de forno, como se os dois fossem apenas um, mas dava perfeitamente distinguir o que era cada um. A cobertura de doce de leite super equilibrada, cremosa e intensa, arrematada pelo frescor do coco ralado por cima.
 
 Fantástica, incrível e com muita facilidade dispensei a xícara de café preto para acompanhar.
 
-![IMG\_0762-2](/assets/img/2016/04/IMG_0762-2.jpg)
+![IMG\_0762-2](/assets/img/2016/04/IMG_0762-2.webp)
 
 Então, o meu dia se tornou uma fatia de torta bem generosa e eu contemplei a vida rica em sabor, textura e doçura em cada garfada que eu dava naquela fatia.
 
@@ -41,4 +41,4 @@ Por mim, essa torta da Dani já poderia ser comercializada facilmente, não sei 
 
 Naquele momento, enquanto contemplava cada pedacinho, esqueci dos fios brancos que me 'aborreceram' por alguns minutos, esqueci da brevidade da vida e quanto eu precisava correr para curti-la. Porque foi saboreando aquela torta que passei a ditar o ritmo da minha própria vida: andarei devagar porque já tive pressa, e cada coisa levará o tempo necessário para se ajustar.
 
-\[caption id="attachment\_2877" align="alignnone" width="640"\]![\[Cai bem em qualquer hora\]](/assets/img/2016/04/IMG_0764-2.jpg) \[Cai bem em qualquer hora\]\[/caption\]
+\[caption id="attachment\_2877" align="alignnone" width="640"\]![\[Cai bem em qualquer hora\]](/assets/img/2016/04/IMG_0764-2.webp) \[Cai bem em qualquer hora\]\[/caption\]

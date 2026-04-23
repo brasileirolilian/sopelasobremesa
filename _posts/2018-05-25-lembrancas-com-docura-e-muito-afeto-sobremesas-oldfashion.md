@@ -26,7 +26,7 @@ tags:
   - "sobremesas-2"
   - "sobremesas-afetivas"
   - "sobremesas-oldfashion"
-image: "/assets/img/2018/05/7ce94bc6-fb2f-43d7-83dc-5679290097df-1.jpg"
+image: "/assets/img/2018/05/7ce94bc6-fb2f-43d7-83dc-5679290097df-1.webp"
 redirect_from:
   - "/lembrancas-com-docura-e-muito-afeto-sobremesas-oldfashion/"
 ---
@@ -40,7 +40,7 @@ Para Karine, duas sobremesas marcaram muito sua trajetória: a primeira o **Pav�
 > O Pavê de Abacaxi é feito com doce, tipo compota de abacaxi caseira. Basicamente abacaxi e açúcar e esse doce vai no lugar da camada de chocolate no pavê tradicional.
 > 
 > <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/cantinho-da-quel-680x510.jpg" alt="Olha que tacinhas lindas com Pavê de Abacaxi, ótima opção de sobremesa de almo;o em família. imagem: Cantinho da Quel" />
+  <img src="/assets/img/2018/05/cantinho-da-quel-680x510.webp" alt="Olha que tacinhas lindas com Pavê de Abacaxi, ótima opção de sobremesa de almo;o em família. imagem: Cantinho da Quel" />
   <figcaption>Olha que tacinhas lindas com Pavê de Abacaxi, ótima opção de sobremesa de almo;o em família. imagem: Cantinho da Quel</figcaption>
 </figure>
 
@@ -53,19 +53,19 @@ Para Tomás _"Quase todos os doces e sobremesas do rodízio são bem afetivas, a
 Apesar de muitos nem conhecerem a sua origem o **Creme Mármore** é de fato um sucesso no Rodízio Açucareiros _(para conhecer o trabalho dos meninos dá uma olhada lá no Perfil deles no Instagram: **@acucareiros**)_, uma das minhas escolhas favoritas das minhas idas aos domingos de lei do primeiro Rodízio de surra de doce da cidade.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/7ce94bc6-fb2f-43d7-83dc-5679290097df-680x383.jpg" alt="Sabor de abraço de vó, é assim que eu defino o Creme Mármore dos Açucareiros. Foto: @acucareiros." />
+  <img src="/assets/img/2018/05/7ce94bc6-fb2f-43d7-83dc-5679290097df-680x383.webp" alt="Sabor de abraço de vó, é assim que eu defino o Creme Mármore dos Açucareiros. Foto: @acucareiros." />
   <figcaption>Sabor de abraço de vó, é assim que eu defino o Creme Mármore dos Açucareiros. Foto: @acucareiros.</figcaption>
 </figure>
 
 > _"Quando colocamos no cardápio, de uma maneira geral, os clientes gostaram bastante. Mas, o mais emocionante resgatar os sentimentos bons naqueles clientes mais velhos, que já conheciam a sobremesa. Surpreender nossos clientes à ponto de ver pessoas chorando de emoção e ver o encantamento de outras, foi gratificante."_ Compartilhou o garoto açucarado.
 > 
 > <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/425ed95b-ba3e-4603-9d5e-47bfd56595d7-680x510.jpg" alt="Mesa pura afetividade no Rodízio Açucareiros. Foto: Açucareiros" />
+  <img src="/assets/img/2018/05/425ed95b-ba3e-4603-9d5e-47bfd56595d7-680x510.webp" alt="Mesa pura afetividade no Rodízio Açucareiros. Foto: Açucareiros" />
   <figcaption>Mesa pura afetividade no Rodízio Açucareiros. Foto: Açucareiros</figcaption>
 </figure>
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/IMG_6560-680x680.jpg" alt="Tomás é um doceiro de mão cheia e de coração enorme. Foto: [_@acucareiros_](https://www.instagram.com/acucareiros/?hl=pt)" />
+  <img src="/assets/img/2018/05/IMG_6560-680x680.webp" alt="Tomás é um doceiro de mão cheia e de coração enorme. Foto: [_@acucareiros_](https://www.instagram.com/acucareiros/?hl=pt)" />
   <figcaption>Tomás é um doceiro de mão cheia e de coração enorme. Foto: [_@acucareiros_](https://www.instagram.com/acucareiros/?hl=pt)</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Já a _**Chef Karine,**_ que também é sócia da marca de marmitas saudáveis p
 > _“Mais afetiva impossível né? E apesar de não estar no nosso menu fixo no Coentro, esteve no nosso menu especial de Dia das Mães e quem sabe no menu de dia dos Namorados, de uma maneira bem especial."_
 > 
 > <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/03f0a5bf-fae1-4820-ad37-165581043c6e-510x680.jpg" alt="Brigadeiro de Capim Santo por Karine Poggio no Coentro Gastronomia Afetiva. Foto: Karine Poggio" />
+  <img src="/assets/img/2018/05/03f0a5bf-fae1-4820-ad37-165581043c6e-510x680.webp" alt="Brigadeiro de Capim Santo por Karine Poggio no Coentro Gastronomia Afetiva. Foto: Karine Poggio" />
   <figcaption>Brigadeiro de Capim Santo por Karine Poggio no Coentro Gastronomia Afetiva. Foto: Karine Poggio</figcaption>
 </figure>
 
@@ -85,12 +85,12 @@ E pra quem pensa que ser saudável é sair cortando tudo pela frente e nem olhar
 > _"Com direito a tudo: leite condensado, praliné de amêndoas com açúcar._ **_Porque saúde é revisitar esses momentos, cantinhos de amor que a comida faz em nossa memória._**”
 > 
 > <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/1933fa44-7285-4969-9c6d-4a738fec6c42-510x680.jpg" alt="Karine ainda tem todo o cuidado na maneira de apresentar suas memórias afetivas para quem irá saboreá-las. Foto: Karine Poggio." />
+  <img src="/assets/img/2018/05/1933fa44-7285-4969-9c6d-4a738fec6c42-510x680.webp" alt="Karine ainda tem todo o cuidado na maneira de apresentar suas memórias afetivas para quem irá saboreá-las. Foto: Karine Poggio." />
   <figcaption>Karine ainda tem todo o cuidado na maneira de apresentar suas memórias afetivas para quem irá saboreá-las. Foto: Karine Poggio.</figcaption>
 </figure>
 > 
 > <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/da361cdd-e937-4b0a-96b8-f7fde0b87cfd-453x680.jpg" alt="Karine Poggio - pode ser interpretada através de cada prato que elabora. Afeto e Coentro são os ingredientes base de sua Cozinha. Foto: Murillo Neves Dias" />
+  <img src="/assets/img/2018/05/da361cdd-e937-4b0a-96b8-f7fde0b87cfd-453x680.webp" alt="Karine Poggio - pode ser interpretada através de cada prato que elabora. Afeto e Coentro são os ingredientes base de sua Cozinha. Foto: Murillo Neves Dias" />
   <figcaption>Karine Poggio - pode ser interpretada através de cada prato que elabora. Afeto e Coentro são os ingredientes base de sua Cozinha. Foto: Murillo Neves Dias</figcaption>
 </figure>
 

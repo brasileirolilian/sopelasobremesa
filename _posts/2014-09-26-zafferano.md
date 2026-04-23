@@ -17,7 +17,7 @@ tags:
   - "sobremesas-2"
   - "sorvete"
   - "zafferano"
-image: "/assets/img/2014/09/destaque-zafferano.jpg"
+image: "/assets/img/2014/09/destaque-zafferano.webp"
 redirect_from:
   - "/zafferano/"
 ---
@@ -30,11 +30,11 @@ Devo admitir que, apesar do prato principal lindo e gostoso, eu não parava de p
 
 **\- Tortino di Cioccolato:** Petit Gateau de Chocolate acompanhado de Sorvete de Creme. Estava bom, mas meio frio. O recheio não escorreu ou fumegou, não tendo o contraste do quente do bolinho com o geladinho do sorvete. Tinha ainda um coco ralado que eu particularmente preferia uma farorinha de biscoito ou que não tivesse.
 
-![IMG\_5207](/assets/img/2014/09/IMG_5207-680x510.jpg)
+![IMG\_5207](/assets/img/2014/09/IMG_5207-680x510.webp)
 
-\[caption id="attachment\_1498" align="alignnone" width="680"\]![\[..mas tava meio frio\]](/assets/img/2014/09/IMG_5210-680x510.jpg) \[..mas tava meio frio\]\[/caption\]**\- Duo:** foi a segunda opção, de fato um delicioso mix de sorvete de creme, doce de leite e castanhas trituradinhas. A combinação do sorvete com o doce de leite ficou perfeita, lembra um mousse muito cremoso e gostoso, e a mistura de texturas - cremosa e crocante - muito interessante. Foi a nossa favorita. Doce na medida e nem um pouco enjoativa. Repetiria mil vezes. Quando voltar à casa é certo pedir de novo essa doce delícia. Mas ao invés da segunda opção ser o petit gateau, me indicaram a torta de maçã.
+\[caption id="attachment\_1498" align="alignnone" width="680"\]![\[..mas tava meio frio\]](/assets/img/2014/09/IMG_5210-680x510.webp) \[..mas tava meio frio\]\[/caption\]**\- Duo:** foi a segunda opção, de fato um delicioso mix de sorvete de creme, doce de leite e castanhas trituradinhas. A combinação do sorvete com o doce de leite ficou perfeita, lembra um mousse muito cremoso e gostoso, e a mistura de texturas - cremosa e crocante - muito interessante. Foi a nossa favorita. Doce na medida e nem um pouco enjoativa. Repetiria mil vezes. Quando voltar à casa é certo pedir de novo essa doce delícia. Mas ao invés da segunda opção ser o petit gateau, me indicaram a torta de maçã.
 
-\[caption id="attachment\_1499" align="alignnone" width="680"\]![\[Além de linda a apresentação...\]](/assets/img/2014/09/IMG_5202-680x510.jpg) \[Além de linda a apresentação...\]\[/caption\]\[caption id="attachment\_1500" align="alignnone" width="680"\]![\[..é uma sobremesa maravilhosa. Suave e docinha, refrescante e muito saborosa\]](/assets/img/2014/09/IMG_5205-e1411774932661-680x906.jpg) \[..é uma sobremesa maravilhosa. Suave e docinha, refrescante e muito saborosa\]\[/caption\]Já estou contando os dias para a próxima visita ao Zafferano Salvador.
+\[caption id="attachment\_1499" align="alignnone" width="680"\]![\[Além de linda a apresentação...\]](/assets/img/2014/09/IMG_5202-680x510.webp) \[Além de linda a apresentação...\]\[/caption\]\[caption id="attachment\_1500" align="alignnone" width="680"\]![\[..é uma sobremesa maravilhosa. Suave e docinha, refrescante e muito saborosa\]](/assets/img/2014/09/IMG_5205-e1411774932661-680x906.webp) \[..é uma sobremesa maravilhosa. Suave e docinha, refrescante e muito saborosa\]\[/caption\]Já estou contando os dias para a próxima visita ao Zafferano Salvador.
 
 **Onde Encontrar:** Zafferano Cucina Italiana - Rua Leonor Calmon, Empresarial Christian Bernard, Cidade Jardim, Salvador-Ba
 

@@ -20,7 +20,7 @@ tags:
   - "springfield"
   - "sweet"
   - "the-simpsons"
-image: "/assets/img/2017/03/blog2-e1488329804398.jpg"
+image: "/assets/img/2017/03/blog2-e1488329804398.webp"
 redirect_from:
   - "/de-springfield-para-salvador/"
 ---
@@ -35,58 +35,58 @@ Pega logo papel e caneta para anotar a **receita** que está: _\[ [aqui](http:
 
  
 
-![](/assets/img/2017/03/IMG_9206-e1488328400115-510x680.jpg)
+![](/assets/img/2017/03/IMG_9206-e1488328400115-510x680.webp)
 
 O _**Receitas da Tv**_ é um quadro dentro do Canal Cozinha Fit & Fat, no qual a Nath traz convidados para preparar com ela delícias que aparecem nos seriados, filmes, novelas e por aí vai. Ela tenta reproduzir fielmente, de uma forma prática, rápida e gostosa. E o canal tem dicas, receitas e traz de forma leve e equilibrada os sabores da vida.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9163-544x680.jpg" alt="\[Cozinha Fit & Fat - é na cozinha da Nath mesmo!\]" />
+  <img src="/assets/img/2017/03/IMG_9163-544x680.webp" alt="\[Cozinha Fit & Fat - é na cozinha da Nath mesmo!\]" />
   <figcaption>\[Cozinha Fit & Fat - é na cozinha da Nath mesmo!\]</figcaption>
 </figure>A Nath tenta passar que você pode comer com consciência, de forma mais focada e com opções mais saudáveis; mas que também você pode meter o pé na jaca de vez em quando. Que a dietinha pode ser feita com mais sabor, de forma divertida e que dá pra comer até bolinho de estudante no dia a dia se ele for fit, maaas, que também dá pra comer uns donuts no _day off_ para acariciar a alma e adoçar o coração.
 
 Ela ainda conta com um braço direito especial: a Mari, irmã dela e responsável por deixar ainda mais rico em conteúdo o blog do canal, que também é cinegrafista em alguns momentos ;D ... Essas meninas jogam duro!
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9174-e1488328606891-510x680.jpg" alt="\[Misturando a massa\]" />
+  <img src="/assets/img/2017/03/IMG_9174-e1488328606891-510x680.webp" alt="\[Misturando a massa\]" />
   <figcaption>\[Misturando a massa\]</figcaption>
 </figure>Eu nunca tinha participado de uma gravação de um programa de tv ou canal do youtube, suuuper me diverti. Desde o acompanhamento do _mise en place_ passando pelo colocar a mão na massa - literalmente, até ter de repetir algumas partes para ficar redondinho. Também aprendi várias coisitas com as dicas que ela dá, para que a receita fique perfeita.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9178-e1488328774344-510x680.jpg" alt="\[Massa já ganhando forma\]" />
+  <img src="/assets/img/2017/03/IMG_9178-e1488328774344-510x680.webp" alt="\[Massa já ganhando forma\]" />
   <figcaption>\[Massa já ganhando forma\]</figcaption>
 </figure> 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9183-e1488328863392-510x680.jpg" alt="\[Depois de mais um descanso os donuts crescem e já podem ir pra panela\]" />
+  <img src="/assets/img/2017/03/IMG_9183-e1488328863392-510x680.webp" alt="\[Depois de mais um descanso os donuts crescem e já podem ir pra panela\]" />
   <figcaption>\[Depois de mais um descanso os donuts crescem e já podem ir pra panela\]</figcaption>
 </figure> 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9184-e1488328980569-510x680.jpg" alt="\[Depois de fritos podem ganhar a coberturinha de chocolate branco na cor rosa!\]" />
+  <img src="/assets/img/2017/03/IMG_9184-e1488328980569-510x680.webp" alt="\[Depois de fritos podem ganhar a coberturinha de chocolate branco na cor rosa!\]" />
   <figcaption>\[Depois de fritos podem ganhar a coberturinha de chocolate branco na cor rosa!\]</figcaption>
 </figure> 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9199-e1488329098828-510x680.jpg" alt="\[Ó que lindos!\]" />
+  <img src="/assets/img/2017/03/IMG_9199-e1488329098828-510x680.webp" alt="\[Ó que lindos!\]" />
   <figcaption>\[Ó que lindos!\]</figcaption>
 </figure>E mais: descobri o por quê os Simpsons adoram donuts. A massa é super fácil de trabalhar e fica super leve e sequinha. Com sabor abaunilhado, doçura equilibrada e um aroma hipnotizador.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9202-e1488329187307-510x680.jpg" alt="\[Deliciosos\]" />
+  <img src="/assets/img/2017/03/IMG_9202-e1488329187307-510x680.webp" alt="\[Deliciosos\]" />
   <figcaption>\[Deliciosos\]</figcaption>
 </figure>Amei participar dessa receita, e já descobri outras maneiras de saborear os donuts. Ficam deliciosos também acompanhados de: sorvete, doce de goiabada derretido, recheios diversos e por aí vai, é só usar a criatividade.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9214-e1488329527300-510x680.jpg" alt="\[donuts, donuts, donuts\]" />
+  <img src="/assets/img/2017/03/IMG_9214-e1488329527300-510x680.webp" alt="\[donuts, donuts, donuts\]" />
   <figcaption>\[donuts, donuts, donuts\]</figcaption>
 </figure> 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9242-680x680.jpg" alt="\[ eu e a Nath - orgulhosas dos nossos fofinhos e deliciosos donuts\]" />
+  <img src="/assets/img/2017/03/IMG_9242-680x680.webp" alt="\[ eu e a Nath - orgulhosas dos nossos fofinhos e deliciosos donuts\]" />
   <figcaption>\[ eu e a Nath - orgulhosas dos nossos fofinhos e deliciosos donuts\]</figcaption>
 </figure> 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/03/IMG_9213-680x510.jpg" alt="\[Todo mundo precisa de amor, e de doçura, por favor!\]" />
+  <img src="/assets/img/2017/03/IMG_9213-680x510.webp" alt="\[Todo mundo precisa de amor, e de doçura, por favor!\]" />
   <figcaption>\[Todo mundo precisa de amor, e de doçura, por favor!\]</figcaption>
 </figure>

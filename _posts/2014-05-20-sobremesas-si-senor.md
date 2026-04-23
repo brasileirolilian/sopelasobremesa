@@ -14,7 +14,7 @@ tags:
   - "flauta"
   - "petit-gateau"
   - "sorvete"
-image: "/assets/img/2014/05/IMG_1624.jpg"
+image: "/assets/img/2014/05/IMG_1624.webp"
 redirect_from:
   - "/sobremesas-si-senor/"
 ---
@@ -29,13 +29,13 @@ Pra quem não sabe o churro tem origem Ibérica, mais popular entre Portugal e E
 
 Diferente dos demais países como México, Uruguai e Argentina, aqui no Brasil recheamos nossos churros com tudo que temos direito, desde doce de leite, chocolate, goiabada derretida, até creme de baunilha.
 
-\[caption id="attachment\_799" align="alignnone" width="680"\]![\[Churro - muito saboroso\]](/assets/img/2014/05/IMG_1630-680x510.jpg) \[Churro - muito saboroso\]\[/caption\]O Churro do Tijuana, estava maravilhoso. Quentinho e bem fritinho mas sem queimar; por fora crocante, macio por dentro. Não estava oleoso e estava bem passadinho no açúcar e levemente canela. A massa estava saborosa e não enjoativa. E não esqueceram do potinho com doce de leite, por sinal a porção enorme para uma unidade.
+\[caption id="attachment\_799" align="alignnone" width="680"\]![\[Churro - muito saboroso\]](/assets/img/2014/05/IMG_1630-680x510.webp) \[Churro - muito saboroso\]\[/caption\]O Churro do Tijuana, estava maravilhoso. Quentinho e bem fritinho mas sem queimar; por fora crocante, macio por dentro. Não estava oleoso e estava bem passadinho no açúcar e levemente canela. A massa estava saborosa e não enjoativa. E não esqueceram do potinho com doce de leite, por sinal a porção enorme para uma unidade.
 
 Em seguida, pediram **Petit Gateau** tradicional de chocolate com sorvete de creme. Hoje vemos que em qualquer lugar esse bolinho está presente no cardápio. A porção estava ótima de sorvete, o bolinho veio quentinho e bem derretidinho. O sabor estava gostosinho, mas o clima era para sobremesas mexicanas.
 
-\[caption id="attachment\_800" align="alignnone" width="680"\]![\[Petit Gateau\]](/assets/img/2014/05/IMG_1628-680x510.jpg) \[Petit Gateau\]\[/caption\]E por último, nos acabamos com a **Flauta Doce de Banana** - massa de tortilla crocante de trigo, recheada com banana caramelada e acompanhada de uma bola de sorvete de creme. Como poderia descrever pra vocês, comi de garfo e faca e terminei comendo de colher. A mescla de texturas é impressionante, pois mistura o crocante da tortilla, a maciez da banana caramelada no recheio e a cremosidade do sorvete. Sem falar no sabor que se casam perfeitamente e de enjoativo não tem nada!
+\[caption id="attachment\_800" align="alignnone" width="680"\]![\[Petit Gateau\]](/assets/img/2014/05/IMG_1628-680x510.webp) \[Petit Gateau\]\[/caption\]E por último, nos acabamos com a **Flauta Doce de Banana** - massa de tortilla crocante de trigo, recheada com banana caramelada e acompanhada de uma bola de sorvete de creme. Como poderia descrever pra vocês, comi de garfo e faca e terminei comendo de colher. A mescla de texturas é impressionante, pois mistura o crocante da tortilla, a maciez da banana caramelada no recheio e a cremosidade do sorvete. Sem falar no sabor que se casam perfeitamente e de enjoativo não tem nada!
 
-\[caption id="attachment\_801" align="alignnone" width="680"\]![\[Flauta de Banana\]](/assets/img/2014/05/IMG_1622-680x510.jpg) \[Flauta de Banana\]\[/caption\]\[caption id="attachment\_802" align="alignnone" width="680"\]![\[Detalhe do recheio da Flauta\]](/assets/img/2014/05/IMG_1624-680x510.jpg) \[Detalhe do recheio da Flauta\]\[/caption\]Voltarei para me deliciar com as outras sobremesas e claro, mais um churro si señor!
+\[caption id="attachment\_801" align="alignnone" width="680"\]![\[Flauta de Banana\]](/assets/img/2014/05/IMG_1622-680x510.webp) \[Flauta de Banana\]\[/caption\]\[caption id="attachment\_802" align="alignnone" width="680"\]![\[Detalhe do recheio da Flauta\]](/assets/img/2014/05/IMG_1624-680x510.webp) \[Detalhe do recheio da Flauta\]\[/caption\]Voltarei para me deliciar com as outras sobremesas e claro, mais um churro si señor!
 
 **Onde Encontrar:** Rua Minas Gerais, 271, Pituba/ Av. ACM , Shop. Cidade, Itaigara
 

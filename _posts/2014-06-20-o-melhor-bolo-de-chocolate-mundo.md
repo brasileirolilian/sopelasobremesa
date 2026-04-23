@@ -16,7 +16,7 @@ tags:
   - "torta"
   - "tradicional"
   - "zero-acucar"
-image: "/assets/img/2014/06/IMG_2510.jpg"
+image: "/assets/img/2014/06/IMG_2510.webp"
 redirect_from:
   - "/o-melhor-bolo-de-chocolate-mundo/"
 ---
@@ -25,11 +25,11 @@ Não é de hoje que estou para provar "O Melhor Bolo de Chocolate do Mundo", sem
 
 Bom, fui pesquisar e procurar saber a história desse bolo, que pra mim diante das suas características e ingredientes tá mais para uma torta gelada do que um bolo de fato. Então descobri que é de origem portuguesa e leva merengue, mousse e calda de chocolate. Não leva farinha e nem fermento, e podemos encontrar nas versões: Meio Amargo (70% cacau), Tradicional - Doce (53% cacau) e Zero Açúcar (53% cacau, sem açúcar e segundo o cardápio - menos doce e menos caloria).
 
-\[caption id="attachment\_1029" align="alignnone" width="680"\]![\[Quiosque no Shp. Iguatemi em Salvador - Bahia\]](/assets/img/2014/06/IMG_2508-680x510.jpg) \[Quiosque no Shp. Iguatemi em Salvador - Bahia\]\[/caption\]Na loja só tinha zero açúcar e eis meu parecer: se a proposta era ser menos doce que a tradicional, definitivamente terei de discordar por que de menos doce nada tinha, ao contrário, achei super enjoativa e  mesmo dividindo com minha prima, não conseguimos terminar uma pequenina fatia. Não é ruim, mas não diria que é 'O MELHOR BOLO DE CHOCOLATE DO MUNDO'.
+\[caption id="attachment\_1029" align="alignnone" width="680"\]![\[Quiosque no Shp. Iguatemi em Salvador - Bahia\]](/assets/img/2014/06/IMG_2508-680x510.webp) \[Quiosque no Shp. Iguatemi em Salvador - Bahia\]\[/caption\]Na loja só tinha zero açúcar e eis meu parecer: se a proposta era ser menos doce que a tradicional, definitivamente terei de discordar por que de menos doce nada tinha, ao contrário, achei super enjoativa e  mesmo dividindo com minha prima, não conseguimos terminar uma pequenina fatia. Não é ruim, mas não diria que é 'O MELHOR BOLO DE CHOCOLATE DO MUNDO'.
 
 Primeiro, como já disse de bolo nada tem, pois parece mais uma torta gelada. Segundo, a zero açúcar achei super enjoativa, pode ser que a meio amargo seja melhor. Mas não tive vontade nenhuma de provar a tradicional diante da qual provei. E, Terceiro, pelo tamanho da fatia e preço cobrado não vale a pena voltar.
 
-\[caption id="attachment\_1030" align="alignnone" width="680"\]![\[Eu, particularmente, esperava mais no sabor!\]](/assets/img/2014/06/IMG_2510-680x510.jpg) \[Eu, particularmente, esperava mais no sabor!\]\[/caption\]O merengue parecia areinha, o mousse tava numa consistência bem legal, mas sabor super enjoativo, e  calda/ cobertura tava bem gostosinha. Na verdade, eu esperava mais diante do nome.
+\[caption id="attachment\_1030" align="alignnone" width="680"\]![\[Eu, particularmente, esperava mais no sabor!\]](/assets/img/2014/06/IMG_2510-680x510.webp) \[Eu, particularmente, esperava mais no sabor!\]\[/caption\]O merengue parecia areinha, o mousse tava numa consistência bem legal, mas sabor super enjoativo, e  calda/ cobertura tava bem gostosinha. Na verdade, eu esperava mais diante do nome.
 
 **Onde Encontrar:** Salvador - Shop. Iguatemi - 3º piso
 

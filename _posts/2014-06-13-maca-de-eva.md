@@ -14,7 +14,7 @@ tags:
   - "perfumada"
   - "sobremesa"
   - "sorvete"
-image: "/assets/img/2014/06/destaque-laprovence-dia-dos-ados.jpg"
+image: "/assets/img/2014/06/destaque-laprovence-dia-dos-ados.webp"
 redirect_from:
   - "/maca-de-eva/"
 ---
@@ -25,7 +25,7 @@ Bom, o La Provence é um bistrô muito lindinho, pequenino e aconchegante. Com d
 
 Tá, fiquei um pouco chateada, mas como já estávamos lá sentados e bebendo, achei indelicado sair e procurar um outro canto. E depois de saborear entradas e pratos principais resolvemos dividir uma sobremesa. Sobremesa bem sugestiva para a ocasião, um fruto proibido e ao mesmo tempo romântico. Pecado seria se não provássemos!
 
-\[caption id="attachment\_1000" align="alignnone" width="680"\]![\[Se tivessem colocado uma farofinha de biscoito embaixo da bola de sorvete, não chegaria assim na mesa!\]](/assets/img/2014/06/IMG_2276-680x510.jpg) \[Se tivessem colocado uma farofinha de biscoito embaixo da bola de sorvete, não chegaria assim na mesa!\]\[/caption\]Uma maçã inteira, extraído o miolo, e levada ao forno com uma casquinha de açúcar e canela. Acompanhada de uma bola de sorvete de creme e um fio de mel. Inicialmente eu achei que seria bem enjoativa, mas ao dar a primeira colherada e sentir texturas diferentes e sabores, adorei!
+\[caption id="attachment\_1000" align="alignnone" width="680"\]![\[Se tivessem colocado uma farofinha de biscoito embaixo da bola de sorvete, não chegaria assim na mesa!\]](/assets/img/2014/06/IMG_2276-680x510.webp) \[Se tivessem colocado uma farofinha de biscoito embaixo da bola de sorvete, não chegaria assim na mesa!\]\[/caption\]Uma maçã inteira, extraído o miolo, e levada ao forno com uma casquinha de açúcar e canela. Acompanhada de uma bola de sorvete de creme e um fio de mel. Inicialmente eu achei que seria bem enjoativa, mas ao dar a primeira colherada e sentir texturas diferentes e sabores, adorei!
 
 Primeiro que a maçã parece uma joia brilhante. A casquinha fica crocante e bem docinha, além de perfumada por causa da canela, e por dentro fica macia e de um sabor incrível que junto com o sorvete, parece que foram feitos um para o outro. O mel dá o arremate final. Romântica, perfumada, saborosa e sexy.
 

@@ -17,7 +17,7 @@ tags:
   - "sobremesa"
   - "the-best-of"
   - "torta"
-image: "/assets/img/2017/03/IMG_9861-1-e1489787605523.jpg"
+image: "/assets/img/2017/03/IMG_9861-1-e1489787605523.webp"
 redirect_from:
   - "/as-melhores-tortas-de-chocolate-com-morango/"
 ---
@@ -32,7 +32,7 @@ Para facilitar ainda mais a nossa incansável busca por doces e sobremesas delic
 
 \-DOCES SONHOS
 
-![](/assets/img/2017/03/IMG_1589-680x680.jpg)
+![](/assets/img/2017/03/IMG_1589-680x680.webp)
 
 Localizada nos principais shoppings da cidade, e com duas lojas de rua, a Doces Sonhos é uma das mais antigas docerias da cidade, com mais de 15 anos no adoçando a alma e o coração dos soteropilitanos. A torta de Chocolate com Morangos é um clássico que nunca pode faltar.
 
@@ -40,7 +40,7 @@ Localizada nos principais shoppings da cidade, e com duas lojas de rua, a Doces 
 
 \-VIVA GULA
 
-![](/assets/img/2017/03/IMG_3074-680x680.jpg)
+![](/assets/img/2017/03/IMG_3074-680x680.webp)
 
 A doceria tem duas versões dessa delícia: uma de chocolate ao leite e a outra com chocolate meio amargo, esta última é a minha favorita na casa, uma tradição nos lanchinhos entre eu, minha mãe e minha tia.
 
@@ -48,7 +48,7 @@ Shopping da Bahia/ Salvador Shopping/ Shopping Barra/ Bela Vista Shopping. Insta
 
 \-PEREIRA CAFÉ
 
-![](/assets/img/2017/03/IMG_3490-e1489784257291-680x680.jpg)
+![](/assets/img/2017/03/IMG_3490-e1489784257291-680x680.webp)
 
 O Pereira Café tem tortas sensacionais e de sabor super equilibrado, eles ainda inovaram essa queridinha com calda de morango.
 
@@ -56,7 +56,7 @@ Shopping Paralela/ Shopping Barra / Shopping da Bahia. Instagram: @amopereiracaf
 
 \-DOLCE VILA
 
-![](/assets/img/2017/03/IMG_4241-680x680.jpg)
+![](/assets/img/2017/03/IMG_4241-680x680.webp)
 
 As irmãs Badaró trouxeram o chocolate branco, o bolo lembra uma nuvem de tão fofo. A fatia não tá linda, mas lhes digo meus amigos que o sabor é deliciosamente incrível.
 
@@ -64,7 +64,7 @@ Ondina Apart, Ondina / Apimema Center, 836, Ondina. Instagram: @dolcevila
 
 \-FRIO GOSTOSO
 
-![](/assets/img/2017/03/IMG_5790-e1489784393276-680x680.jpg)
+![](/assets/img/2017/03/IMG_5790-e1489784393276-680x680.webp)
 
 Bolo molhadinho, com sabor de caseirinho. Um creme de leite condensado, moranguinhos suculentos e creme de chocolate ao leite. Doçura equilibrada e muito saboroso.
 
@@ -72,11 +72,11 @@ Rua da Graça, 137, Graça. / Rua Bahia, 363, Pituba. Instagram: @friogostoso
 
 \- NONNA CONFEIRIA E CAFÉ
 
-![](/assets/img/2017/03/IMG_5121-e1489784478144-680x680.jpg)
+![](/assets/img/2017/03/IMG_5121-e1489784478144-680x680.webp)
 
 A Nonna sempre surpreende a gente, sempre nos agarra pela doçura e pela barriga.
 
-![](/assets/img/2017/03/IMG_9861-680x510.jpg)
+![](/assets/img/2017/03/IMG_9861-680x510.webp)
 
 OK.. Essa pode não ser totalmente de chocolate com morango, mas vale demais entrar aqui. Bolo branco, bolo de chocolate, brigadeiro de leite ninho e nutellaaaaaa.
 
@@ -84,10 +84,10 @@ Av. Paulo VI, 355, Edf. SR Center. Instagram: @nonnaconfeitariaecafe
 
 7 - SILVER CAFÉ
 
-![](/assets/img/2017/03/IMG_7628-e1489784647629-680x680.jpg)
+![](/assets/img/2017/03/IMG_7628-e1489784647629-680x680.webp)
 
 Surpresa gostosa, uma foodporn de primeira. Bolo intenso, com recheio cremoso de doce de leite, morango fresco em pedaços generosos, e coberturinha de chocolate meio amargo. Coisa de louco!
 
-![](/assets/img/2017/03/IMG_7657-680x680.jpg)
+![](/assets/img/2017/03/IMG_7657-680x680.webp)
 
 Av. Paulo VI, 389, Pituba. Instagram: @silvercafesalvador

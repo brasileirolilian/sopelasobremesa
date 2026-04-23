@@ -8,7 +8,7 @@ tags:
   - "brownie"
   - "chantilly"
   - "sorvete"
-image: "/assets/img/2014/04/IMG_9898-e1396559009456.jpg"
+image: "/assets/img/2014/04/IMG_9898-e1396559009456.webp"
 redirect_from:
   - "/momentooutback/"
 ---
@@ -27,7 +27,7 @@ Claro que tínhamos de encerrar a noite com chave de ouro: SOBREMESA, e dividind
 
 Então, como eu já tinha experimentado de outras vezes a Cheesecake de Raspberry, o Cinnamon Oblivion e o Sydney's Sinful Sundae (mas vou voltar pra saborear de novo pra colocar aqui a minha opinião a respeito dessas), optei pelo **Chocolate Thunder from Down Under**, muito nome pra dizer que é Brownie com Sorvete de Creme, cobertos com calda de chocolate e uma bolota de chantilly e raspas de chocolate .... huuuuum perdição né?!
 
-\[caption id="attachment\_443" align="alignnone" width="680"\]![\[Um close dessa montanha deliciosa\]](/assets/img/2014/04/IMG_9900-680x510.jpg) \[Um close dessa montanha deliciosa\]\[/caption\]Porém, infelizmente o brownie veio meio aguado no meio.
+\[caption id="attachment\_443" align="alignnone" width="680"\]![\[Um close dessa montanha deliciosa\]](/assets/img/2014/04/IMG_9900-680x510.webp) \[Um close dessa montanha deliciosa\]\[/caption\]Porém, infelizmente o brownie veio meio aguado no meio.
 
 Sabe quando congela e não assa direito? E o geladinho que fica no meio acaba virando papel molhado meio empapado?!
 
@@ -37,7 +37,7 @@ Mas nada está perdido, o sorvete estava muito gostoso, a calda e as raspas incr
 
 Tirando o bolinho que no dia não estava gatinho, o restante tava ótimo.
 
-\[caption id="attachment\_444" align="alignnone" width="680"\]![\[Foi por pouco que a nossa relação não deu 100% certo. Mas vou tentar em um outro momento. rsrsrsrs\]](/assets/img/2014/04/IMG_9899-680x510.jpg) \[Foi por pouco que a nossa relação não deu 100% certo. Mas vou tentar em um outro momento. rsrsrsrs\]\[/caption\]Vou voltar pra tirar essa má impressão, pois adoro as sobremesas do Outback. Poderia ter pedido outro né?! Mas eu já tava cismada, aí eu prefiro passar uns dias pra cisma passar também. Apenas uma estratégia que utilizo nessas situações.
+\[caption id="attachment\_444" align="alignnone" width="680"\]![\[Foi por pouco que a nossa relação não deu 100% certo. Mas vou tentar em um outro momento. rsrsrsrs\]](/assets/img/2014/04/IMG_9899-680x510.webp) \[Foi por pouco que a nossa relação não deu 100% certo. Mas vou tentar em um outro momento. rsrsrsrs\]\[/caption\]Vou voltar pra tirar essa má impressão, pois adoro as sobremesas do Outback. Poderia ter pedido outro né?! Mas eu já tava cismada, aí eu prefiro passar uns dias pra cisma passar também. Apenas uma estratégia que utilizo nessas situações.
 
  
 

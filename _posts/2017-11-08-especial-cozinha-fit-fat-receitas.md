@@ -23,7 +23,7 @@ tags:
   - "sem-lactose"
   - "sobremesa"
   - "sobremesas-2"
-image: "/assets/img/2017/11/Screen-Shot-2017-10-25-at-13.19.32-1.png"
+image: "/assets/img/2017/11/Screen-Shot-2017-10-25-at-13.19.32-1.webp"
 redirect_from:
   - "/especial-cozinha-fit-fat-receitas/"
 ---
@@ -39,7 +39,7 @@ Enfim: aqui toda forma de doçura é bem vinda, da fat à fit. E chega de papo, 
 **BROWNIE DE MELADO DE CANA (SEM LACTOSE)**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/11/IG1-680x680.jpg" alt="\[Foto: Cozinha Fit & Fat\]" />
+  <img src="/assets/img/2017/11/IG1-680x680.webp" alt="\[Foto: Cozinha Fit & Fat\]" />
   <figcaption>\[Foto: Cozinha Fit & Fat\]</figcaption>
 </figure> Autor: Nathália Araujo Categoria: Doces
 
@@ -56,7 +56,7 @@ _Como faz?_ Em uma tigela, misture os ovos com o melado, as especiarias e o caca
 **SALAME FIT DE CACAU**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/11/Screen-Shot-2017-10-25-at-13.19.32-680x252.png" alt="\[Foto: Cozinha Fit & Fat\]" />
+  <img src="/assets/img/2017/11/Screen-Shot-2017-10-25-at-13.19.32-680x252.webp" alt="\[Foto: Cozinha Fit & Fat\]" />
   <figcaption>\[Foto: Cozinha Fit & Fat\]</figcaption>
 </figure>Autor: Nathália Araujo Categoria: Doces
 
@@ -72,7 +72,7 @@ _Como faz?_ Coloque o inhame, as bananas, o açúcar e o cacau em um processador
 
 **PALETAS DE BANANA DA DISNEY (COPYCAT)**
 
-![](/assets/img/2017/11/IMG_7560-1024x683-680x454.jpg)
+![](/assets/img/2017/11/IMG_7560-1024x683-680x454.webp)
 
 Autor: Nathália Araujo Categoria: Lanches e Petiscos
 

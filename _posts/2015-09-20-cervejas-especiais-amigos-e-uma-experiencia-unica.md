@@ -13,7 +13,7 @@ tags:
   - "harmonizacao"
   - "sobremesa"
   - "sommelier-de-cerveja"
-image: "/assets/img/2014/10/destaque-carro-de-boi.jpg"
+image: "/assets/img/2014/10/destaque-carro-de-boi.webp"
 redirect_from:
   - "/cervejas-especiais-amigos-e-uma-experiencia-unica/"
 ---
@@ -24,23 +24,23 @@ Rodeada de boas companhias, boa energia no ar, quitutes nordestinos e muita cerv
 
 Começamos nosso saboreando _pãozinho de alho  e de tomate seco assado na brasa_, acompanhados da cerveja espanhola **_Estrella Galicia_,** uma cerveja de estilo american premium larger, leve de baixa drinkability, ou seja, super fácil de beber.
 
-![vedett](/assets/img/2015/09/vedett.jpg)
+![vedett](/assets/img/2015/09/vedett.webp)
 
 Em seguida passamos para os _bolinhos de bacalhau_ hamonizados com a **_Vedett Extra White_,** nossa que perfeita sintonia, a cerveja com sabor levemente cítrico e refrescante devido as notas de  casca de laranja e coentro, faz parte do estilo Belgian Witbier. O sabor do bolinho e da cerveja se complementam, como se a bebida fizesse parte do temperinho do petisco.
 
-![abobora](/assets/img/2015/09/abobora.jpg)
+![abobora](/assets/img/2015/09/abobora.webp)
 
 Os pratos principais foram: _escondidinho de abóbora com fumeiro_, e _bode do sol na brasa com manteiga de garrafa acompanhado de farofa d´água_, que foram servidos com  _**Benediktiner Weissbier Dunkel**_ e _**Bamberg Altbier**_, respectivamente. Sendo a primeira uma German Dunkelweiss e a segunda Düsseldorf Altbier. Bom, para o meu paladar essa segunda _beer_ não me agradou muito, pra falar a verdade são poucas nesse estilo que me agradam, por ter aquele finalzinho seco, meio que trava no final da garganta, que eu curto. Mas vale a pena provar, pra conhecer e conseguir diferenciar e entender o seu próprio paladar.
 
-![bamberg ale](/assets/img/2015/09/bamberg-ale.jpg)
+![bamberg ale](/assets/img/2015/09/bamberg-ale.webp)
 
-![bolinho de feijoada](/assets/img/2015/09/bolinho-de-feijoada.jpg)
+![bolinho de feijoada](/assets/img/2015/09/bolinho-de-feijoada.webp)
 
 Provamos ainda uma _**Bamberg Rauchbier**_  com bolinho de feijoada recheado com couve e bacon, outra que sem o bolinho , acredito que não iria gostar, por também possuir um final seco e presença marcante do defumando. Outra que fiquei na dúvida de gostei ou não.
 
 Para fechar a tarde já adentrando a noite, _**Liefmans Fruitesse On The Rocks**_ com _cupcake de brigadeiro branco e frutas vermelhas_, que a casa em parceria com a _Pinup Doceria_, produziram especialmente para este evento. Essa breja do estilo Belgian Fruitbier, segue uma linha de cerveja frutada e mais para um drink do que para uma cerveja em si. E a outra sobremesa foi um _cupcake de cerveja_ com _**Schornstein Imperial Stout**_ na massa e nibs de cacau fino da _Maltez._
 
-![liefmans](/assets/img/2015/09/liefmans.jpg)
+![liefmans](/assets/img/2015/09/liefmans.webp)
 
 Ao final, o balanço geral de um fim de tarde perfeito, numa roda de amigos, regada à risadas, excelentes cervejas especiais, comida de qualidade, em um ambiente mega agradável. Não poderia ser diferente.
 

@@ -12,7 +12,7 @@ tags:
   - "salvador-restaurante-week"
   - "sobremesas-2"
   - "ssa-rw"
-image: "/assets/img/2014/03/destque.jpg"
+image: "/assets/img/2014/03/destque.webp"
 redirect_from:
   - "/salvador-restaurant-week-2015/"
 ---
@@ -29,7 +29,7 @@ O restaurante de comida regional este ano trouxe para o Almoço como opções de
 
 Fechando com a famosa e deliciosa Ambrosia da Vovó e a fantástica Cocada com Rapadura, e ambas estão no cardápio fixo da casa!
 
-![ambrosia e cocada](/assets/img/2015/06/ambrosia-e-cocada.jpg)
+![ambrosia e cocada](/assets/img/2015/06/ambrosia-e-cocada.webp)
 
 _Endereço:_ Avenida Dom Eugênio Sales - 23 Salvador, 41706-670 Boca do Rio
 
@@ -39,7 +39,7 @@ _Endereço:_ Avenida Dom Eugênio Sales - 23 Salvador, 41706-670 Boca do Rio
 
 O resto bar mais badalado e alegre de Salvador, famoso pelas roskas e drinks ousados e diferentes, trouxa a opção de jantar para essa 6ª ed do RW na capital baiana. Com entradinhas leves, como o Crostini Sagrado Sabor: casquinhas fininhas de pizza cobertas com Brie e Damasco; e o Camarão à Spicy Beer. A noite não poderia ficar ruim com a clássica Costelinha Utopia com molho Barbecue e uma outra opção vegetariana: Cannelloni de Ricota ao Molho Branco. Isso tudo acompanhada do Drink Shake sobremesa de Paçoca, roskas, cerveja geladinha e as amigas pra animar.
 
-![brigadeiro](/assets/img/2015/06/brigadeiro.jpg)
+![brigadeiro](/assets/img/2015/06/brigadeiro.webp)
 
 Arrematando a noite, claro, as sobremesas. Uma opção era o já conhecido Bolinho de Canela que faz parte do menu da casa já algum tempo, e o mais novo xodó - Brigadeiro Churros, **_que deveria ficar fixo no menu da casa!_**
 
@@ -51,9 +51,9 @@ _Endereço:_ Rua Ilhéus - 241 Salvador, 41950-650 - Rio Vermelho
 
 Com um menu simples, mas muito aconchegante e saboroso, um dos italianos mais tradicionais da cidade. Trouxe para o almoço duas opções levinhas de entradas: Saladinha Caesar e Salada Caprese. Para as opções de prato principal o Espaguete alla carbonara, super saboroso e uma opção super comfort food, para aqueles que estão se sentindo carentes de uma comida que abraça de dentro pra fora. A outra opção - Ravióli verdi de mussarela al Pomodoro e manjericão. Delicioso, quentinho e não menos aconchegante que o primeiro. É um prato mais prático e rápido de comer. Dica: não exagere no parmesão ralado extra.
 
-\[caption id="attachment\_2478" align="alignnone" width="640"\]![\[Foto: @ondecomeremsalvador\]](/assets/img/2015/06/waffle.jpg) \[Foto: @ondecomeremsalvador\]\[/caption\]Sou suspeita para falar das sobremesas e elas já são figurinhas carimbadas lá no nosso perfil no Instagram (@sopelasobremesa), mas é sempre uma delícia e não tem como cansar delas, porque além de lindas, são saborosas, doçura na medida certa. Comeria todo dia. #fato. Duas opções, que não tem como não entrar num dilema, por isso sugiro ir com mais alguém, para que possam pedir as duas opções e cada um come um pouquinho de cada: Profiteroles e Waffles - ambas estão no cardápio fixo da casa!
+\[caption id="attachment\_2478" align="alignnone" width="640"\]![\[Foto: @ondecomeremsalvador\]](/assets/img/2015/06/waffle.webp) \[Foto: @ondecomeremsalvador\]\[/caption\]Sou suspeita para falar das sobremesas e elas já são figurinhas carimbadas lá no nosso perfil no Instagram (@sopelasobremesa), mas é sempre uma delícia e não tem como cansar delas, porque além de lindas, são saborosas, doçura na medida certa. Comeria todo dia. #fato. Duas opções, que não tem como não entrar num dilema, por isso sugiro ir com mais alguém, para que possam pedir as duas opções e cada um come um pouquinho de cada: Profiteroles e Waffles - ambas estão no cardápio fixo da casa!
 
-![profiterole](/assets/img/2015/06/profiterole.jpg)
+![profiterole](/assets/img/2015/06/profiterole.webp)
 
 _Endereço:_ Avenida Oceânica - 2004 Salvador, 40140-130 - Ondina
 
@@ -65,7 +65,7 @@ Já tem algum tempo que eu queria conhecer a casa, mas como fica pro lado da Bar
 
 De entradas: Velouté de Queijo de Cabra com Presunto de Parma ou Steak Tartare. Pratos principais: Entrecôte Tiffany's - por sinal que molho; Linguado ao Molho Basilic - maravilhosa textura do peixe. Finalizando com Profiteroles recheado com sorvete de creme e numa lida apresentação; e Mussoline au Citron - uma mousse de limão siciliano.
 
-![sobremesas oui](/assets/img/2015/06/sobremesas-oui.jpg)
+![sobremesas oui](/assets/img/2015/06/sobremesas-oui.webp)
 
 Gostei bastante do ambiente e do excelente atendimento , vou volta para conhecer os outros pratos da casa.
 

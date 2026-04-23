@@ -12,7 +12,7 @@ tags:
   - "importadoras"
   - "kits"
   - "vinhos"
-image: "/assets/img/2015/06/destaque-post-paulagaya-diaados-kits.jpg"
+image: "/assets/img/2015/06/destaque-post-paulagaya-diaados-kits.webp"
 redirect_from:
   - "/paula-gaya-cria-kits-para-dia-dos-namorados/"
 ---
@@ -21,15 +21,15 @@ A **Paula Gaya Importadora**, representante exclusiva de grandes marcas de vinho
 
 Os kits, que vão de R$ 164 a R$ 248, agradando os bolsos de qualquer cliente, trazem delícias exclusivas como o Vinho do Porto _**Ruby Saint Clair**_
 
-![Porto Ruby Saint Clair + Mix Chocolates Mendoá 75g + Geleia Casa de Madeira Cab. Sauv](/assets/img/2015/06/Porto-Ruby-Saint-Clair-Mix-Chocolates-Mendoá-75g-Geleia-Casa-de-Madeira-Cab.-Sauv.png)
+![Porto Ruby Saint Clair + Mix Chocolates Mendoá 75g + Geleia Casa de Madeira Cab. Sauv](/assets/img/2015/06/Porto-Ruby-Saint-Clair-Mix-Chocolates-Mendoá-75g-Geleia-Casa-de-Madeira-Cab.-Sauv.webp)
 
 O elogiado tinto _**Quinta do Crasto Vinhas Velhas**_
 
-![Quinta do Crasto + Abridor em Aço Inox + Rolha de Vedação](/assets/img/2015/06/Quinta-do-Crasto-Abridor-em-Aço-Inox-Rolha-de-Vedação.png)
+![Quinta do Crasto + Abridor em Aço Inox + Rolha de Vedação](/assets/img/2015/06/Quinta-do-Crasto-Abridor-em-Aço-Inox-Rolha-de-Vedação.webp)
 
 E o disputado **_Chandon Brut Rosé_**
 
-![Chandon Brut Rosé + Mix Chocolates Mendoá 75g + Geleia Casa de Madeira Malbec](/assets/img/2015/06/Chandon-Brut-Rosé-Mix-Chocolates-Mendoá-75g-Geleia-Casa-de-Madeira-Malbec.png)
+![Chandon Brut Rosé + Mix Chocolates Mendoá 75g + Geleia Casa de Madeira Malbec](/assets/img/2015/06/Chandon-Brut-Rosé-Mix-Chocolates-Mendoá-75g-Geleia-Casa-de-Madeira-Malbec.webp)
 
 Todos os vinhos são acompanhados de acessórios ou doces que fazem parte do portfólio de produtos da enoteca Paula Gaya.
 

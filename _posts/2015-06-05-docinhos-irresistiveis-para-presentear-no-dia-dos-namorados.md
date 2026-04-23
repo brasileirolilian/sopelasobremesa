@@ -12,7 +12,7 @@ tags:
   - "docinhos"
   - "editorial"
   - "sao-paulo"
-image: "/assets/img/2015/06/destaque-paradis-sp-dia-dos-ados-2015.jpg"
+image: "/assets/img/2015/06/destaque-paradis-sp-dia-dos-ados-2015.webp"
 redirect_from:
   - "/docinhos-irresistiveis-para-presentear-no-dia-dos-namorados/"
 ---
@@ -23,11 +23,11 @@ _Paradis traz opções exclusivas para a data mais romântica do ano._
 
 Quem adora uma opção doce e romântica para presentear no Dia dos Namorados não pode deixar de conferir o que a Paradis preparou para os casais paulistanos. Do coração de chocolate ao kit de macarons com baby Chandon, tem sugestão de presente para agradar todas as namoradas e namorados. Confira:
 
-\[caption id="attachment\_2466" align="alignnone" width="640"\]![\[Imagem: Paradis São Paulo\]](/assets/img/2015/06/kit-01.jpg) \[Imagem: Paradis São Paulo\]\[/caption\]**\- KIT PARIS** \* Torre Eiffel e de Sapato de chocolate belga ao leite acompanhado de quatro macarons sortidos. _Preço: R$ 49,00_
+\[caption id="attachment\_2466" align="alignnone" width="640"\]![\[Imagem: Paradis São Paulo\]](/assets/img/2015/06/kit-01.webp) \[Imagem: Paradis São Paulo\]\[/caption\]**\- KIT PARIS** \* Torre Eiffel e de Sapato de chocolate belga ao leite acompanhado de quatro macarons sortidos. _Preço: R$ 49,00_
 
-\[caption id="attachment\_2467" align="alignnone" width="640"\]![\[Imagem: Paradis São Paulo\]](/assets/img/2015/06/coração.jpg) \[Imagem: Paradis São Paulo\]\[/caption\]**\- CORAÇÃO AO LEITE** \* Coração de chocolate belga ao leite acompanhado de três bombons recheados sortidos. _Preço: R$ 39,90_
+\[caption id="attachment\_2467" align="alignnone" width="640"\]![\[Imagem: Paradis São Paulo\]](/assets/img/2015/06/coração.webp) \[Imagem: Paradis São Paulo\]\[/caption\]**\- CORAÇÃO AO LEITE** \* Coração de chocolate belga ao leite acompanhado de três bombons recheados sortidos. _Preço: R$ 39,90_
 
-\[caption id="attachment\_2468" align="alignnone" width="480"\]![\[Imagem: Paradis São Paulo\]](/assets/img/2015/06/kit-com-baby-chandon.jpg) \[Imagem: Paradis São Paulo\]\[/caption\]**\- KIT UM BRINDE EM PARIS** \* Caixa com 4 macarons sortidos e uma baby Chandon. _Preço R$72,00._ Opção com Caixa Luxo de 9 macarons. _Preço R$ 112,00_ _(Outras opções acompanhe o IG da marca.)_
+\[caption id="attachment\_2468" align="alignnone" width="480"\]![\[Imagem: Paradis São Paulo\]](/assets/img/2015/06/kit-com-baby-chandon.webp) \[Imagem: Paradis São Paulo\]\[/caption\]**\- KIT UM BRINDE EM PARIS** \* Caixa com 4 macarons sortidos e uma baby Chandon. _Preço R$72,00._ Opção com Caixa Luxo de 9 macarons. _Preço R$ 112,00_ _(Outras opções acompanhe o IG da marca.)_
 
 **Onde Encontrar:**  Paradis Délices Français em São Paulo
 

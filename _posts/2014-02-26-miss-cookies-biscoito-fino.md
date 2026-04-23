@@ -9,7 +9,7 @@ tags:
   - "chocolate"
   - "cookies"
   - "doce"
-image: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.webp"
 redirect_from:
   - "/miss-cookies-biscoito-fino/"
 ---
@@ -26,7 +26,7 @@ Dentre a lista:
 
 **COOKIES RECHEADOS:** Recheio simples: Brigadeiro / Brigadeiro Branco / Doce de Leite; Recheio trufado: Trufa de chocolate / Trufa de limão / Trufa de maracujá; Recheio especial: Nutella / Nozes
 
-\[caption id="attachment\_235" align="alignnone" width="510"\]![\[ Cookies: Brownie, Trufado de Maracujá, Simples coberto de Gengibre e Recheado de Doce de Leite \]](/assets/img/2014/03/post-510x680.jpg) \[ Cookies: Brownie, Trufado de Maracujá, Simples coberto de Gengibre e Recheado de Doce de Leite \]\[/caption\]As minhas escolhas foram: Os cookies cobertos simples de Gengibre, o cookies com gotas Brownie, Cookies Recheados: trufa de limão, trufa de maracujá, doce de leite e o de brigadeiro tradicional.
+\[caption id="attachment\_235" align="alignnone" width="510"\]![\[ Cookies: Brownie, Trufado de Maracujá, Simples coberto de Gengibre e Recheado de Doce de Leite \]](/assets/img/2014/03/post-510x680.webp) \[ Cookies: Brownie, Trufado de Maracujá, Simples coberto de Gengibre e Recheado de Doce de Leite \]\[/caption\]As minhas escolhas foram: Os cookies cobertos simples de Gengibre, o cookies com gotas Brownie, Cookies Recheados: trufa de limão, trufa de maracujá, doce de leite e o de brigadeiro tradicional.
 
  
 
@@ -38,7 +38,7 @@ O de Brownie de fato é uma joia, o mais novo lançamento da Miss Cookies chegou
 
 Mas os recheados de Doce de Leite e o de Brigadeiro são os mais saborosos, e na geladeira os biscoitinhos mesmo com recheio e cobertura ficaram bem crocantes. Amei ...
 
-\[caption id="attachment\_236" align="alignnone" width="510"\]![\[ Destaque para o Cookie recheado de Doce de Leite - maravilhoso! \]](/assets/img/2014/03/foto-3-2-510x680.jpg) \[ Destaque para o Cookie recheado de Doce de Leite - maravilhoso! \]\[/caption\]Eu achava que só encomendaria uma vez por mês, não porque não gostei, mas porque comendo todo dia acaba engordando né?
+\[caption id="attachment\_236" align="alignnone" width="510"\]![\[ Destaque para o Cookie recheado de Doce de Leite - maravilhoso! \]](/assets/img/2014/03/foto-3-2-510x680.webp) \[ Destaque para o Cookie recheado de Doce de Leite - maravilhoso! \]\[/caption\]Eu achava que só encomendaria uma vez por mês, não porque não gostei, mas porque comendo todo dia acaba engordando né?
 
 Mas será que vou conseguir me segurar uma vez por mês?!....acho que não...
 

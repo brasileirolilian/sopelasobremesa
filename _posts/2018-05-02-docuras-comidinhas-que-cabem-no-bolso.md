@@ -21,7 +21,7 @@ tags:
   - "sobremesa"
   - "sobremesa-barata"
   - "sushi"
-image: "/assets/img/2018/05/IMG_2327.jpg"
+image: "/assets/img/2018/05/IMG_2327.webp"
 redirect_from:
   - "/docuras-comidinhas-que-cabem-no-bolso/"
 ---
@@ -33,7 +33,7 @@ Selecionamos 06 opções entre Sobremesas e pequenas Refeições com valores at�
 \- **Sushi do Pão de Açúcar** _por Dani Coni_
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/20180416_173251-e1525267016578-510x680.jpg" alt="Click por: @gastronomiasalvador" />
+  <img src="/assets/img/2018/05/20180416_173251-e1525267016578-510x680.webp" alt="Click por: @gastronomiasalvador" />
   <figcaption>Click por: @gastronomiasalvador</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ _\*01 Bandeja com 8 Peças de Uramaki Califórnia R$6,59_
 **\- Churros de Seu Carlos**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/IMG_2746-e1525267099257-510x680.jpg" alt="Olha o brilho desse doce de leite e é do bom viu?!" />
+  <img src="/assets/img/2018/05/IMG_2746-e1525267099257-510x680.webp" alt="Olha o brilho desse doce de leite e é do bom viu?!" />
   <figcaption>Olha o brilho desse doce de leite e é do bom viu?!</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ _**Onde encontrar:**_ Travessa entre a Alameda Salvador e a Rua Alceu Amoroso Li
 \- **Bauru Folhado na DeliPorto** _por Dani Coni_
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/20180414_112934-e1525267171496-510x680.jpg" alt="Já viram Bauru com massa folhada e amanteigada?! Muito mais gostosa do que aquela massa de pão. Click por: @gastronomiasalvador" />
+  <img src="/assets/img/2018/05/20180414_112934-e1525267171496-510x680.webp" alt="Já viram Bauru com massa folhada e amanteigada?! Muito mais gostosa do que aquela massa de pão. Click por: @gastronomiasalvador" />
   <figcaption>Já viram Bauru com massa folhada e amanteigada?! Muito mais gostosa do que aquela massa de pão. Click por: @gastronomiasalvador</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ _\*A unidade super satisfatória do Bauru Folhado R$6,00_
 **\- Canudos Artesanais**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/IMG_2328-e1525267248743-510x680.jpg" alt="Bem caprichado mesmo no recheio e sem miséria de morango." />
+  <img src="/assets/img/2018/05/IMG_2328-e1525267248743-510x680.webp" alt="Bem caprichado mesmo no recheio e sem miséria de morango." />
   <figcaption>Bem caprichado mesmo no recheio e sem miséria de morango.</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ _\*A unidade sai por R$ 7,00._
 \- **Coxinha Catupiry da Viva Gula** _por Dani Coni_
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/20180419_185555-e1525267325521-510x680.jpg" alt="Massa sequinha e crocante. Click por: @gastronomiasalvador" />
+  <img src="/assets/img/2018/05/20180419_185555-e1525267325521-510x680.webp" alt="Massa sequinha e crocante. Click por: @gastronomiasalvador" />
   <figcaption>Massa sequinha e crocante. Click por: @gastronomiasalvador</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ _\*01 Coxinha Catupiry  Grande R$8,00_
 **\- Éclair: da França para a Bahia**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/IMG_6762-e1525267388328-510x680.jpg" alt="O ideal é chegar cedo para pegar a primeira fornada ou as 16h pra pegar uma fornada bem fresquinha." />
+  <img src="/assets/img/2018/05/IMG_6762-e1525267388328-510x680.webp" alt="O ideal é chegar cedo para pegar a primeira fornada ou as 16h pra pegar uma fornada bem fresquinha." />
   <figcaption>O ideal é chegar cedo para pegar a primeira fornada ou as 16h pra pegar uma fornada bem fresquinha.</figcaption>
 </figure>
 

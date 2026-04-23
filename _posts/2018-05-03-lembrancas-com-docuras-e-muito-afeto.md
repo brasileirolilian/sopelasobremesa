@@ -20,7 +20,7 @@ tags:
   - "salvador"
   - "sobremesas-2"
   - "sobremesas-afetivas"
-image: "/assets/img/2018/05/619716F2-34CC-427F-A6AE-A964FEF1176B.jpeg"
+image: "/assets/img/2018/05/619716F2-34CC-427F-A6AE-A964FEF1176B.webp"
 redirect_from:
   - "/lembrancas-com-docuras-e-muito-afeto/"
 ---
