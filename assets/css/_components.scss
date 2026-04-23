@@ -502,10 +502,6 @@ input.search-input {
   gap: 32px;
 
   @media (min-width: 768px) {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  @media (min-width: 1024px) {
     grid-template-columns: repeat(3, 1fr);
   }
 }
@@ -515,12 +511,6 @@ input.search-input {
   flex-direction: column;
   gap: 16px;
   cursor: pointer;
-
-  @media (max-width: 1024px) {
-    &:nth-child(3) {
-      display: none;
-    }
-  }
 
   .post-cover-wrapper {
     aspect-ratio: 4/3;
