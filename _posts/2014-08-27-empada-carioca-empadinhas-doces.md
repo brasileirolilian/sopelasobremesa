@@ -10,7 +10,7 @@ tags:
   - "doce-de-leite"
   - "empada-carioca"
   - "empadinha"
-image: "/assets/img/2014/09/destaque7.jpg"
+image: "/assets/img/2014/09/destaque7.webp"
 redirect_from:
   - "/empada-carioca-empadinhas-doces/"
 ---
@@ -27,11 +27,11 @@ Os sabores que provei na minha primeira visita com a intenção de provar as emp
 
 Massa branquinha tradicional de empadinha, levemente doce e amanteigada. Diferente de outras empadinhas caseiras e de lanchonete, a massa da empadinha da Empada Carioca é super leve e não gordurosa. Lembra um biscoitinho recheado que acabou de sair do forno. Muito gostoso, o recheio de doce de leite é cremoso, que para meu paladar poderia até ser mais recheado que não correria o risco de ficar enjoativa.
 
-\[caption id="attachment\_1344" align="alignnone" width="680"\]![\[ Huuuum ....\]](/assets/img/2014/08/IMG_3864-680x510.jpg) \[ Huuuum ....\]\[/caption\]- CHOCOLATE MAIS:
+\[caption id="attachment\_1344" align="alignnone" width="680"\]![\[ Huuuum ....\]](/assets/img/2014/08/IMG_3864-680x510.webp) \[ Huuuum ....\]\[/caption\]- CHOCOLATE MAIS:
 
 Com massa de chocolate, também levemente doce e amanteigada, permanece com a leveza e sensação de um biscoitinho bem recheado de chocolate, quentinho e muito gostoso. O recheio incrível, cremoso e quentinho, que me fará voltar para provar os outros sabores doces.
 
-\[caption id="attachment\_1345" align="alignnone" width="680"\]![\[Bem gostosa e ideal com um cafezinho\]](/assets/img/2014/08/IMG_3863-680x510.jpg) \[Bem gostosa e ideal com um cafezinho\]\[/caption\]No dia só estavam servindo estes sabores doces e me arrependi depois de ter comprado apenas duas, poderia ter comprado a mais para saborear no outro dia como uma opção de lanche à tarde.
+\[caption id="attachment\_1345" align="alignnone" width="680"\]![\[Bem gostosa e ideal com um cafezinho\]](/assets/img/2014/08/IMG_3863-680x510.webp) \[Bem gostosa e ideal com um cafezinho\]\[/caption\]No dia só estavam servindo estes sabores doces e me arrependi depois de ter comprado apenas duas, poderia ter comprado a mais para saborear no outro dia como uma opção de lanche à tarde.
 
 Além das tradicionais empadas (são em torno de 18 sabores) são servidos calzones, croissants, esfiha, folhado, pastel de forno, quibe, coxinha e tortinhas tipo quiche.
 

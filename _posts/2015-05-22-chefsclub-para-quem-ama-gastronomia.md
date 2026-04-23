@@ -8,7 +8,7 @@ tags:
   - "japones"
   - "restaurante"
   - "toko"
-image: "/assets/img/2015/05/destaque-chefsclub-01.jpg"
+image: "/assets/img/2015/05/destaque-chefsclub-01.webp"
 redirect_from:
   - "/chefsclub-para-quem-ama-gastronomia/"
 ---
@@ -25,7 +25,7 @@ Em Salvador, a cada dia novos estabelecimentos se tornam credenciados e mais pes
 
 \- Minha primeira experiência utilizando o Chefs Club:
 
-![toko-chefsclub](/assets/img/2015/05/toko-chefsclub.jpg)
+![toko-chefsclub](/assets/img/2015/05/toko-chefsclub.webp)
 
 Escolhi o **Toko** da Pituba, restaurante japonês, que de segunda a quarta aceita o ChefsClub, das 18:00 as 23:59. Como já conhecia o restaurante, até me surpreendi com o atendimento (que não era lá essas coisas e achei que seria pior por ser uma associada e teria desconto), foi totalmente diferente do que imagina. Fui com três amigas, apesar que o desconto só cobriria eu + uma pessoa, e fomos bem atendidas.
 
@@ -33,7 +33,7 @@ Fizemos nossos pedidos: Temakis - o meu foi um hot temaki de salmão com cream c
 
 Como o desconto só poderia ser para duas pessoas (eu + um), o restaurante foi super compreensivo em abrir duas contas, e eu acabei dando de presente o desconto para minhas amigas ;)
 
-![toko-chefsclub-2](/assets/img/2015/05/toko-chefsclub-2.jpg)
+![toko-chefsclub-2](/assets/img/2015/05/toko-chefsclub-2.webp)
 
 O total ficou R$ 52,40 com as bebidas, tivemos desconto de 30%.
 

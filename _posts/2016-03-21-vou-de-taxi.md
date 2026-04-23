@@ -9,7 +9,7 @@ tags:
   - "outback"
   - "restaurante"
   - "taxi"
-image: "/assets/img/2016/03/destaque-vou-de-taxi.jpg"
+image: "/assets/img/2016/03/destaque-vou-de-taxi.webp"
 redirect_from:
   - "/vou-de-taxi/"
 ---

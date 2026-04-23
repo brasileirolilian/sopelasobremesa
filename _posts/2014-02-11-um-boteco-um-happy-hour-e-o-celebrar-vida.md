@@ -10,7 +10,7 @@ tags:
   - "goiaba"
   - "sobremesa"
   - "sorvete"
-image: "/assets/img/2014/03/bolo-de-rolo-destaque.jpg"
+image: "/assets/img/2014/03/bolo-de-rolo-destaque.webp"
 redirect_from:
   - "/um-boteco-um-happy-hour-e-o-celebrar-vida/"
 ---
@@ -23,7 +23,7 @@ Celebrar a vida de uma amiga tão querida, que a cada dia me mostra o quão amiz
 
 Uum choppinho esperto, umas comidinhas de boteco, rir, fotografar, fofocar com o ar de que o mundo nunca vai acabar e que as horas se arrastaram até o fim chegar, NÃO TEM PREÇO. Nesse 11/02 eu digo que não fui apenas pela sobremesa, mas pela amizade doce, intensa e verdadeira da minha querida Isabela. Mas como não poderia ser diferente, o gran finale ficou por conta do PERNAMBUQUÍSSIMO: pense, numa coisa que é misturar o que há de bom em Pernambuco (BOLO DE ROLO, BOLO DE ROLO, BOLO DE ROLO), com sorvete de creme. Uma sobremesa com a cara do local, com o sabor do momento.
 
-\[caption id="attachment\_109" align="alignnone" width="680"\]![\[ Apresentação muito simples, mas a mistura ficou até legal \]](/assets/img/2014/03/foto-2-680x510.jpg) \[ Apresentação muito simples, mas a mistura ficou até legal \]\[/caption\] A textura aveludada da massa do  bolo com o leve adocicado da goiaba se misturam com a cremosidade do sorvete, com gostinho de infância de baunilha e o açúcar no ponto do sorvete. Incrível, verdadeiro e fiel, como uma boa amizade. Porém deixou a desejar na apresentação, simplória demais, quem sabe uma caldinha de doce de leite poderia dar o arremate final?
+\[caption id="attachment\_109" align="alignnone" width="680"\]![\[ Apresentação muito simples, mas a mistura ficou até legal \]](/assets/img/2014/03/foto-2-680x510.webp) \[ Apresentação muito simples, mas a mistura ficou até legal \]\[/caption\] A textura aveludada da massa do  bolo com o leve adocicado da goiaba se misturam com a cremosidade do sorvete, com gostinho de infância de baunilha e o açúcar no ponto do sorvete. Incrível, verdadeiro e fiel, como uma boa amizade. Porém deixou a desejar na apresentação, simplória demais, quem sabe uma caldinha de doce de leite poderia dar o arremate final?
 
 Uma florzinha de goiaba dando um toque delicado ao prato? E se ao invés de duas fatias, três seria o ideal?
 

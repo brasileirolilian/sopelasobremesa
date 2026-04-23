@@ -71,7 +71,7 @@ title:  "El título de mi artículo aquí"
 date:   2024-05-12 10:00:00 -0400
 categories: [ "Receitas", "Doces" ]
 author: "Lílian Brasileiro"
-image: "/assets/img/nombre-de-mi-imagen.jpg"
+image: "/assets/img/nombre-de-mi-imagen.webp"
 excerpt: "Este texto aparecerá como un pequeño resumen debajo del título en la tarjeta del post de la pantalla principal."
 ---
 ```
@@ -103,8 +103,28 @@ Esto es **negrita** y esto es *cursiva*.
 
 **Para insertar una imagen dentro del propio texto:**
 ```markdown
-![Texto alternativo que describe la imagen](/assets/img/mi-foto-interna.jpg)
+![Texto alternativo que describe la imagen](/assets/img/mi-foto-interna.webp)
 ```
+
+---
+
+## 🖼️ Optimización de Imágenes (WebP)
+
+Para garantizar que el sitio cargue extremadamente rápido y ahorremos minutos de compilación en GitHub Actions, todas las imágenes se sirven en formato `.webp`.
+
+En lugar de depender de un plugin que regenere las imágenes cada vez, contamos con un script automatizado local:
+
+1. Guarda siempre tus imágenes originales (`.jpg`, `.png`, etc.) dentro de la carpeta `assets/images/`.
+2. Antes de subir tus cambios a GitHub, abre tu terminal y ejecuta el siguiente script:
+
+```bash
+chmod +x scripts/convert_to_webp.sh && ./scripts/convert_to_webp.sh
+```
+
+**¿Qué hace este script?**
+Buscará todas las fotos originales nuevas en `assets/images/`, las convertirá automáticamente a formato `.webp` con un 95% de calidad, y guardará el resultado manteniendo la misma estructura de carpetas dentro de `assets/img/`.
+
+*(Nota: Solo debes referenciar las imágenes con la extensión `.webp` apuntando a la carpeta `assets/img/` dentro de tus posts o código HTML)*.
 
 ---
 
@@ -116,6 +136,7 @@ Si necesitas modificar la apariencia estructural, debes saber dónde está cada 
 *   `_layouts/`: Contiene los esqueletos principales de las páginas (Home, Post, Page, Default).
 *   `_includes/`: Componentes reutilizables que se inyectan en los layouts (Header, Footer, Barra de búsqueda, etc.).
 *   `assets/css/`: La magia del diseño vive aquí. Utilizamos SCSS, distribuido lógicamente en `_variables.scss` (los tokens de color de Stitch), `_layout.scss` y `_components.scss` (para estilos específicos de tarjetas o autor).
-*   `assets/img/`: Directorio central para guardar logos, avatares y fotos de los artículos.
+*   `assets/images/`: Directorio central para guardar imágenes originales.
+*   `assets/img/`: Directorio de imagens optimizadas para uso en el sitio.
 *   `assets/js/`: Funcionalidades como el buscador en tiempo real.
 *   `_config.yml`: Archivo maestro de configuración general de Jekyll. Desde aquí puedes cambiar el nombre de la autora por defecto, la descripción del sitio o enlaces de redes sociales (por ejemplo, `instagram_username`).

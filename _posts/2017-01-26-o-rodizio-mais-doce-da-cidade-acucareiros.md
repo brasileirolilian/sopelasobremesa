@@ -20,7 +20,7 @@ tags:
   - "rodizio"
   - "sobremesas-2"
   - "tortas"
-image: "açucareiros.jpg"
+image: "açucareiros.webp"
 redirect_from:
   - "/o-rodizio-mais-doce-da-cidade-acucareiros/"
 ---
@@ -34,24 +34,24 @@ Em parceria com a Cabana da Cely do Rio Vermelho, na Rua da Paciência, piso sup
 O cardápio era bem extenso, mas conseguimos provar de tudo. - Brigadeiros: Paçoca, Ninho com Nutella, Tradicional, Prestígio, Churros, Olho de Sogra, Brigadeiro de Banana, e o meu queridinho da marca: Brûlée.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/01/brigadeiro-brullee-açucareiros-680x680.jpg" alt="\[Imagem: Açucareiros - porque esqueci de tirar foto dos brigadeiros e só fiz Ao Vivo no Instagram. rsrsrsrs\]" />
+  <img src="/assets/img/2017/01/brigadeiro-brullee-açucareiros-680x680.webp" alt="\[Imagem: Açucareiros - porque esqueci de tirar foto dos brigadeiros e só fiz Ao Vivo no Instagram. rsrsrsrs\]" />
   <figcaption>\[Imagem: Açucareiros - porque esqueci de tirar foto dos brigadeiros e só fiz Ao Vivo no Instagram. rsrsrsrs\]</figcaption>
 </figure>- Doces Caseiros: Ambrosia, Doce de Banana e Cocada (esta aqui valeu demais o destaque - cremosa, doçura equilibrada, deliciosa)
 
-![](/assets/img/2017/01/IMG_8071-e1485356853277.jpg)
+![](/assets/img/2017/01/IMG_8071-e1485356853277.webp)
 
 \- Tortas: Chocolate, Geleia Caseira de Moranga - fantástica essa torta de bolo branco e a geleia doce e levemente azedinha; Brûlée na massa branca; e Limão com Doce de Leite - que pra mim, poderia ter mais limão na massa ou alternar recheio de limão com recheio de doce de leite, sei que a maioria das pessoas preferem mais a doçura do doce de leite, mas o limão traz um equilíbrio e um casamento perfeito. Todos os bolos estavam fofíssimos e muito saborosos.
 
-![](/assets/img/2017/01/IMG_8073-e1485355332454.jpg)
+![](/assets/img/2017/01/IMG_8073-e1485355332454.webp)
 
 \- Outras delícias: Palha Italiana, Brownie, Brownie com Doce de Leite, Pudim e Empadinha doce (no tamanho real, e com a massinha levemente amanteigada. O recheio cremosinho delicia).
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/01/IMG_8189-680x907.jpg" alt="\[Tomás, um dos Açucareiros's Brothers, e as empadinhas\]" />
+  <img src="/assets/img/2017/01/IMG_8189-680x907.webp" alt="\[Tomás, um dos Açucareiros's Brothers, e as empadinhas\]" />
   <figcaption>\[Tomás, um dos Açucareiros's Brothers, e as empadinhas\]</figcaption>
 </figure> 
 
-![](/assets/img/2017/01/IMG_8069-680x680.jpg)
+![](/assets/img/2017/01/IMG_8069-680x680.webp)
 
 O sistema é bruto e rápido, mas passa o tempo todo e você pode repetir o que mais gostar, quantas vezes quiser e até o quanto aguentar, dentro claro das duas horas que você adquiriu. Quem é formiga vai conseguir completar essa prova de resistência super facil!
 

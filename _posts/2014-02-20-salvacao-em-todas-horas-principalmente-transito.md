@@ -13,7 +13,7 @@ tags:
   - "sem-gluten"
   - "sem-lactose"
   - "tapioca"
-image: "/assets/img/2014/02/bolinhodetapioca1.jpg"
+image: "/assets/img/2014/02/bolinhodetapioca1.webp"
 redirect_from:
   - "/salvacao-em-todas-horas-principalmente-transito/"
 ---

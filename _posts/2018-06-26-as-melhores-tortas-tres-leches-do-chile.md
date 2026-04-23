@@ -24,7 +24,7 @@ tags:
   - "torta"
   - "torta-tres-leches"
   - "trilece"
-image: "/assets/img/2018/06/IMG_6384.jpg"
+image: "/assets/img/2018/06/IMG_6384.webp"
 redirect_from:
   - "/as-melhores-tortas-tres-leches-do-chile/"
 ---
@@ -36,7 +36,7 @@ Basicamente feita de Bolo de Massa branca, molhadinha com uma calda de leite ou 
 **_GALLETERIA LAURA R_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_2615-680x510.jpg" alt="Super delicada e bem feita, se desmancha na boca com doçura super equilibrada, úmida sem ser empapada, leve e deliciosa. Com duas unidades na capital, uma em Providência mais precisamente na Manuel Montt, e outra em Vitacura; a doceria além de tortas e sobremesas, faz biscoitinhos deliciosos." />
+  <img src="/assets/img/2018/06/IMG_2615-680x510.webp" alt="Super delicada e bem feita, se desmancha na boca com doçura super equilibrada, úmida sem ser empapada, leve e deliciosa. Com duas unidades na capital, uma em Providência mais precisamente na Manuel Montt, e outra em Vitacura; a doceria além de tortas e sobremesas, faz biscoitinhos deliciosos." />
   <figcaption>Super delicada e bem feita, se desmancha na boca com doçura super equilibrada, úmida sem ser empapada, leve e deliciosa. Com duas unidades na capital, uma em Providência mais precisamente na Manuel Montt, e outra em Vitacura; a doceria além de tortas e sobremesas, faz biscoitinhos deliciosos.</figcaption>
 </figure>
 
@@ -45,12 +45,12 @@ _Av. Manuel Montt 747. Providência. / Av. Vitacura 3414. Vitacura._
 **_COMO ÁGUA PARA CHOCOLATE_** 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_6092-680x510.jpg" alt="O restaurante localizado no bairro Bellavista na comuna de Providência, é um sucesso entre turistas principalmente os brasileiros. E de fato a comida é muito boa, e sua decoração remete ao romance das telonas de 1992, deixando a experiência ainda mais especial." />
+  <img src="/assets/img/2018/06/IMG_6092-680x510.webp" alt="O restaurante localizado no bairro Bellavista na comuna de Providência, é um sucesso entre turistas principalmente os brasileiros. E de fato a comida é muito boa, e sua decoração remete ao romance das telonas de 1992, deixando a experiência ainda mais especial." />
   <figcaption>O restaurante localizado no bairro Bellavista na comuna de Providência, é um sucesso entre turistas principalmente os brasileiros. E de fato a comida é muito boa, e sua decoração remete ao romance das telonas de 1992, deixando a experiência ainda mais especial.</figcaption>
 </figure>
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_6099-e1530035962703-510x680.jpg" alt="Não só a temática do restaurante, mas a apresentação da Torta Tres Leches que além de linda é deliciosa e serve muito bem 02 à 03 pessoas." />
+  <img src="/assets/img/2018/06/IMG_6099-e1530035962703-510x680.webp" alt="Não só a temática do restaurante, mas a apresentação da Torta Tres Leches que além de linda é deliciosa e serve muito bem 02 à 03 pessoas." />
   <figcaption>Não só a temática do restaurante, mas a apresentação da Torta Tres Leches que além de linda é deliciosa e serve muito bem 02 à 03 pessoas.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ _Constitución 88, Bellavista. Providência_
 **_MESTIZO_** 
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_2385-680x510.jpg" alt="Apesar de se bem frequentado por turistas, mas também pela galera do business, o Mestizo além da boa comida e do bom atendimento, é um lugar encantador: nas margens do Parque Bicentenário em Vitacura, tem uma ambientação rústica moderna, um clima super agradável, e claro: uma Tres Leches de tirar o chapéu." />
+  <img src="/assets/img/2018/06/IMG_2385-680x510.webp" alt="Apesar de se bem frequentado por turistas, mas também pela galera do business, o Mestizo além da boa comida e do bom atendimento, é um lugar encantador: nas margens do Parque Bicentenário em Vitacura, tem uma ambientação rústica moderna, um clima super agradável, e claro: uma Tres Leches de tirar o chapéu." />
   <figcaption>Apesar de se bem frequentado por turistas, mas também pela galera do business, o Mestizo além da boa comida e do bom atendimento, é um lugar encantador: nas margens do Parque Bicentenário em Vitacura, tem uma ambientação rústica moderna, um clima super agradável, e claro: uma Tres Leches de tirar o chapéu.</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Também já vi versões mais modernas da receita com o acréscimo de Geleia de F
 **_PUERTO BELLAVISTA_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_4065-680x510.jpg" alt="Também localizado em Bellavista, mais precisamente no complexo Patio Bellavista, o Puerto Bellavista tem o melhor sanduba de pescado que comi na cidade. E surpreendeu com essa Tres Leches delicada e muito saborosa." />
+  <img src="/assets/img/2018/06/IMG_4065-680x510.webp" alt="Também localizado em Bellavista, mais precisamente no complexo Patio Bellavista, o Puerto Bellavista tem o melhor sanduba de pescado que comi na cidade. E surpreendeu com essa Tres Leches delicada e muito saborosa." />
   <figcaption>Também localizado em Bellavista, mais precisamente no complexo Patio Bellavista, o Puerto Bellavista tem o melhor sanduba de pescado que comi na cidade. E surpreendeu com essa Tres Leches delicada e muito saborosa.</figcaption>
 </figure>
 
@@ -81,12 +81,12 @@ _Pio Nono 77. Bellavista. Providência._
 **_CONFITERIA TORRES_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_8334-680x510.jpg" alt="A foto pode até não estar das melhores, mas a Confiteria Torres, uma das mais antigas da cidade, desde 1879 sabe sim fazer uma Tres Leches de derreter na boca." />
+  <img src="/assets/img/2018/06/IMG_8334-680x510.webp" alt="A foto pode até não estar das melhores, mas a Confiteria Torres, uma das mais antigas da cidade, desde 1879 sabe sim fazer uma Tres Leches de derreter na boca." />
   <figcaption>A foto pode até não estar das melhores, mas a Confiteria Torres, uma das mais antigas da cidade, desde 1879 sabe sim fazer uma Tres Leches de derreter na boca.</figcaption>
 </figure>
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_8353-680x510.jpg" alt="Em uma de suas camadas usa pudim e molha com caldinha de leite condensado fazendo o bolo ficar embebido, sem perder estrutura. Uma coisa absurda de deliciosa, e geladinha então uh la lá." />
+  <img src="/assets/img/2018/06/IMG_8353-680x510.webp" alt="Em uma de suas camadas usa pudim e molha com caldinha de leite condensado fazendo o bolo ficar embebido, sem perder estrutura. Uma coisa absurda de deliciosa, e geladinha então uh la lá." />
   <figcaption>Em uma de suas camadas usa pudim e molha com caldinha de leite condensado fazendo o bolo ficar embebido, sem perder estrutura. Uma coisa absurda de deliciosa, e geladinha então uh la lá.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ _Dieciocho 27. Santiago - Centro._ 
 **_MELBA_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_2195-680x510.jpg" alt="Mais sequinha que as demais, mas não menos gostosa, a Tres Leches da Melba leva uma camada bem generosa de doce de leite." />
+  <img src="/assets/img/2018/06/IMG_2195-680x510.webp" alt="Mais sequinha que as demais, mas não menos gostosa, a Tres Leches da Melba leva uma camada bem generosa de doce de leite." />
   <figcaption>Mais sequinha que as demais, mas não menos gostosa, a Tres Leches da Melba leva uma camada bem generosa de doce de leite.</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ _" As primeiras receitas desse bolo encharcado foram vistas no México já no s�
 **_COPPELIA_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_6384-680x510.jpg" alt="Outra doceria que faz parte da história dos chilenos, desde 1949 a Coppelia tem um menu de tortas invejável e uma Tres Leches ideal para aquele cafezinho no final do dia. São 12 unidades espalhadas pela cidade, em Providência são duas: uma no Mall Vivo Panoramico 2155." />
+  <img src="/assets/img/2018/06/IMG_6384-680x510.webp" alt="Outra doceria que faz parte da história dos chilenos, desde 1949 a Coppelia tem um menu de tortas invejável e uma Tres Leches ideal para aquele cafezinho no final do dia. São 12 unidades espalhadas pela cidade, em Providência são duas: uma no Mall Vivo Panoramico 2155." />
   <figcaption>Outra doceria que faz parte da história dos chilenos, desde 1949 a Coppelia tem um menu de tortas invejável e uma Tres Leches ideal para aquele cafezinho no final do dia. São 12 unidades espalhadas pela cidade, em Providência são duas: uma no Mall Vivo Panoramico 2155.</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ _Av. Providencia 2109-2111. Providência._
 **_BRAVISSIMO_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_3058-680x510.jpg" alt="A mais sequinha de todas, maaas não menos saborosa. Esta por sua vez ganha umidade quando saboreamos com a bolinha de sorvete que vem acompanhando. Em porção individual, que recomendo não dividir, pois ficará na vontade de mais. Possui várias unidades espalhadas pela cidade: Las Condes, Providência, Centro..." />
+  <img src="/assets/img/2018/06/IMG_3058-680x510.webp" alt="A mais sequinha de todas, maaas não menos saborosa. Esta por sua vez ganha umidade quando saboreamos com a bolinha de sorvete que vem acompanhando. Em porção individual, que recomendo não dividir, pois ficará na vontade de mais. Possui várias unidades espalhadas pela cidade: Las Condes, Providência, Centro..." />
   <figcaption>A mais sequinha de todas, maaas não menos saborosa. Esta por sua vez ganha umidade quando saboreamos com a bolinha de sorvete que vem acompanhando. Em porção individual, que recomendo não dividir, pois ficará na vontade de mais. Possui várias unidades espalhadas pela cidade: Las Condes, Providência, Centro...</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ Nos demais lugares, a versão tradicional ganha um plus a mais como geleias, mai
 **_C'ES SI BON_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_3192-680x510.jpg" alt="A que parece fugir das características principais de uma Tres Leches, mas em sua receita a C\`est si Bon agregou massa de chocolate e geleia de framboesa. E posso contar? Ficou maravilhosa. Mas, um alerta: a fatia é enorme, o bolo além de alto tem um diâmetro gigante. Então, aconselho dividir para não desperdiçar: a não ser que, você seja uma formiga-leão." />
+  <img src="/assets/img/2018/06/IMG_3192-680x510.webp" alt="A que parece fugir das características principais de uma Tres Leches, mas em sua receita a C\`est si Bon agregou massa de chocolate e geleia de framboesa. E posso contar? Ficou maravilhosa. Mas, um alerta: a fatia é enorme, o bolo além de alto tem um diâmetro gigante. Então, aconselho dividir para não desperdiçar: a não ser que, você seja uma formiga-leão." />
   <figcaption>A que parece fugir das características principais de uma Tres Leches, mas em sua receita a C\`est si Bon agregou massa de chocolate e geleia de framboesa. E posso contar? Ficou maravilhosa. Mas, um alerta: a fatia é enorme, o bolo além de alto tem um diâmetro gigante. Então, aconselho dividir para não desperdiçar: a não ser que, você seja uma formiga-leão.</figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ _Andres Bello. Mall Costanera Center/ Carmencita 13. Las Condes / Compañía de 
 **_CAFÉ ANTULICAN NO CENTRO DE ARTESANATO LOS DOMINICOS_**
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/IMG_3724-680x510.jpg" alt="No Centro de Artesanado Los Dominicos, um café rústico e bem a carinha do lugar tem a Tres Leches mais diferente. Seguindo a receita da família que administra o café, essa Torta Tres Leches tem consistência de um Pudim esponjoso e é recheado com Manjar - doce de leite de cozimento rápido e não tão denso. Pode até não estar bonito na foto, mas até hoje me lembro do seu sabor, uma das minhas primeiras tortas tres leches quando cheguei em terras chilenas, uma doce delícia memorável." />
+  <img src="/assets/img/2018/06/IMG_3724-680x510.webp" alt="No Centro de Artesanado Los Dominicos, um café rústico e bem a carinha do lugar tem a Tres Leches mais diferente. Seguindo a receita da família que administra o café, essa Torta Tres Leches tem consistência de um Pudim esponjoso e é recheado com Manjar - doce de leite de cozimento rápido e não tão denso. Pode até não estar bonito na foto, mas até hoje me lembro do seu sabor, uma das minhas primeiras tortas tres leches quando cheguei em terras chilenas, uma doce delícia memorável." />
   <figcaption>No Centro de Artesanado Los Dominicos, um café rústico e bem a carinha do lugar tem a Tres Leches mais diferente. Seguindo a receita da família que administra o café, essa Torta Tres Leches tem consistência de um Pudim esponjoso e é recheado com Manjar - doce de leite de cozimento rápido e não tão denso. Pode até não estar bonito na foto, mas até hoje me lembro do seu sabor, uma das minhas primeiras tortas tres leches quando cheguei em terras chilenas, uma doce delícia memorável.</figcaption>
 </figure>
 
@@ -150,6 +150,6 @@ Ah! Pode ser ainda encontrada em vários países da América do Sul e Central, c
 Também descobri que nos últimos anos, sua popularidade aumentou na **_Turquia_**, e leva o nome de _Trileçe._
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/fincateyze.blogspot.com_-680x383.jpg" alt="Trileçe ou Torta Tres Leches da Turquia. Imagem: fincateyze.blogspot.com" />
+  <img src="/assets/img/2018/06/fincateyze.blogspot.com_-680x383.webp" alt="Trileçe ou Torta Tres Leches da Turquia. Imagem: fincateyze.blogspot.com" />
   <figcaption>Trileçe ou Torta Tres Leches da Turquia. Imagem: fincateyze.blogspot.com</figcaption>
 </figure>

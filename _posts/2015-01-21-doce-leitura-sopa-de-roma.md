@@ -15,7 +15,7 @@ tags:
   - "receitas"
   - "roma"
   - "sopa-de-roma"
-image: "/assets/img/2014/03/destaque3.jpg"
+image: "/assets/img/2014/03/destaque3.webp"
 redirect_from:
   - "/doce-leitura-sopa-de-roma/"
 ---
@@ -38,7 +38,7 @@ E em muitas passagens do livro pude perceber que as situações da vida e até a
 
 "É a romã que dá ao fesenjoon sua capacidade de cura. A romã, o fruto proibido original, fruto do Éden há muito desaparecido, se refugia numa concha encouraçada e vermelha, que na antiga Roma era usada como uma pele protetora. Depois que se tira a pele protetora da romã, no entanto, uma suculenta granada se revela a quem vai ter a sorte de comê-la, estourando na boca como o orgasmo fino do amor."
 
-\[caption id="attachment\_1966" align="alignnone" width="600"\]![\[Fesenjoon - Foto: thesaffrontales.com\]](/assets/img/2015/01/thesaffrontales-fesenjoon-2.jpg) \[Fesenjoon - Foto: thesaffrontales.com\]\[/caption\] 
+\[caption id="attachment\_1966" align="alignnone" width="600"\]![\[Fesenjoon - Foto: thesaffrontales.com\]](/assets/img/2015/01/thesaffrontales-fesenjoon-2.webp) \[Fesenjoon - Foto: thesaffrontales.com\]\[/caption\] 
 
 "Diferentes dos clássicos gregos, para quem a fruta simbolizava o ciclo inescapável da amarga morte, com a arrependida Penélope voltando ao inferno por seis meses de inverno, Marjan gostava de acreditar nas velhas histórias dos profetas persas, que tinham uma visão diferente da missão da fruta azeda na terra. Ela gostava de se lembrar que , acima de tudo, acima de todas as conotações de morte e inverno, a romã era e sempre seria a fruta da esperança.
 
@@ -48,7 +48,7 @@ A flor da fertilidade, de novas coisas por vir, velhas estações a serem lembra
 
 "As milhares de sementinhas que poderiam ser a flor de um recomeço."
 
-\[caption id="attachment\_1975" align="alignnone" width="600"\]![\[O travesseiro do Arabesque Empório, se assemelha em sabor, textura e aparência a uma Baklava\] ](/assets/img/2015/01/beechovens2.jpg) \[O travesseiro do Arabesque Empório, se assemelha em sabor, textura e aparência a uma Baklava\]\[/caption\]De uma simples receita caseira de chá para enxaqueca, passando pelas baklavas, refresco de iogurte dugh, lavash, orelhas de elefante , abgusht, torshí, um total de de 13 receitas que nos levam a viajar em busca de recomeços, do seguir em frente entre quedas e tropeços, como a vida é.
+\[caption id="attachment\_1975" align="alignnone" width="600"\]![\[O travesseiro do Arabesque Empório, se assemelha em sabor, textura e aparência a uma Baklava\] ](/assets/img/2015/01/beechovens2.webp) \[O travesseiro do Arabesque Empório, se assemelha em sabor, textura e aparência a uma Baklava\]\[/caption\]De uma simples receita caseira de chá para enxaqueca, passando pelas baklavas, refresco de iogurte dugh, lavash, orelhas de elefante , abgusht, torshí, um total de de 13 receitas que nos levam a viajar em busca de recomeços, do seguir em frente entre quedas e tropeços, como a vida é.
 
 **Livro:** Sopa de Romã (2006)
 
@@ -58,6 +58,6 @@ A flor da fertilidade, de novas coisas por vir, velhas estações a serem lembra
 
 **Para acompanhar a leitura:** Ninho de Damasco, Mahmoul**\***, Travesseiro (quase uma Baklava) e Ninho de Castanhas - **Arabesque Empório Árabe**, na Rua Marechal Andrea, 68, Pituba. Os docinhos variam entre R$ 2,50 e R$ 2,90. (vou dedicar um post aqui especial para esse cantinho cheio de mistérios e especiarias)
 
-\[caption id="attachment\_1967" align="alignnone" width="588"\]![\[Doces Típicos\]](/assets/img/2015/01/IMG_9449-2.jpg) \[Doces Típicos, deliciosos - levemente doces\]\[/caption\]Estes são doces típicos árabes, não que sejam diretamente ligados ao livro, mas que tem um toque especial, aaah isso tem!
+\[caption id="attachment\_1967" align="alignnone" width="588"\]![\[Doces Típicos\]](/assets/img/2015/01/IMG_9449-2.webp) \[Doces Típicos, deliciosos - levemente doces\]\[/caption\]Estes são doces típicos árabes, não que sejam diretamente ligados ao livro, mas que tem um toque especial, aaah isso tem!
 
-\[caption id="attachment\_1968" align="alignnone" width="450"\]![\[Mahmoul\]](/assets/img/2015/01/IMG_9504-2.jpg) \[Mahmoul\]\[/caption\]\*Mahmoul é um docinho árabe a base de semolina, leite e manteiga. Nesse caso o recheio é de nozes, mas podemos encontrar com tâmaras, castanhas e água de flor de laranjeira. De todos, o Mahmoul e Baklava são uns dos meus doces favoritos.
+\[caption id="attachment\_1968" align="alignnone" width="450"\]![\[Mahmoul\]](/assets/img/2015/01/IMG_9504-2.webp) \[Mahmoul\]\[/caption\]\*Mahmoul é um docinho árabe a base de semolina, leite e manteiga. Nesse caso o recheio é de nozes, mas podemos encontrar com tâmaras, castanhas e água de flor de laranjeira. De todos, o Mahmoul e Baklava são uns dos meus doces favoritos.

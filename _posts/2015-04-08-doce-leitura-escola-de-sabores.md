@@ -10,7 +10,7 @@ tags:
   - "receitas"
   - "sabores"
   - "tiramisu"
-image: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.webp"
 redirect_from:
   - "/doce-leitura-escola-de-sabores/"
 ---
@@ -23,7 +23,7 @@ A cada aula, ela (Lillian) lhes apresenta um novo desafio: nada de receitas trad
 
 \[...\] Cada tempero, aroma e textura exerce um efeito mágico diferente sobre os alunos. Com o decorrer dos meses, eles têm a oportunidade de olhar para dentro de si mesmos e de conhecer uns aos outros. Ao fim do curso, terão descoberto muito mais do que os segredos da cozinha: paixões, vocações e amizades."
 
-![IMG\_2194](/assets/img/2015/04/IMG_2194.jpg)
+![IMG\_2194](/assets/img/2015/04/IMG_2194.webp)
 
 (Síntese do livro)
 
@@ -57,4 +57,4 @@ Depois que seu pai foi embora de casa e sua mãe se rendeu a uma depressão dife
 
 **Para acompanhar a leitura:** Chocolate Quente ([Seven Wonders Café](http://www.sopelasobremesa.com/outras-maravilhas-mundo/ "Já falei aqui!"))
 
-\[caption id="attachment\_2244" align="alignnone" width="680"\]![\[Chocolate Quente da Seven Wonders Café na Livraria da Cultura no Salvador Shop.\]](/assets/img/2015/04/chocolate-quente-seven-680x510.jpg) \[Chocolate Quente da Seven Wonders Café na Livraria da Cultura no Salvador Shop.\]\[/caption\]
+\[caption id="attachment\_2244" align="alignnone" width="680"\]![\[Chocolate Quente da Seven Wonders Café na Livraria da Cultura no Salvador Shop.\]](/assets/img/2015/04/chocolate-quente-seven-680x510.webp) \[Chocolate Quente da Seven Wonders Café na Livraria da Cultura no Salvador Shop.\]\[/caption\]

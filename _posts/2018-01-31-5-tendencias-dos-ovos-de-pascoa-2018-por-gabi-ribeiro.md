@@ -15,7 +15,7 @@ tags:
   - "salao-de-pascoa"
   - "sobremesa"
   - "tendencias"
-image: "/assets/img/2018/01/salao-de-pascoa-q98a8523-credito-marcelo-brandt-g1.jpg"
+image: "/assets/img/2018/01/salao-de-pascoa-q98a8523-credito-marcelo-brandt-g1.webp"
 redirect_from:
   - "/5-tendencias-dos-ovos-de-pascoa-2018-por-gabi-ribeiro/"
 ---
@@ -25,7 +25,7 @@ A [_Gabi Ribeiro do Blog da Confeiteira_](http://blogdaconfeiteira.com.br/) foi 
 Dentre muitas novidades, os fabricantes estão diversificando os produtos, mesclando o tradicional com aquele toque especial de novo; também surgiu a preocupação de ofertar uma variedade maior em preço: R$ 1,20 à R$ 1.100,00, assim, tentam democratizar e tornar mais acessível para todos os bolsos e gostos.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/01/rodrigoribeiropascoa-680x421.jpg" alt="\[Ovo de Páscoa do Rodrigo Ribeiro @rodrigoribeirogourmet - Gran Chef Chocolatier Cordão de Ouro 2016 - Imagem: Blog da Confeiteira\]" />
+  <img src="/assets/img/2018/01/rodrigoribeiropascoa-680x421.webp" alt="\[Ovo de Páscoa do Rodrigo Ribeiro @rodrigoribeirogourmet - Gran Chef Chocolatier Cordão de Ouro 2016 - Imagem: Blog da Confeiteira\]" />
   <figcaption>\[Ovo de Páscoa do Rodrigo Ribeiro @rodrigoribeirogourmet - Gran Chef Chocolatier Cordão de Ouro 2016 - Imagem: Blog da Confeiteira\]</figcaption>
 </figure>Confira então as **05 tendências dos Ovos de Páscoa 2018** por _**Gabi Ribeiro - Blog da Confeiteira**_
 
@@ -46,6 +46,6 @@ _**5 – Procura por novos sabores, cores e texturas**_ O tradicional é bom, ma
 Beijo, beijo!"
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/01/Gabii-14-680x453.jpg" alt="\[Cineasta, mas Confeiteira por paixão, a Gabi é autora do Blog da Confeiteira , e é um doce de pessoa.\]" />
+  <img src="/assets/img/2018/01/Gabii-14-680x453.webp" alt="\[Cineasta, mas Confeiteira por paixão, a Gabi é autora do Blog da Confeiteira , e é um doce de pessoa.\]" />
   <figcaption>\[Cineasta, mas Confeiteira por paixão, a Gabi é autora do Blog da Confeiteira , e é um doce de pessoa.\]</figcaption>
 </figure>\[Imagem Destaque: Marcelo Brandt/G1\]

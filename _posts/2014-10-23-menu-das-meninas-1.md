@@ -14,7 +14,7 @@ tags:
   - "petiscos"
   - "restaurantes"
   - "sobremesas-2"
-image: "/assets/img/2014/10/destaque-menu-das-meninas-ep01.jpg"
+image: "/assets/img/2014/10/destaque-menu-das-meninas-ep01.webp"
 redirect_from:
   - "/menu-das-meninas-1/"
 ---

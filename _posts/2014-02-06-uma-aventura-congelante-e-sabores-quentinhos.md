@@ -15,7 +15,7 @@ tags:
   - "mil-folhas"
   - "submarino"
   - "torta"
-image: "/assets/img/2014/03/torta-mil-folhas.jpg"
+image: "/assets/img/2014/03/torta-mil-folhas.webp"
 redirect_from:
   - "/uma-aventura-congelante-e-sabores-quentinhos/"
 ---
@@ -44,21 +44,21 @@ Além dos personagens - principais e secundários - que me contagiaram, me fizer
 
 Destaque também para o personagem Olaf, o bonequinho de neve, que na versão em português Fábio Porchat empresta a sua voz e carisma, deixando mais fofo com as frases: " abraços quentinhos", "por certas pessoas vale a pena derreter" e " um ato de amor verdadeiro vai descongelar um coração congelado"...
 
-\[caption id="attachment\_180" align="alignnone" width="680"\]![\[ Ah! O Verãooooo... \]](/assets/img/2014/03/1286_679179552099016_504940240_n-2-680x439.jpg) \[ Ah! O Verãooooo... \]\[/caption\]Ao sair da sessão, eu estava completamente apaixonada e imersa na narrativa, a sensação que tive foi de fato estar vivendo cada experiência assistida e precisava urgentemente me sentir abraçada por algo quentinho, e claro nada melhor do que um Submarino e uma boa e generosa fatia de torta.
+\[caption id="attachment\_180" align="alignnone" width="680"\]![\[ Ah! O Verãooooo... \]](/assets/img/2014/03/1286_679179552099016_504940240_n-2-680x439.webp) \[ Ah! O Verãooooo... \]\[/caption\]Ao sair da sessão, eu estava completamente apaixonada e imersa na narrativa, a sensação que tive foi de fato estar vivendo cada experiência assistida e precisava urgentemente me sentir abraçada por algo quentinho, e claro nada melhor do que um Submarino e uma boa e generosa fatia de torta.
 
 Eis que passo pela Abuela Goye e plim: Torta Mil Folhas de Doce de Leite com um Submarino abarrotado de chocolate in rama.
 
-\[caption id="attachment\_181" align="alignnone" width="680"\]![\[ Torta Mil Folhas e Submarino - sabores quentinhos como um abraço! \]](/assets/img/2014/03/IMG_0950-680x510.jpg) \[ Torta Mil Folhas e Submarino - sabores quentinhos como um abraço! \]\[/caption\] 
+\[caption id="attachment\_181" align="alignnone" width="680"\]![\[ Torta Mil Folhas e Submarino - sabores quentinhos como um abraço! \]](/assets/img/2014/03/IMG_0950-680x510.webp) \[ Torta Mil Folhas e Submarino - sabores quentinhos como um abraço! \]\[/caption\] 
 
 Era disso que eu precisava: como um abraço quentinho senti a vovó Goye me acalentar  me fazendo voltar a  ser criança!
 
 A Torta Mil Folhas com massa folheada em finas camadas, e levemente salgadinha por causa da manteiga que vai em seu preparo, recebe camadas beeem generosas de recheio de dulce de leche  e entra em equilíbrio perfeito como o calor do amor e frio da neve.
 
-\[caption id="attachment\_182" align="alignnone" width="680"\]![\[ A fatia de torta é bem generosa e dá pra dividir com namorado (a), amiga, mãe, pai ...\]](/assets/img/2014/03/IMG_0952-680x510.jpg) \[ A fatia de torta é bem generosa e dá pra dividir com namorado (a), amiga, mãe, pai ...\]\[/caption\] 
+\[caption id="attachment\_182" align="alignnone" width="680"\]![\[ A fatia de torta é bem generosa e dá pra dividir com namorado (a), amiga, mãe, pai ...\]](/assets/img/2014/03/IMG_0952-680x510.webp) \[ A fatia de torta é bem generosa e dá pra dividir com namorado (a), amiga, mãe, pai ...\]\[/caption\] 
 
 O Submarino feito com leite vaporizado e bem cremoso e espumante ganha vida e graça com os chocolates em rama meio amargo, dando um toque rústico a cada gole.
 
-\[caption id="attachment\_184" align="alignnone" width="510"\]![\[ Sabor incrível, puro ou acompanhado, é indiscutível \]](/assets/img/2014/03/IMG_0946-11-510x680.jpg) \[ Sabor incrível, puro ou acompanhado, é indiscutível \]\[/caption\] 
+\[caption id="attachment\_184" align="alignnone" width="510"\]![\[ Sabor incrível, puro ou acompanhado, é indiscutível \]](/assets/img/2014/03/IMG_0946-11-510x680.webp) \[ Sabor incrível, puro ou acompanhado, é indiscutível \]\[/caption\] 
 
 Ao fim, a infância ganha espaço vivo na memória e no paladar.
 

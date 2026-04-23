@@ -22,7 +22,7 @@ tags:
   - "salvador-shopping"
   - "sobremesa"
   - "torta-gelada"
-image: "/assets/img/2017/06/IMG_5598-e1496861350189.jpg"
+image: "/assets/img/2017/06/IMG_5598-e1496861350189.webp"
 redirect_from:
   - "/aulas-show-especial-salvador-shopping-10-anos/"
 ---
@@ -33,36 +33,36 @@ Foram 03 aulas cheias de doçura e com receitas super fáceis. Como o dia estava
 
 **Aula 01:** **_Bolo de Banana com Coco Queimado e Caramelo Salgado por Luan Moura e sua cozinha de amor._**
 
-![](/assets/img/2017/06/IMG_5495-680x510.jpg)
+![](/assets/img/2017/06/IMG_5495-680x510.webp)
 
-![](/assets/img/2017/06/IMG_5509-680x510.jpg)
+![](/assets/img/2017/06/IMG_5509-680x510.webp)
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5511-680x510.jpg" alt="\[Bolo de Bananada, Coco Queimado e Caramelo Salgado - Cozinha com Amor por Luan Moura. E essa Mesa Posta pela Camicado que coisa mais lindaaaa\]" />
+  <img src="/assets/img/2017/06/IMG_5511-680x510.webp" alt="\[Bolo de Bananada, Coco Queimado e Caramelo Salgado - Cozinha com Amor por Luan Moura. E essa Mesa Posta pela Camicado que coisa mais lindaaaa\]" />
   <figcaption>\[Bolo de Bananada, Coco Queimado e Caramelo Salgado - Cozinha com Amor por Luan Moura. E essa Mesa Posta pela Camicado que coisa mais lindaaaa\]</figcaption>
 </figure>Um bolo simples, leve e aromático. Perfeito para reunir as amigas para um bate papo, ou simplesmente apreciar na sua própria companhia, seja lendo um livro, assistindo à um filme ou simplesmente ver a vida passar por alguns minutinhos. Ideal com café ou chá. Aquele bolo que conforta a alma e o coração.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5523-680x510.jpg" alt="\[o Cake na versão fôrma de furo no meio\]" />
+  <img src="/assets/img/2017/06/IMG_5523-680x510.webp" alt="\[o Cake na versão fôrma de furo no meio\]" />
   <figcaption>\[o Cake na versão fôrma de furo no meio\]</figcaption>
 </figure><figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5522-e1496858673638-510x680.jpg" alt="\[Foto da foto do @ondecomeremsalvador \]" />
+  <img src="/assets/img/2017/06/IMG_5522-e1496858673638-510x680.webp" alt="\[Foto da foto do @ondecomeremsalvador \]" />
   <figcaption>\[Foto da foto do @ondecomeremsalvador \]</figcaption>
 </figure><figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5528-e1496858466256-680x511.jpg" alt="\[as meninas doçuras e fofuras e o menino do Bolo\]" />
+  <img src="/assets/img/2017/06/IMG_5528-e1496858466256-680x511.webp" alt="\[as meninas doçuras e fofuras e o menino do Bolo\]" />
   <figcaption>\[as meninas doçuras e fofuras e o menino do Bolo\]</figcaption>
 </figure>**Aula 02:** _**Torta Gelada de Chocolate com Nibs de Cacau Mendoá e Morangos por Nath Araújo do Cozinha Fit & Fat.**_
 
 A Nath sempre transforma receitas fat em fit, e as vezes as fit em fat. E nesse equilibrio de gostosuras engordativas e delícias mais levinhas criou uma receita maravilhosa fit com chocolate 80% com Nibs da Mendoá - chocolates nobres e de origem 100% baianos. Ninguém acreditou que com tanta belezura, facilidade de produzir e sabor esta era uma receita suuper fit e com batata doce. =O
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5579-680x510.jpg" alt="\[Nath e suas receitinhas fit que são maravilhosas\]" />
+  <img src="/assets/img/2017/06/IMG_5579-680x510.webp" alt="\[Nath e suas receitinhas fit que são maravilhosas\]" />
   <figcaption>\[Nath e suas receitinhas fit que são maravilhosas\]</figcaption>
 </figure><figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5552-e1496859213787-680x511.jpg" alt="\[e se é amiga a gente vai prestigiar com muito amor no coração\]" />
+  <img src="/assets/img/2017/06/IMG_5552-e1496859213787-680x511.webp" alt="\[e se é amiga a gente vai prestigiar com muito amor no coração\]" />
   <figcaption>\[e se é amiga a gente vai prestigiar com muito amor no coração\]</figcaption>
 </figure><figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2017/06/IMG_5578-e1496859414173-510x680.jpg" alt="\[em suas receitas a Nath sempre usa Mendoá: um chocolate brasileiro, 100% baiano e de altíssima qualidade\]" />
+  <img src="/assets/img/2017/06/IMG_5578-e1496859414173-510x680.webp" alt="\[em suas receitas a Nath sempre usa Mendoá: um chocolate brasileiro, 100% baiano e de altíssima qualidade\]" />
   <figcaption>\[em suas receitas a Nath sempre usa Mendoá: um chocolate brasileiro, 100% baiano e de altíssima qualidade\]</figcaption>
 </figure>Pois é, creia!
 
@@ -78,7 +78,7 @@ _Recheio cremoso:_
 
 geleia de Morango caseira (200g de morango + 45ml de mel) morangos e chocolate Mendoá Nibs >> Esta receita NÃO contém: leite de vaca, farinha refinada, açúcar branco e ovos.
 
-![](/assets/img/2017/06/IMG_5586-e1496859563125-510x680.jpg)
+![](/assets/img/2017/06/IMG_5586-e1496859563125-510x680.webp)
 
 Equipamentos e utensílios:
 
@@ -88,18 +88,18 @@ Em uma tigela, leve ao micro-ondas o chocolate da base, misturando de 15 em 15 s
 
 _Bom apetite!_
 
-![](/assets/img/2017/06/IMG_5591-680x510.jpg)
+![](/assets/img/2017/06/IMG_5591-680x510.webp)
 
 **Aula 03:** **_Cake de Maçã Funcional com a Chef Mia da Camicado_**
 
 A Chef Mia preparou uma receita super aromática e fofinha. Seguindo a linha de comfort food, explicou a função de cada item na receita e os benefícios de cada um para a nossa saúde.
 
-![](/assets/img/2017/06/IMG_5638-680x510.jpg)
+![](/assets/img/2017/06/IMG_5638-680x510.webp)
 
-![](/assets/img/2017/06/IMG_5636-680x510.jpg)
+![](/assets/img/2017/06/IMG_5636-680x510.webp)
 
-![](/assets/img/2017/06/IMG_5633-e1496861088571-510x680.jpg)
+![](/assets/img/2017/06/IMG_5633-e1496861088571-510x680.webp)
 
-![](/assets/img/2017/06/IMG_5632-680x510.jpg)
+![](/assets/img/2017/06/IMG_5632-680x510.webp)
 
 A tarde foi incrível, de muito aprendizado e muitas doçuras. O Salvador Shopping está de parabéns pela ação e pelos 10 anos de muito sucesso. Realmente é um shopping diferenciado, por sempre estar mais próximo dos clientes, ouvindo-os e produzindo ações de inclusão, participação e aproximação.

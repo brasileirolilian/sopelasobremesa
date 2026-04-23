@@ -9,7 +9,7 @@ tags:
   - "churros"
   - "doce-de-leite"
   - "sobremesas-2"
-image: "/assets/img/2014/03/destaque.jpg"
+image: "/assets/img/2014/03/destaque.webp"
 redirect_from:
   - "/applebees/"
 ---
@@ -22,11 +22,11 @@ Além da comida boa e  atendimento, os preços são ótimos. E me ganhou mais a
 
 Bom, pelo visto já imagino que vocês adivinharam minha escolha: **Churros**.
 
-\[caption id="attachment\_1081" align="alignnone" width="680"\]![\[Hum..delícia!\]](/assets/img/2014/07/IMG_0781-680x733.jpg) \[Hum..delícia!\]\[/caption\]Um dos melhores que já comi, sequinhos, quentinhos e muito saborosos. A porção é ideal para dividir e o formato é bem legal, porque parecem anéis e não do jeito tradicional que vemos vender por aí.
+\[caption id="attachment\_1081" align="alignnone" width="680"\]![\[Hum..delícia!\]](/assets/img/2014/07/IMG_0781-680x733.webp) \[Hum..delícia!\]\[/caption\]Um dos melhores que já comi, sequinhos, quentinhos e muito saborosos. A porção é ideal para dividir e o formato é bem legal, porque parecem anéis e não do jeito tradicional que vemos vender por aí.
 
 No Rio de Janeiro, o restaurante fica localizado no Shopping New York City Center.
 
-\[caption id="attachment\_1082" align="alignnone" width="680"\]![\[ Applebee's no Rio de Janeiro - Barra da Tijuca \]](/assets/img/2014/07/IMG_6594-680x510.jpg) \[ Applebee's no Rio de Janeiro - Barra da Tijuca \]\[/caption\] 
+\[caption id="attachment\_1082" align="alignnone" width="680"\]![\[ Applebee's no Rio de Janeiro - Barra da Tijuca \]](/assets/img/2014/07/IMG_6594-680x510.webp) \[ Applebee's no Rio de Janeiro - Barra da Tijuca \]\[/caption\] 
 
 **Onde Encontrar:** Applebee's - Rio: Av. das Américas - Shopping New York City Center - Barra da Tijuca/ São Paulo: Al. dos Arapanés, 508, Moema (uma das lojas em SP)
 

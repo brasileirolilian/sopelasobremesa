@@ -12,7 +12,7 @@ tags:
   - "uva"
   - "vinhos"
   - "wine"
-image: "/assets/img/2015/06/destaque-outback-vinhos.jpg"
+image: "/assets/img/2015/06/destaque-outback-vinhos.webp"
 redirect_from:
   - "/outback-lanca-vinhos-exclusivos/"
 ---
@@ -21,7 +21,7 @@ _Rótulos Red Selection e White Selection são produzidos em Mendoza especialmen
 
 Em um projeto inovador, o Outback Steakhouse Brasil lança dois vinhos em parceria com Bodegas Salentein, vinícola argentina conhecida por seus projetos de vanguarda na produção de vinhos de alta qualidade. Os rótulos Red Selection e White Selection foram desenvolvidos no Vale de Uco, em Mendoza, especialmente para harmonizar com os sabores marcantes do cardápio do Outback.
 
-![Vinho Tinto Taça](/assets/img/2015/06/Vinho-Tinto-Taça.jpg)
+![Vinho Tinto Taça](/assets/img/2015/06/Vinho-Tinto-Taça.webp)
 
 “Somos uma steakhouse que, além de servir deliciosos pratos, proporciona momentos e experiências aos clientes. Acreditamos que um vinho com a nossa marca pode elevar a experiência gastronômica dentro dos restaurantes. Será uma escolha segura, de confiança, com nosso selo de qualidade”, destaca Antonio Pontes, vice-presidente de Compras e Logística do Outback Brasil.
 
@@ -29,7 +29,7 @@ Os vinhos Outback foram desenvolvidos com exclusividade para harmonizar com os p
 
 O vinho tinto _Red Selection_ (R$ 63) é resultado da combinação das uvas **Malbec**, **Cabernet Sauvignon** e **Petit Verdot**, perfeito para acompanhar especialmente carnes e massas. Já o _White Selection_ (R$ 63) é feito com a uva **Torrontés**, que é tipicamente argentina e resulta em vinhos brancos refrescantes e aromáticos. Essa seleção harmoniza perfeitamente com peixes e aves, realçando os seus sabores. Ambos os rótulos também estão disponíveis em taça (R$ 18,50).
 
-![Vinho branco Taça](/assets/img/2015/06/Vinho-branco-Taça.jpg)
+![Vinho branco Taça](/assets/img/2015/06/Vinho-branco-Taça.webp)
 
 As Bodegas Salentein estão situadas no Vale do Uco, região nobre de Mendoza, com condições climáticas e qualidade das terras ideais para a produção de vinhos de altíssima qualidade.
 

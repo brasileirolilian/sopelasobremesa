@@ -22,7 +22,7 @@ tags:
   - "sem-reserva"
   - "sobremesas-2"
   - "sobremesas-de-filmes"
-image: "/assets/img/2018/04/IMG_6734.1.jpg"
+image: "/assets/img/2018/04/IMG_6734.1.webp"
 redirect_from:
   - "/filmes-com-docuras/"
 ---
@@ -34,7 +34,7 @@ _Quem nunca babou pelos doces e sobremesas que aparecem nas telonas de longas do
 Filme de 2007, estrelado por Catherine Zeta-Jones (Chicago, lembra do musical?!), Aaron Eckhart (Obrigado por Fumar) e a pequena (que hoje não é mais tão pequena assim) Abigail Breslin (Pequena Miss Sunshine). Conta a história da bem sucedida, perfeccionista e metódica Chef de Cozinha, Kate - vivida por Catherine, que recebe a custódia de sua única sobrinha - Zoe, após perder a irmã em um acidente de carro. Com sua vida já não ficando tão gatinha assim, pois ela e a sobrinha não tinham nenhum tipo de aproximação; sua vida fica mais ainda de ponta a cabeça quando entra em cena Nick (Eckhart), o chef contratado para substitui-la enquanto ela se organiza com a nova vida de "mãe".
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/03/IMG_1576-1-680x510.jpg" alt="_Tiramisù da Osteria Agazzi na Rua Antonio Passos, na Federação. Maravilhoso!_" />
+  <img src="/assets/img/2018/03/IMG_1576-1-680x510.webp" alt="_Tiramisù da Osteria Agazzi na Rua Antonio Passos, na Federação. Maravilhoso!_" />
   <figcaption>_Tiramisù da Osteria Agazzi na Rua Antonio Passos, na Federação. Maravilhoso!_</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Este é o tipo de longa-metragem que não apenas inspira doçura, mas faz a gent
 Baseado em uma história real, a da escritora Elizabeth Gilbert e no livro de mesmo nome, o filme conta a história de Liz - uma mulher que aparentemente tinha tudo que todas as outras queriam ter: um marido, uma carreira estável, uma casa bacana. Mas, como em todo ser humano, aquele dito de que 'ninguém está satisfeito com o que tem', nem sempre é o dinheiro, nem sempre é um casamento ou uma carreira bem sucedida.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/03/IMG_8357-510x680.jpg" alt="_Gelato Crema da Crema Gelatos Italianos - Av. Paulo VI_" />
+  <img src="/assets/img/2018/03/IMG_8357-510x680.webp" alt="_Gelato Crema da Crema Gelatos Italianos - Av. Paulo VI_" />
   <figcaption>_Gelato Crema da Crema Gelatos Italianos - Av. Paulo VI_</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ _'Um Lugar chamado Notting Hill'_ é aquele tipo de filme que a gente assisti re
 Advinha qual a sobremesa servida no jantar?! Um Brownie Chocolatudo e com uma cara mega delicia.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/04/IMG_6834.1-544x680.jpg" alt="_o Brownie de Junia é perfeito: textura e sabor impecáveis. Aquele brownie que segue exatamente a receita e de fato é o que realmente deveria ser. Para encomendar: vá até o instagram oficial @juniabfranco_" />
+  <img src="/assets/img/2018/04/IMG_6834.1-544x680.webp" alt="_o Brownie de Junia é perfeito: textura e sabor impecáveis. Aquele brownie que segue exatamente a receita e de fato é o que realmente deveria ser. Para encomendar: vá até o instagram oficial @juniabfranco_" />
   <figcaption>_o Brownie de Junia é perfeito: textura e sabor impecáveis. Aquele brownie que segue exatamente a receita e de fato é o que realmente deveria ser. Para encomendar: vá até o instagram oficial @juniabfranco_</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Eu sou apaixonada por esse filme: primeiro pela história de superação da pers
 Estrelado por Keri Russel, vivendo o papel de Jenna - a garçonete que possui um dom de fazer tortas especiais, inspiradas nos problemas, questões e circunstâncias vividas por ela; o longa de 2007, se passa numa cidadezinha pequena do interior dos EUA.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/04/foto-onde-comer-em-salvador.1.jpg" alt="_A típica Torta de Maçã de massa folhada e super amanteigada, quetinha e recheio super generoso do Pasta em Casa. Imagem: Onde Comer em Salvador_" />
+  <img src="/assets/img/2018/04/foto-onde-comer-em-salvador.1.webp" alt="_A típica Torta de Maçã de massa folhada e super amanteigada, quetinha e recheio super generoso do Pasta em Casa. Imagem: Onde Comer em Salvador_" />
   <figcaption>_A típica Torta de Maçã de massa folhada e super amanteigada, quetinha e recheio super generoso do Pasta em Casa. Imagem: Onde Comer em Salvador_</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Jenna tem um sonho: juntar dinheiro o suficiente para largar o marido e poder te
 Porém, uma gravidez inesperada muda seus planos e ao se consultar com o novo e recém chegado médico, Jenna também descobre uma paixão, um novo amor e o mais importante, o amor próprio.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/04/IMG_9412.1-680x510.jpg" alt="_A Torta de Maçã do Pasta em Casa, é irresistível e acompanhada com sorvete de creme: fica maravideusa. O Pasta fica na Rua Professoa Almerinda Dultra - Rio Vermelho._" />
+  <img src="/assets/img/2018/04/IMG_9412.1-680x510.webp" alt="_A Torta de Maçã do Pasta em Casa, é irresistível e acompanhada com sorvete de creme: fica maravideusa. O Pasta fica na Rua Professoa Almerinda Dultra - Rio Vermelho._" />
   <figcaption>_A Torta de Maçã do Pasta em Casa, é irresistível e acompanhada com sorvete de creme: fica maravideusa. O Pasta fica na Rua Professoa Almerinda Dultra - Rio Vermelho._</figcaption>
 </figure>
 
@@ -116,10 +116,10 @@ Nesse processo de ajudar o próximo ela conhece Nino, conhece não, se apaixona 
 
 De uma maneira doce e inocente, com um toque de comédia, o filme traz uma França divertida, vintage e especial, sem perder todo o romantismo que a cidade naturalmente tem.
 
-![](/assets/img/2018/04/IMG_7885.1-510x680.jpg)
+![](/assets/img/2018/04/IMG_7885.1-510x680.webp)
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/04/IMG_7891.1-1-510x680.jpg" alt="O Creme Brullee do Adam, é leve e delicado. O sabor de Côco é uma delicia, e a casquinha perfeita, na espessura ideal. O Restaurante fica localizado na Rua Edith Mendes Gama e Abreu - no Empório Itaigara." />
+  <img src="/assets/img/2018/04/IMG_7891.1-1-510x680.webp" alt="O Creme Brullee do Adam, é leve e delicado. O sabor de Côco é uma delicia, e a casquinha perfeita, na espessura ideal. O Restaurante fica localizado na Rua Edith Mendes Gama e Abreu - no Empório Itaigara." />
   <figcaption>O Creme Brullee do Adam, é leve e delicado. O sabor de Côco é uma delicia, e a casquinha perfeita, na espessura ideal. O Restaurante fica localizado na Rua Edith Mendes Gama e Abreu - no Empório Itaigara.</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ Nesse processo, a personagem de Juliette conhece o cigano Roux e vivem uma paix�
 Um filme que fala de recomeço, generosidade e amor, tudo transformado pelo Chocolate, essa iguaria milenar que só faz ganhar o coração e o paladar das pessoas.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/04/IMG_7885.1-510x680.jpg" alt="Mendoá em parceria com o Chef Confeiteiri e Chocolatier Diego Lozaba, criaram bombons especiais com os sabores do Brasil: são seis opções, já incluindo sabores Mangaba, Cachaça de Jambu e Cumaru." />
+  <img src="/assets/img/2018/04/IMG_7885.1-510x680.webp" alt="Mendoá em parceria com o Chef Confeiteiri e Chocolatier Diego Lozaba, criaram bombons especiais com os sabores do Brasil: são seis opções, já incluindo sabores Mangaba, Cachaça de Jambu e Cumaru." />
   <figcaption>Mendoá em parceria com o Chef Confeiteiri e Chocolatier Diego Lozaba, criaram bombons especiais com os sabores do Brasil: são seis opções, já incluindo sabores Mangaba, Cachaça de Jambu e Cumaru.</figcaption>
 </figure>
 
@@ -165,6 +165,6 @@ Um enigma de mulher, de profissional, que não busca o estrelismo. Da grandeza �
  
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/04/IMG_6734.1-680x510.jpg" alt="_Enquanto no filme a Chef prepara um Saint Honore que também utiliza a massa choux como base e não encontrei um Saint Honore à tempo, vamos de Éclair do Atelier Laurent, que conquistou os soteropolitanos com tanta beleza e sabor._" />
+  <img src="/assets/img/2018/04/IMG_6734.1-680x510.webp" alt="_Enquanto no filme a Chef prepara um Saint Honore que também utiliza a massa choux como base e não encontrei um Saint Honore à tempo, vamos de Éclair do Atelier Laurent, que conquistou os soteropolitanos com tanta beleza e sabor._" />
   <figcaption>_Enquanto no filme a Chef prepara um Saint Honore que também utiliza a massa choux como base e não encontrei um Saint Honore à tempo, vamos de Éclair do Atelier Laurent, que conquistou os soteropolitanos com tanta beleza e sabor._</figcaption>
 </figure>

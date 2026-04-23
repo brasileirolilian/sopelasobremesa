@@ -10,7 +10,7 @@ tags:
   - "docura"
   - "sobremesas-2"
   - "tasty-list"
-image: "/assets/img/2015/05/revista-donna-destaque.jpg"
+image: "/assets/img/2015/05/revista-donna-destaque.webp"
 redirect_from:
   - "/brownies-the-tasty-list/"
 ---
@@ -33,7 +33,7 @@ _**\- Brou'ne**_
 
 A minha primeira experiência com os brownies dessa marca não foi muito boa, mas resolvi dar uma segunda chance quando a segunda unidade na capital baiana foi inaugurada, e tive de dar o braço à torcer: seguem as características básicas de um excelente brownie. Saborosos e com recheios e coberturas bem variados.
 
-\[caption id="attachment\_2322" align="alignnone" width="480"\]![IMG\_2749](/assets/img/2015/05/IMG_27491.jpg) \[Sabores: Oreo, Macadâmia, Crumble, Snickers\]\[/caption\]Com várias unidades espalhados por todo Brasil, basta acessar o site e conferir a mais perto de você: [www.broune.com.br](http://www.broune.com.br/index.php) ou no Instagram: @brounebrasil
+\[caption id="attachment\_2322" align="alignnone" width="480"\]![IMG\_2749](/assets/img/2015/05/IMG_27491.webp) \[Sabores: Oreo, Macadâmia, Crumble, Snickers\]\[/caption\]Com várias unidades espalhados por todo Brasil, basta acessar o site e conferir a mais perto de você: [www.broune.com.br](http://www.broune.com.br/index.php) ou no Instagram: @brounebrasil
 
 _**\- Duda Lima**_
 
@@ -41,7 +41,7 @@ Assim como seus brownies no pote com recheio de coco, brigadeiro, doce de leite.
 
 As Pipocas de Brownie da Duda já são meu vício, que em uma sentada detono um potão sem nem perceber.
 
-![IMG\_1340](/assets/img/2015/05/IMG_13401.jpg)
+![IMG\_1340](/assets/img/2015/05/IMG_13401.webp)
 
 Instagram: @duda\_ncl
 
@@ -51,7 +51,7 @@ _**\- Senhorita Brownie**_
 
 Os brownies da Senhorita Brownie chegaram pra mim como uma caixinha de degustação, super linda e fofa. Quatro quadradinhos com coberturas diferentes, mas com sabores inesquecíveis. De cara, só pelo visual vi que eram brownies genuínos - casquinhas craquelas e interior úmido. do jeito que eu amo. Os toppings com doçura suave, são cremosos e muito bem feitinhos. Além de ideal para lembrancinha de comer, deixam a mesa de qualquer evento bonita e fofa...
 
-![IMG\_9607](/assets/img/2015/05/IMG_96071.jpg)
+![IMG\_9607](/assets/img/2015/05/IMG_96071.webp)
 
 Instagram: @senhoritabrowniessa
 
@@ -61,7 +61,7 @@ _**\- Alfredo di Roma/ Figli**_
 
 O Alfredo é um dos mais tradicionais restaurantes italianos da cidade, já o Figli - dos mesmos donos do Alfredo, se tornou a varandinha italiana e modernina mais badalada para jantares informais, happy hour jovial e um cardápio recheado com comfort food. Não poderia ser diferente com as sobremesas e o Brownie além de jovial e reconfortante, pra mim é o mais gostoso na linha de Restaurantes.
 
-![IMG\_8942](/assets/img/2015/05/IMG_8942.jpg)
+![IMG\_8942](/assets/img/2015/05/IMG_8942.webp)
 
 Vem bem quentinho quase fumegando, acompanhado de uma bola generosa de sorvete de creme e caaaaalda de chocolate densa e maravilhosa.
 
@@ -75,7 +75,7 @@ A primeira foodbike de Salvador e claro tinha de ser de sobremesa, e por quê n�
 
 Ideal para todos os tipos de eventos, a Vou de Brownie inovou na hora de servir seus brownies, utilizando casquinha de sorvetes e acompanhamentos simples, mas pra lá de clássicos e deliciosos.
 
-![vou de brownie](/assets/img/2015/05/vou-de-brownie.jpg)
+![vou de brownie](/assets/img/2015/05/vou-de-brownie.webp)
 
 É o Brownie na Casquinha, e com Nutella e Leite Ninho então...
 
@@ -87,7 +87,7 @@ _**\- Dilícia de Brownie**_
 
 Os brownies da Dilícia apareceram por aqui tem um pouco mais de um ano, foi uma delícia provar na época e por incrível que parece o sabor continua maravilhoso como antes, lembro-me que na época as Pipocas de Brownie não eram tão famosas, e daí coloquei um nome para aqueles pedacinhos viciantes: Pipobrownie
 
-\[caption id="attachment\_2332" align="alignnone" width="480"\]![IMG\_1086](/assets/img/2015/05/IMG_1086.jpg) \[Sabor: Manteiga de Amendoim - Peanut butter\]\[/caption\]Ah! E a marca ainda tem o Clube do Brownie para você se associar e já garantir brownie o mês todo!
+\[caption id="attachment\_2332" align="alignnone" width="480"\]![IMG\_1086](/assets/img/2015/05/IMG_1086.webp) \[Sabor: Manteiga de Amendoim - Peanut butter\]\[/caption\]Ah! E a marca ainda tem o Clube do Brownie para você se associar e já garantir brownie o mês todo!
 
 Instagram: @diciliadebrownie
 
@@ -99,7 +99,7 @@ Com uma lojinha pequenina, mas super aconchegante a Boo Brownie me ganhou pelo a
 
  
 
-![IMG\_9454-2](/assets/img/2015/05/IMG_9454-2.jpg)
+![IMG\_9454-2](/assets/img/2015/05/IMG_9454-2.webp)
 
 Instagram: @boobrownieoficial
 
@@ -109,7 +109,7 @@ _**\- Cafelier**_
 
 Além do ambiente super agradável para se aproveitar um fim de tarde incrível na companhia de uma pessoa querida, o Cafelier tem um Brownie com a opção de sorvete de canela, que consegue ser uma coisa de outro mundo de tão delicioso.
 
-\[caption id="attachment\_2333" align="alignnone" width="640"\]![cafelier](/assets/img/2015/05/cafelier.jpg) \[Foto: Matheus Vasconcellos\]\[/caption\]Endereço: Rua do Carmo, 50, Santo Antonio - Salvador - Ba
+\[caption id="attachment\_2333" align="alignnone" width="640"\]![cafelier](/assets/img/2015/05/cafelier.webp) \[Foto: Matheus Vasconcellos\]\[/caption\]Endereço: Rua do Carmo, 50, Santo Antonio - Salvador - Ba
 
  
 
@@ -117,7 +117,7 @@ _**\- Castanho Brownie Artesanal**_
 
 Conheci os produtos da Castanho há um ano e pouco, também, logo que comecei o blog. E fiquei tão encantada com seu brownie que não poderia faltar aqui nessa lista doce e saborosa.
 
-![castanho brownie](/assets/img/2015/05/castanho-brownie.jpg)
+![castanho brownie](/assets/img/2015/05/castanho-brownie.webp)
 
 Instagram: @castanho\_brownieartesanal
 
@@ -127,13 +127,13 @@ Para quem vai viajar para uma dessas regiões ou para quem mora para o lado de l
 
 Os brownies da Misses Brownies chegou via Sedex pra mim, direto de São Paulo, e foi um dos posts que mais fiz com gosto, as meninas da M.B. são super fofas e atenciosas. Entraram em contato comigo e fizeram questão de me enviar um mimo.
 
-![misses brownie 2](/assets/img/2015/05/misses-brownie-2.jpg)
+![misses brownie 2](/assets/img/2015/05/misses-brownie-2.webp)
 
  
 
 Além de lindas opções de embalagens para presentear, as opções de forminhas para os que vão à mesa são maravilhosas. Os formatinhos dos brownies e os sabores são surreais. Do site ao atendimento, da apresentação dos produtos ao sabor e textura...qualidade, qualidade, fofura, qualidade, belezura...
 
-\[caption id="attachment\_2341" align="alignnone" width="640"\]![\[Nos sabores: Creme de Avelã e Doce de Leite\]](/assets/img/2015/05/misses-brownie.jpg) \[Nos sabores: Creme de Avelã e Doce de Leite\]\[/caption\]Eles já apareceram aqui no blog, e não poderiam ficar de fora dessa...
+\[caption id="attachment\_2341" align="alignnone" width="640"\]![\[Nos sabores: Creme de Avelã e Doce de Leite\]](/assets/img/2015/05/misses-brownie.webp) \[Nos sabores: Creme de Avelã e Doce de Leite\]\[/caption\]Eles já apareceram aqui no blog, e não poderiam ficar de fora dessa...
 
 Instagram: @missesbrownies
 
@@ -143,7 +143,7 @@ _**\- Charlie Brownie (POA)**_
 
 Em POA, o Charlie Brownie me chamou atenção, um personagem de quadrinho que ganhou mais vida com os brownies. Com uma identidade visual super criativa, um mascote super fofo, os brownies da Charlie não poderiam ser diferentes.
 
-\[caption id="attachment\_2339" align="alignnone" width="640"\]![\[Foto: Juliana Reiss - Correspondente\]](/assets/img/2015/05/charlie.jpg) \[Foto: Juliana Reiss - Correspondente\]\[/caption\]Instagram: @charliebrowniebr
+\[caption id="attachment\_2339" align="alignnone" width="640"\]![\[Foto: Juliana Reiss - Correspondente\]](/assets/img/2015/05/charlie.webp) \[Foto: Juliana Reiss - Correspondente\]\[/caption\]Instagram: @charliebrowniebr
 
 Ainda tem excelentes brownies espalhados por aí que, com toda certeza, entrarão para esta lista muito em breve!
 

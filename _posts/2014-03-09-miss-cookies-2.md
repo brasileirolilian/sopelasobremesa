@@ -13,7 +13,7 @@ tags:
   - "gotas-de-chocolate"
   - "mms"
   - "nutella"
-image: "/assets/img/2014/03/IMG_9452-e1395709537599.jpg"
+image: "/assets/img/2014/03/IMG_9452-e1395709537599.webp"
 redirect_from:
   - "/miss-cookies-2/"
 ---
@@ -22,7 +22,7 @@ Vou logo avisando: não consegui resistir e esperar março chegar pra pedir de n
 
 Dessa vez experimentei: Funny Cookie de Baunilha com Mm's colorido e o Cookies Tradicional de Baunilha com Gotas de Chocolate (que não me aguentei e "surrupiei" da encomenda da minha amiga Juli), o Recheado de Nutella, o Recheado de Doce de Leite e o Recheado de Brigadeiro tradicional.
 
-\[caption id="attachment\_350" align="alignnone" width="680"\]![\[Não resisti e antes de tirar fotos dei aquela mordida\]](/assets/img/2014/03/IMG_9451-680x510.jpg) \[Não resisti e antes de tirar fotos dei aquela mordida\]\[/caption\]Os cookies Funny e Gotas de Chocolate, são parecidos com aquela massa de sequilho, só que grandão tipo bolachão.
+\[caption id="attachment\_350" align="alignnone" width="680"\]![\[Não resisti e antes de tirar fotos dei aquela mordida\]](/assets/img/2014/03/IMG_9451-680x510.webp) \[Não resisti e antes de tirar fotos dei aquela mordida\]\[/caption\]Os cookies Funny e Gotas de Chocolate, são parecidos com aquela massa de sequilho, só que grandão tipo bolachão.
 
 Não é feito com a massa tradicional americana que leva açúcar mascavo. Mas também não é ruim, só diferente.
 
@@ -32,7 +32,7 @@ E o de doce de leite e o nutella, este me remeteram as melhores sensações que 
 
 Combinando com qualquer hora do dia.
 
-\[caption id="attachment\_351" align="alignnone" width="680"\]![\[Bom a qualquer hora do dia\]](/assets/img/2014/03/IMG_9453-680x510.jpg) \[Bom a qualquer hora do dia\]\[/caption\]Ainda tenho outros para experimentar!
+\[caption id="attachment\_351" align="alignnone" width="680"\]![\[Bom a qualquer hora do dia\]](/assets/img/2014/03/IMG_9453-680x510.webp) \[Bom a qualquer hora do dia\]\[/caption\]Ainda tenho outros para experimentar!
 
 E não abro mão, mesmo tendo os meus preferidos.
 

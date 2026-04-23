@@ -8,7 +8,7 @@ tags:
   - "doce"
   - "rir"
   - "sobremesa"
-image: "/assets/img/2014/02/Gastron01-e1393898336432.jpg"
+image: "/assets/img/2014/02/Gastron01-e1393898336432.webp"
 redirect_from:
   - "/pode-vir-so-pela-sobremesa/"
 ---

@@ -45,7 +45,7 @@ tags:
   - "trips"
   - "viagem"
   - "winter"
-image: "/assets/img/2018/05/A7D29187-B477-43DC-85F1-3C196FEFA152.jpg"
+image: "/assets/img/2018/05/A7D29187-B477-43DC-85F1-3C196FEFA152.webp"
 redirect_from:
   - "/chocolate-quente-especial-santiago-de-chile/"
 ---
@@ -63,13 +63,13 @@ _**Se liga nessa listinha de lugares encantadores para apreciar em Santiago, Chi
 A Cacao Much não é apenas uma loja de chocolates, uma chocolateria; é um Café que possui um menu bem bacana de quitutes doces e salgados, mas com especialidade em Chocolate - nas suas mais diversas formas: para beber, bombons, sorvetes, tortas ... Além de um lugar super fofo, conta com um atendimento bem simpático das meninas, e o gerente é atencioso e pronto para sempre tirar dúvidas.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/A7D29187-B477-43DC-85F1-3C196FEFA152-680x510.jpg" alt="O chocolate café, funciona próximo ao Costanera Center, na Av. Providência 2400. Instagram: @cacaomuch" />
+  <img src="/assets/img/2018/05/A7D29187-B477-43DC-85F1-3C196FEFA152-680x510.webp" alt="O chocolate café, funciona próximo ao Costanera Center, na Av. Providência 2400. Instagram: @cacaomuch" />
   <figcaption>O chocolate café, funciona próximo ao Costanera Center, na Av. Providência 2400. Instagram: @cacaomuch</figcaption>
 </figure>
 
 Até agora, o MELHOR CHOCOLATE QUENTE DA CIDADE - por um diferencial pequeno, mas muito importante: consistência do produto. Vamos lá, justificarei: como brasileira e com paladar acostumado à um tipo de chocolate quente, tinha como referência um "estilo"da bebida, ou seja **bem grosso, bem cremoso, bem intenso.** _(Minha referência é o Chocolate Quente da Seven Wonders Café, ou aquele chocolate quente que parece que derreteu a própria barra e adicionou uma gota, uma gota mesmo de leite)._
 
-![](/assets/img/2018/05/295F6C92-CC20-492E-9496-F151A8F8981D-510x680.jpg)
+![](/assets/img/2018/05/295F6C92-CC20-492E-9496-F151A8F8981D-510x680.webp)
 
 E esse foi o motivo que o Chocolate Quente da Cacao Much pra mim foi o melhor, porque se aproxima (mas ainda não é exatamente igual) aos que estou acostuma e gosto de saborear.
 
@@ -80,14 +80,14 @@ A casa trabalha com Callebaut, chocolate belga de uma boa qualidade. Em sabor, �
 Uma chocolateria, com chocolatier e tudo mais, essa é a Patagonia Schokoland que chegou recentemente a capital chilena (inaugurou sua primeira unidade na cidade em Janeiro/2018), vinda diretamente de Valdivia, cidade localizada ao sul de Santiago, em pleno coração da Patagônia chilena.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/516D5196-C3CB-4A66-84F6-C8AD1DA7376C-680x510.jpg" alt="Chocolate Caliente espeso. Localizada na Calle Carmencita 106, Las Condes. Instagram: @patagoniashokoland" />
+  <img src="/assets/img/2018/06/516D5196-C3CB-4A66-84F6-C8AD1DA7376C-680x510.webp" alt="Chocolate Caliente espeso. Localizada na Calle Carmencita 106, Las Condes. Instagram: @patagoniashokoland" />
   <figcaption>Chocolate Caliente espeso. Localizada na Calle Carmencita 106, Las Condes. Instagram: @patagoniashokoland</figcaption>
 </figure>
 
 A casa realmente é onde o Chocolate faz morada: bombons, barras, caldas, bolos, muffins, fondue... tudo que pode levar chocolate na receita ou o que pode harmonizar e acompanhá-lo. Não é um chocobar, ou um Café de Chocolate, mas uma Casa que tem o espetáculo Chocolate como artista principal, e sim podemos assistir o/a Chocolatier produzindo as delícias de chocolate e até montar a nossa barra.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/F3E3A4BF-27B4-479B-9896-1AFC886EBC4F-680x510.jpg" alt="Chocolate Caliente Ligero" />
+  <img src="/assets/img/2018/06/F3E3A4BF-27B4-479B-9896-1AFC886EBC4F-680x510.webp" alt="Chocolate Caliente Ligero" />
   <figcaption>Chocolate Caliente Ligero</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Possui até um mini museu do chocolate em suas instalações, além de seguir re
 Aqui sim, é real oficial, que é um choco bar. Sim, tem a parte da lojinha e balcão de bombons, mas muito pequena com relação as opções acima.O Chocolate está em todas as receitas literalmente, e de todas as formas.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/IMG_3867-680x510.jpg" alt="Na Brussels você escolhe o que quer adicionar ao Chocolate Quente, bem aerado, não cremoso, mas delicioso. Endereço: Calle Santa Magdalena #168 Providência, Santiago. Instagram: @brusselschocolates" />
+  <img src="/assets/img/2018/05/IMG_3867-680x510.webp" alt="Na Brussels você escolhe o que quer adicionar ao Chocolate Quente, bem aerado, não cremoso, mas delicioso. Endereço: Calle Santa Magdalena #168 Providência, Santiago. Instagram: @brusselschocolates" />
   <figcaption>Na Brussels você escolhe o que quer adicionar ao Chocolate Quente, bem aerado, não cremoso, mas delicioso. Endereço: Calle Santa Magdalena #168 Providência, Santiago. Instagram: @brusselschocolates</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ O ambiente é rústico, porém bem descolado. A cerâmica em que são servidos o
 Uma boutique luxuosíssima de chocolates, com lojas espalhadas pelos principais shoppings da cidade e até com lojas de rua. Na La Fête chocolate é sinônimo de joia e pedra preciosa, isso mesmo que você leu: os produtos - que vão além de bombons com os mais diversos recheios, tem ainda barras com várias porcentagens, galletas (biscoitos), uma linha exclusiva para cozinha, caixas para presentear, sorvetes e até as misturinhas de chocolate quente para fazer em casa.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/06/chocolate-caliente-3-10.jpg" alt="Vai foto divulgação porque a minha não ficou boa, mas prometo comprar e saborear de novo essa gostosura, aí capricho na foto. Tem lojas espalhadas por toda capital. Instagram: @lafetechocolat Imagem: La Fête Chocolat/ Divulgação." />
+  <img src="/assets/img/2018/06/chocolate-caliente-3-10.webp" alt="Vai foto divulgação porque a minha não ficou boa, mas prometo comprar e saborear de novo essa gostosura, aí capricho na foto. Tem lojas espalhadas por toda capital. Instagram: @lafetechocolat Imagem: La Fête Chocolat/ Divulgação." />
   <figcaption>Vai foto divulgação porque a minha não ficou boa, mas prometo comprar e saborear de novo essa gostosura, aí capricho na foto. Tem lojas espalhadas por toda capital. Instagram: @lafetechocolat Imagem: La Fête Chocolat/ Divulgação.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ O chocolate quente pode ser encontrado no Mall Costanera Center, e em outras alg
 Primeiro choco bar no Chile, com chocolates do Perú, Equador, Colômbia, Brasil. Mas, com apenas opções de bebidas: quentes ou frias; e Sorvetes.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/IMG_4495-cópia-e1527704324991-510x680.jpg" alt="A Xoco por Ti é conhecida pelos desenhos que produz nos chocolates quentes. Possui duas unidades no Barrio Italia: A. Italia 1634 e A. Italia 1439 - ambas na comuna de Providência. Instagram: @xocoporti" />
+  <img src="/assets/img/2018/05/IMG_4495-cópia-e1527704324991-510x680.webp" alt="A Xoco por Ti é conhecida pelos desenhos que produz nos chocolates quentes. Possui duas unidades no Barrio Italia: A. Italia 1634 e A. Italia 1439 - ambas na comuna de Providência. Instagram: @xocoporti" />
   <figcaption>A Xoco por Ti é conhecida pelos desenhos que produz nos chocolates quentes. Possui duas unidades no Barrio Italia: A. Italia 1634 e A. Italia 1439 - ambas na comuna de Providência. Instagram: @xocoporti</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Uma bebida mais ralinha do que estamos acostumados, mas em sabor é uma coisa de
 A C'est si Bon é uma rede de cafeteria que tem como proposta o serviço de delicatessen, produtos orgânicos e cafés e comidinhas para qualquer hora do dia. Com um menu bem rico em variedades de produtos e em sabor, a casa conta com bebidas: quentes e rias, uma carta de desayuno bem legal com preços convidativos (breve post sobre Cafés da Manhã/Brunch em Santiago), um menu especial do bistrô com refeições para o almoço ou jantar.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/05/43079BCB-6568-482E-8BBC-A9D2773F5D5E-680x510.jpg" alt="A C'es si Bon! tem no Mall Costanera Center, no Mall Parque Arauco, próximo a saída do Metrô Tobalaba." />
+  <img src="/assets/img/2018/05/43079BCB-6568-482E-8BBC-A9D2773F5D5E-680x510.webp" alt="A C'es si Bon! tem no Mall Costanera Center, no Mall Parque Arauco, próximo a saída do Metrô Tobalaba." />
   <figcaption>A C'es si Bon! tem no Mall Costanera Center, no Mall Parque Arauco, próximo a saída do Metrô Tobalaba.</figcaption>
 </figure>
 

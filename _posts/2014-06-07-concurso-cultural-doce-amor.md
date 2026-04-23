@@ -15,7 +15,7 @@ tags:
   - "kitkat"
   - "namorados"
   - "torta"
-image: "/assets/img/2014/03/destaque1.jpg"
+image: "/assets/img/2014/03/destaque1.webp"
 redirect_from:
   - "/concurso-cultural-doce-amor/"
 ---
@@ -62,6 +62,6 @@ Para os seguidores da fanpage do blog no Facebook e para os seguidores do perfil
 
 8\. Entrega do prêmio 11/06.
 
-\[caption id="attachment\_920" align="alignnone" width="500"\]![\[Imagem ilustrativa - foto: Granulado\]](/assets/img/2014/06/mini-kitkat-com-morango-granulado.jpg) \[Imagem ilustrativa - foto: Granulado\]\[/caption\]E se você ainda não curte a nossa página no Face ou no IG, não perca tempo: clique aqui para _[Fanpage](https://www.facebook.com/sopelasobremesa?fref=ts "fanpage oficial do blog")_  e acesse @sopelasobremesa no Instagram. 
+\[caption id="attachment\_920" align="alignnone" width="500"\]![\[Imagem ilustrativa - foto: Granulado\]](/assets/img/2014/06/mini-kitkat-com-morango-granulado.webp) \[Imagem ilustrativa - foto: Granulado\]\[/caption\]E se você ainda não curte a nossa página no Face ou no IG, não perca tempo: clique aqui para _[Fanpage](https://www.facebook.com/sopelasobremesa?fref=ts "fanpage oficial do blog")_  e acesse @sopelasobremesa no Instagram. 
 
 _ATENÇÃO: os participantes devem residir em Salvador-Ba,_

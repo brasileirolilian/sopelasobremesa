@@ -13,7 +13,7 @@ tags:
   - "o-fabuloso-destino-de-amelie-poulain"
   - "pelicula"
   - "sobremesa"
-image: "/assets/img/2014/10/destaque-amelie-poulain.jpg"
+image: "/assets/img/2014/10/destaque-amelie-poulain.webp"
 redirect_from:
   - "/pra-assistir-amelie-seu-fabuloso-destino-e-o-creme-brulee/"
 ---
@@ -34,7 +34,7 @@ A película é bem dinâmica e divertida com ângulos de câmera inusitados, uma
 
 **Facebook:** [Fanpage Oficial](https://www.facebook.com/bistrotduvinadega/timeline "no face!")
 
-\[caption id="attachment\_1658" align="alignnone" width="680"\]![\[Crème Brûlée do Bistrot du Vin - um dos mais gostosos que provei\]](/assets/img/2014/10/creme2-680x630.jpg) \[Crème Brûlée do Bistrot du Vin - um dos mais gostosos que provei\]\[/caption\]Ficha Técnica:
+\[caption id="attachment\_1658" align="alignnone" width="680"\]![\[Crème Brûlée do Bistrot du Vin - um dos mais gostosos que provei\]](/assets/img/2014/10/creme2-680x630.webp) \[Crème Brûlée do Bistrot du Vin - um dos mais gostosos que provei\]\[/caption\]Ficha Técnica:
 
 Título: Le Fabuleux Destin D'Amélie Poulain (Original) Ano produção: 2001 Dirigido por: Jean-Pierre Jeunet Roteiro Guillaume Laurant Elenco: Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta, Serge Merlin, James Debbouze Duração: 122 minutos ClassificaçãO: 14 - Não recomendado para menores de 14 anos Gênero: Comédia Romance Países de Origem: Alemanha/França
 

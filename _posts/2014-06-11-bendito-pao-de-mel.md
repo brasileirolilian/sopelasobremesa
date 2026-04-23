@@ -11,7 +11,7 @@ tags:
   - "doce"
   - "pao-de-mel"
   - "recheio"
-image: "/assets/img/2014/06/benditos-pao-de-mel-destque.jpg"
+image: "/assets/img/2014/06/benditos-pao-de-mel-destque.webp"
 redirect_from:
   - "/bendito-pao-de-mel/"
 ---
@@ -26,7 +26,7 @@ Vou explicar os motivos que fizeram me apaixonar por estes Pães de Mel:
 
 2) SABOR - desde o chocolate que cobre todo o pão de mel até o sabor fantástico do recheio e claro a massa incrível que parece mais um bolinho úmido, molhadinho, macio e muito fofinho.
 
-\[caption id="attachment\_958" align="alignnone" width="680"\]![\[Olha que loucura boa!\]](/assets/img/2014/06/IMG_2074-680x510.jpg) \[Olha que loucura boa!\]\[/caption\]3) RECHEIO - a quantidade de recheio é incrível, e muito cremoso.
+\[caption id="attachment\_958" align="alignnone" width="680"\]![\[Olha que loucura boa!\]](/assets/img/2014/06/IMG_2074-680x510.webp) \[Olha que loucura boa!\]\[/caption\]3) RECHEIO - a quantidade de recheio é incrível, e muito cremoso.
 
 4) FRESQUINHO E CHEIROSO
 
@@ -34,7 +34,7 @@ Vou explicar os motivos que fizeram me apaixonar por estes Pães de Mel:
 
 De fato o sabor do pão de mel condiz com o slogan da marquinha "Tornando sua vida mais doce!"
 
-\[caption id="attachment\_959" align="alignnone" width="680"\]![\[Mais um pouquinho de tortura e paro!\]](/assets/img/2014/06/IMG_2076-680x510.jpg) \[Mais um pouquinho de tortura e paro!\]\[/caption\] 
+\[caption id="attachment\_959" align="alignnone" width="680"\]![\[Mais um pouquinho de tortura e paro!\]](/assets/img/2014/06/IMG_2076-680x510.webp) \[Mais um pouquinho de tortura e paro!\]\[/caption\] 
 
 Além de tornar o meu dia mais doce, transformou minha vida. Existem pães de mel gostosos, bem feitos, mas os da Benditos Brigadeiros com toda certeza estão na minha lista de preferidos.
 

@@ -17,7 +17,7 @@ tags:
   - "salvador"
   - "sobremesas-2"
   - "sobremesas-afetivas"
-image: "/assets/img/2018/05/image1.jpeg"
+image: "/assets/img/2018/05/image1.webp"
 redirect_from:
   - "/lembrancas-com-docura-e-muito-afeto-do-almoco-em-familia-ao-menu-do-restaurante/"
 ---
@@ -25,7 +25,7 @@ redirect_from:
 Ali no número 26, na praça Alexandre Fernandes, Garcia, o charmoso bistrô _**Larriquerrí**_ é conhecido por possuir uma cozinha afetiva, com criações e montagens contemporâneas mas que trazem lembranças e memórias aos seus comensais.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/07/image3-680x510.jpeg" alt="Larriquerri - riqueza de afeto e doces memórias." />
+  <img src="/assets/img/2018/07/image3-680x510.webp" alt="Larriquerri - riqueza de afeto e doces memórias." />
   <figcaption>Larriquerri - riqueza de afeto e doces memórias.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Além de contar com livros de receitas da família e de mães e avós de amigos 
 A Rosa, de forma bem humorada conta que o nome do Larriquerrí, por exemplo, representa para ela o orgasmo do cavaco um doce simples, que é preparado com a massa do pastel frito e empanado no açúcar e canela.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/07/image2-680x510.jpeg" alt="Cavaco com Baba de Moça. Imagem: Repórter Gourmet." />
+  <img src="/assets/img/2018/07/image2-680x510.webp" alt="Cavaco com Baba de Moça. Imagem: Repórter Gourmet." />
   <figcaption>Cavaco com Baba de Moça. Imagem: Repórter Gourmet.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ A Rosa, de forma bem humorada conta que o nome do Larriquerrí, por exemplo, rep
 Para seu filho, o doce que representa a sua infância e faz parte de sua memória afetiva, e claro, também está no cardápio do Larriquerrí é o pudim de tapioca. “Quando penso em uma sobremesa afetiva, logo lembro dos almoços na casa dos meus avós aos domingo, que permanecem até hoje”.
 
 <figure class="aligncenter" style="margin: 0 auto; text-align: center;">
-  <img src="/assets/img/2018/07/image1-680x510.jpeg" alt="Pudim de Tapioca - as memória afetiva dos almoços de domingo em família de Gabriel Guerra, bartender no Larribar e filho de Rosa, agora no Menu do Larriquerri." />
+  <img src="/assets/img/2018/07/image1-680x510.webp" alt="Pudim de Tapioca - as memória afetiva dos almoços de domingo em família de Gabriel Guerra, bartender no Larribar e filho de Rosa, agora no Menu do Larriquerri." />
   <figcaption>Pudim de Tapioca - as memória afetiva dos almoços de domingo em família de Gabriel Guerra, bartender no Larribar e filho de Rosa, agora no Menu do Larriquerri.</figcaption>
 </figure>
 

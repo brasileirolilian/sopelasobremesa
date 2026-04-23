@@ -10,7 +10,7 @@ tags:
   - "chocolate-quente"
   - "doces"
   - "sobremesa"
-image: "/assets/img/2016/03/destaque-01.jpg"
+image: "/assets/img/2016/03/destaque-01.webp"
 redirect_from:
   - "/7-chocolates-quentes-pra-vida-toda/"
 ---
@@ -29,7 +29,7 @@ Passa o olho nessa lista com os _**07 Chocolates quentes**_ que marcaram minha 
 
 A primeira coisa que me chamou atenção foi a xícara pequenina (versão menor) toda decoradinha com listras de chocolate, super fofa. A segunda: o aroma avassalador e acolhedor de chocolate e a terceira a cremosidade e sabor. Pense assim: grossinho e com sabor de feito em casa, que acolhe até a alma. Sabor intenso, e não muito doce.  Uma maravilha!
 
-![chocolate - viva gula](/assets/img/2016/03/chocolate-viva-gula.jpg)
+![chocolate - viva gula](/assets/img/2016/03/chocolate-viva-gula.webp)
 
 \* Nos principais shoppings da cidade: Salvador Shop. / Shop. Barra / Paseo Itaigara
 
@@ -41,7 +41,7 @@ A primeira coisa que me chamou atenção foi a xícara pequenina (versão menor)
 
 A marca trabalha com dois tipos de Chocolate Quente: Meio Amargo e Ao Leite. Amo os dois! Quando eu quero algo mais intenso e forte fico com o meio amargo; já quando quero um sabor mais divertido, uma doçurinha peço o ao leite. Ambos cremosos e deliciosos.
 
-\[caption id="attachment\_2842" align="alignnone" width="551"\]![\[Ao Leite\]](/assets/img/2016/03/ao-leite-kopenhagen.jpg) \[Ao Leite\]\[/caption\]\[caption id="attachment\_2843" align="alignnone" width="637"\]![\[Meio Amargo e com colher de chocolate então....\]](/assets/img/2016/03/meia-amargo-kopenhagen.jpg) \[Meio Amargo e com colher de chocolate então....\]\[/caption\]\* Salvador Shopping/ Shop. Barra e nas principais capitais do Brasil
+\[caption id="attachment\_2842" align="alignnone" width="551"\]![\[Ao Leite\]](/assets/img/2016/03/ao-leite-kopenhagen.webp) \[Ao Leite\]\[/caption\]\[caption id="attachment\_2843" align="alignnone" width="637"\]![\[Meio Amargo e com colher de chocolate então....\]](/assets/img/2016/03/meia-amargo-kopenhagen.webp) \[Meio Amargo e com colher de chocolate então....\]\[/caption\]\* Salvador Shopping/ Shop. Barra e nas principais capitais do Brasil
 
 @kopenhagen\_
 
@@ -51,7 +51,7 @@ A marca trabalha com dois tipos de Chocolate Quente: Meio Amargo e Ao Leite. Amo
 
 O chocolate mais fofo que vi e provei, caprichadíssimo na apresentação e extremamente saboroso. Cremoso e muito saboroso, finalizado com chantilly, numa canequinha linda e elegante. Ideal acompanhando o bem casado salgado, ou o delicioso Bolo de Canela - carro chefe da casa.  Maravilhoso e ainda curtindo o clima super astral do local.
 
-![dolce vila](/assets/img/2016/03/dolce-vila.jpg)
+![dolce vila](/assets/img/2016/03/dolce-vila.webp)
 
 \* A lojinha linda e tchuca fica no Ondina Apart - Av. Oceânica, 2.400 - Salvador
 
@@ -63,7 +63,7 @@ O chocolate mais fofo que vi e provei, caprichadíssimo na apresentação e extr
 
 Páááááraaa tudo! Já saborearam essa delícia de perfeição?! Pode tá um calor de rachar, mas eu não resisto. Denso, intenso, insano e absurdamente delicioso. Cremoso é pouco, espesso; meio amargo, e pra complementar a borda e a colherzinha vem com chocolate. Huuum, ai ai!
 
-![chocolate quente - seven wonders](/assets/img/2016/03/chocolate-quente-seven-wonders.jpg)
+![chocolate quente - seven wonders](/assets/img/2016/03/chocolate-quente-seven-wonders.webp)
 
 \* Onde Encontrar: Livraria Cultura Salvador Shopping/ Shop. Barra/ Shop. Bela Vista - Salvador ou e Shop. RioMar em Recife
 
@@ -75,7 +75,7 @@ Páááááraaa tudo! Já saborearam essa delícia de perfeição?! Pode tá um 
 
 Esse chocolate quente marcou minha viagem em Santiago no Chile e a minha vida! Enquanto esperava a vez do meu grupo para conhecer a casa de Pablo Neruda - Casa Museu La Chascona, casa em que o escritor construiu em forma de navio para sua terceira mulher Matilde Urrutia,  resolvemos fazer um lanche no Café e como já estava cansada de tanto café, precisava de algo mais acolhedor. E eis que para acompanhar a quiche de frango, optei meio desconfiada, pelo Chocolate... Surpreendente, ixe, delicioso e marcante.
 
-![chocolate quente - la chascona - chile](/assets/img/2016/03/chocolate-quente-la-chascona-chile.jpg)
+![chocolate quente - la chascona - chile](/assets/img/2016/03/chocolate-quente-la-chascona-chile.webp)
 
 \* Onde?! Fernando Márquez de la Plata 0192, Barrio Bellavista, Providencia, Santiago - Chile.
 
@@ -85,11 +85,11 @@ Esse chocolate quente marcou minha viagem em Santiago no Chile e a minha vida! E
 
 \* _Três Chocolates_ - como a categoria no menu do Pereira diz: ACONCHEGANTE! São três tipos de chocolate incorporados ao café, extraordinário é pouco: Espresso + Chocolate Meio Amargo + Ovomaltine + Ganache de Chocolate.
 
-\[caption id="attachment\_2847" align="alignnone" width="544"\]![\[Três Chocolates - muitos amores!\]](/assets/img/2016/03/tres-amores-pereira.jpg) \[Três Chocolates - muitos amores!\]\[/caption\] 
+\[caption id="attachment\_2847" align="alignnone" width="544"\]![\[Três Chocolates - muitos amores!\]](/assets/img/2016/03/tres-amores-pereira.webp) \[Três Chocolates - muitos amores!\]\[/caption\] 
 
 \* _Chocolate Quente_ (mesmo!) - um plus nessa lista: para quem não gosta de café, a casa também tem em seu menu o tradicional chocolate quente. Ele não é tão denso quanto os outros que já provei, mas é muito saboroso e tão aconchegante quanto o 'três chocolates'. Vale super a pena se deliciar.
 
-\[caption id="attachment\_2848" align="alignnone" width="480"\]![\[Chocolate quente\]](/assets/img/2016/03/chocolate-quente-pereira.jpg) \[Chocolate quente\]\[/caption\]\* Pereira Café: Shopping da Bahia (antigo Shop. Iguatemi)/ Shop. Paralela - Salvador
+\[caption id="attachment\_2848" align="alignnone" width="480"\]![\[Chocolate quente\]](/assets/img/2016/03/chocolate-quente-pereira.webp) \[Chocolate quente\]\[/caption\]\* Pereira Café: Shopping da Bahia (antigo Shop. Iguatemi)/ Shop. Paralela - Salvador
 
 @amopereiracafe
 
@@ -99,7 +99,7 @@ Esse chocolate quente marcou minha viagem em Santiago no Chile e a minha vida! E
 
 Beleza que ficamos órfãos dos chocolates, tortas, empanadas, sorvetes e outras delícias da marca em Salvador. Maaaaas, se for em BUE ou outras cidades no Brasil, e caso tenha uma unidade onde você estiver: NÃO DEIXE DE PROVAR! É... como posso dizer.. nem que seja a última coisa que você faça na vida. Mergulhe de cabeça nesse Chocolate Quente: cremoso, sabor terroso, de chocolate mesmo, denso, intenso, marcante, inesquecível. E ainda vem pedacinhos do chocolate em ramas. Sinto muita falta desse companheirinho nos dias de chuvas torrenciais (que já está por vir), mas agora só viajando para também apreciá-lo.
 
-![FullSizeRender](/assets/img/2016/03/FullSizeRender.jpg)
+![FullSizeRender](/assets/img/2016/03/FullSizeRender.webp)
 
 \* Na Argentina: Bariloche / Puerto Madero / Plaza de Mayo ..... já no Brasil: Colinas Shopping em São Paulo.
 

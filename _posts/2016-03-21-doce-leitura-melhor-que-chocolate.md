@@ -17,7 +17,7 @@ tags:
   - "paris"
   - "romance"
   - "seducao"
-image: "/assets/img/2016/03/destaque-post-melhor-que-chocolate.jpg"
+image: "/assets/img/2016/03/destaque-post-melhor-que-chocolate.webp"
 redirect_from:
   - "/doce-leitura-melhor-que-chocolate/"
 ---
@@ -38,6 +38,6 @@ Ler estas páginas é como se desembrulhássemos o melhor bombom que já comemos
 
 Para acompanhar: um dos melhores chocolates quentes que provei - com toda certeza entra para minha lista de favoritos. Cremoso, intenso com um toque doce de romance e muito sedutor - este é o _**Chocolate Quente da Dolce Vila Café**_, localizado no Ondina Apart Hotel em Salvador.
 
-\[caption id="attachment\_2806" align="alignnone" width="640"\]![\[Um dos melhores que já saboreei\]](/assets/img/2016/03/chocolate-quente-dolce-vila2.jpg) \[Um dos melhores que já saboreei\]\[/caption\] 
+\[caption id="attachment\_2806" align="alignnone" width="640"\]![\[Um dos melhores que já saboreei\]](/assets/img/2016/03/chocolate-quente-dolce-vila2.webp) \[Um dos melhores que já saboreei\]\[/caption\] 
 
 **Livro:** Melhor que Chocolate **Título Original:** The chocolate thief **Autor(a):** Laura Florand **Editora:** Única **Ano:** 2015 **Para acompanhar:** Chocolate Quente - Dolce Villa

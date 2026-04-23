@@ -34,7 +34,7 @@ tags:
   - "the-best"
   - "whisky"
   - "yellow-easy-food"
-image: "/assets/img/2016/11/destaque-milkskake.jpg"
+image: "/assets/img/2016/11/destaque-milkskake.webp"
 redirect_from:
   - "/os-10-melhores-milkshakes-da-cidade/"
 ---
@@ -59,7 +59,7 @@ Então, fomos atrás dos **Melhores Milk Shakes da Cidade de Salvador** - aquele
 
 Localizada na Av. Paulo VI, numa lojinha de um prédio empresarial, logo na via principal. É super aconchegante e muito agradável. Numa ambientação bem bacana e moderninha, com um toque vintage. Um negócio de família e com produtos de excelente qualidade. Além das tortas, croissants e salgados, a Nonna tem uma carta de milkshakes de tirar o fôlego.
 
-![nonna](/assets/img/2016/09/nonna.jpg)
+![nonna](/assets/img/2016/09/nonna.webp)
 
 Provamos o de _**Nutella**_, sim nutella mesmo; nada de creme de avelã. _**N-U-T-E-L-L-A**_ com todas as letras. Extremamente cremoso, denso e surrealmente delicioso. A finalização ficou por conta de um chantilly muito bom, sem aquele ranço de gordura. Doce na medida e muito geladinho. Nem um pouco enjoativo e num copão lindo.
 
@@ -69,21 +69,21 @@ Provamos o de _**Nutella**_, sim nutella mesmo; nada de creme de avelã. _**N-U-
 
 Funcionando na varanda da própria casa da chef Carla Mazolla, mediante a reserva previamente agendada, a hamburgueria artesanal além de preparar uns dos melhores burgers que já comi (postei no instagram do blog: frango e o de camarão é inacreditável de tão bom),  faz uma pink lemonade super refrescante e com um sabor especialmente caribenho, me lembrando beira da praia num dia de sol e brisa fresca. Maaaaas, o _**Milkshake de CHOCOLATE**_ é ...ai ai (suspiros apaixonados), ela pega o sorvete de baunilha e bate mesmo com ... ops... não posso contar o segredo. Só posso dizer que é chocolate de verdade.
 
-![carlota](/assets/img/2016/09/carlota.jpg)
+![carlota](/assets/img/2016/09/carlota.webp)
 
  
 
 **3- Muu:**
 
-\[caption id="attachment\_3160" align="alignnone" width="640"\]![\[Doce de Leite com Flor de Sal\]](/assets/img/2016/09/muu-doce-de-leite-com-flor-de-sal.jpg) \[Doce de Leite com Flor de Sal\]\[/caption\]Também hamburgueria, na Paulo VI, tem 05 sabores de milkshakes: Passatempo, Oreo, Paçoca, Leite Ninho com Nutella e Doce de Leite com Flor de Sal. Para mim, os destaques vão para Doce de Leite com Flor de Sol e o queridinho acho que da maioria: _**Leite Ninho com Nutella**_.
+\[caption id="attachment\_3160" align="alignnone" width="640"\]![\[Doce de Leite com Flor de Sal\]](/assets/img/2016/09/muu-doce-de-leite-com-flor-de-sal.webp) \[Doce de Leite com Flor de Sal\]\[/caption\]Também hamburgueria, na Paulo VI, tem 05 sabores de milkshakes: Passatempo, Oreo, Paçoca, Leite Ninho com Nutella e Doce de Leite com Flor de Sal. Para mim, os destaques vão para Doce de Leite com Flor de Sol e o queridinho acho que da maioria: _**Leite Ninho com Nutella**_.
 
-\[caption id="attachment\_3161" align="alignnone" width="640"\]![\[o QUERIDINHO da galera\]](/assets/img/2016/09/muu-ninho-com-nutella.jpg) \[o QUERIDINHO da galera\]\[/caption\] 
+\[caption id="attachment\_3161" align="alignnone" width="640"\]![\[o QUERIDINHO da galera\]](/assets/img/2016/09/muu-ninho-com-nutella.webp) \[o QUERIDINHO da galera\]\[/caption\] 
 
 **4- Eddie Fine Burger:**
 
 Paaaara tudo! Pra quem não sabe o Eddie (também uma hamburgueria, mas essa com um toque todo vintage, bem década de 50. A sensação é de voltar no tempo mesmo), é um estabelecimento conhecido pelo tamanho do Milkshake, um liquidificador bem na pegada década de 1950, bate dois copos enormes de shake, um para dois! É megalomaniacamente gostoso. Tem de vááários sabores: Chocolate, Morango, Baunilha, Nutella, Ovomaltine, Açaí e os perfeitos: Peanut Shake - pasta de amendoim e o de Coco (este peço com jeitinho para colocarem calda de chocolate).
 
-![eddie](/assets/img/2016/09/eddie.jpg)
+![eddie](/assets/img/2016/09/eddie.webp)
 
 Qual o me preferido da casa: todos. Todos?! Sim, amo todos. Ok, ok... Mas morro de amores por: _**Coco com Calda de Chocolate.**_
 
@@ -95,13 +95,13 @@ _(não se espantem se os cenários em que encontramos os melhores, são no esti
 
 Essa versão de milkshake é voltada para os adultos, o _**Tennessee Shake**_ tem chocolate, ganache de chocolate e whisky Jack Daniel's, além de bacon caramelizado. #PQP isso aqui é coisa de louco. Grandão, e muito viciante. Mas cuidado, dá pra ficar de goró com esse aqui.
 
-\[caption id="attachment\_3163" align="alignnone" width="640"\]![\[Coisa de louco!\]](/assets/img/2016/09/coz2.jpg) \[Coisa de louco!\]\[/caption\] 
+\[caption id="attachment\_3163" align="alignnone" width="640"\]![\[Coisa de louco!\]](/assets/img/2016/09/coz2.webp) \[Coisa de louco!\]\[/caption\] 
 
 **6- JAM:**
 
 O milkshake da hamburgueria Jam parece um sorvetão, bem cremoso e bem denso. Escolhemos _**Chocolate Meio Amargo**_. Dá pra comer de colher e o sabor é fantástico. De chocolate meio amargo com cacau em pó e nibs de cacau. Sabor terroso, intenso e delicioso. Não é enjoativo. Vale super.
 
-\[caption id="attachment\_3239" align="alignnone" width="640"\]![\[Chocolatudo!\]](/assets/img/2016/11/jam-1.jpg) \[Chocolatudo!\]\[/caption\]A Jam Burger funciona na Vila Caramuru, antigo Mercado do Peixe no Rio Vermelho.
+\[caption id="attachment\_3239" align="alignnone" width="640"\]![\[Chocolatudo!\]](/assets/img/2016/11/jam-1.webp) \[Chocolatudo!\]\[/caption\]A Jam Burger funciona na Vila Caramuru, antigo Mercado do Peixe no Rio Vermelho.
 
 R$ 16,80.
 
@@ -109,7 +109,7 @@ R$ 16,80.
 
 Outra casa de Salvador que tem um toque anos 1950/1960, toda vez que vou na The Fifties sinto a presença de Elvis, sei lá, tenho a expectativa de vai aparecer um cover dele cantando 'Love Me Tender'. Além desse 'ar' anos 50, e com menu bem variado, as sobremesas valem o destaque. Já provei o _Red Velvet -_ aquele bolo famosão americano que é vermelho e tem cobertura e recheio de buttercream_;_ o _Devil's Cake_ - um bolo para quem é loucamente apaixonado por chocolate, o _Sundae -_ um clássico que tem o seu lugar especial no meu coração e a _Apple Pie_ - huuum deliciosa. Mas, da carta de shakes o que mais me surpreendeu foi:
 
-\[caption id="attachment\_3240" align="alignnone" width="640"\]![\[#tbt dos anos 50\]](/assets/img/2016/11/fifities.jpg) \[#tbt dos anos 50\]\[/caption\]_**Milkshake Fifties**_ - sorvete chocolate, _licor de cacau_, chantilly, chocolate granulado e uma cerejinha no topo. R$ 18,60.
+\[caption id="attachment\_3240" align="alignnone" width="640"\]![\[#tbt dos anos 50\]](/assets/img/2016/11/fifities.webp) \[#tbt dos anos 50\]\[/caption\]_**Milkshake Fifties**_ - sorvete chocolate, _licor de cacau_, chantilly, chocolate granulado e uma cerejinha no topo. R$ 18,60.
 
 Onde?! Shopping Horto Bela Vista.
 
@@ -119,7 +119,7 @@ Onde?! Shopping Horto Bela Vista.
 
 Os mini shakes do Outback são super fofos, vem numas garrafinhas de leite e canudinho super engraçadinhos. Dá vontade de levar pra casa e deixar intocável, mentirinha - hahahahaha. Mas que são fofos são. Destaque vai para: _**Cookies**_ (Oreo).
 
-![outback](/assets/img/2016/09/outback.jpg)
+![outback](/assets/img/2016/09/outback.webp)
 
 Nos shoppings: Barra e Shopping da Bahia.
 
@@ -131,7 +131,7 @@ O Café das irmãs Badaró, Roberta e Flávia, já apareceu por aqui algumas vez
 
 Fomos de _**Chocolate com Chantilly**_.
 
-![dolce-vila](/assets/img/2016/09/dolce-vila.jpg)
+![dolce-vila](/assets/img/2016/09/dolce-vila.webp)
 
  
 
@@ -139,7 +139,7 @@ Fomos de _**Chocolate com Chantilly**_.
 
 Para quem é chocolover esse aqui é tudo de bom. Sim, enormemente saboroso, cremoso e com sabor de chocolate super intenso. O '_Chocolate Lovers_' é a pedida da casa. O estabelecimento possui uma pega bem happy hour jovial, com drinks diferentes e até irreverentes; petiscos interessantes e um ambiente super moderninho e que gosto bastante. As sobremesas são bem gostosas (já apareceu por aqui e lá nos posts do nosso instagram). Mas os milk shakes da casa são surpreendentes. Enormes e bem gostosos. Particularmente, o meu preferido é o _**Chocolate Lovers**_.
 
-![yellow](/assets/img/2016/09/yellow.jpg)
+![yellow](/assets/img/2016/09/yellow.webp)
 
  
 
