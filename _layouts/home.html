@@ -35,30 +35,14 @@ layout: default
 
   <!-- Mosaic Section -->
   <section class="mosaic-section full-width-breakout">
-    <div class="container">
+    <div class="container-wide">
       <div class="mosaic-header">
         <h2 class="mosaic-title">{{ page.list_title | default: "Últimos Artigos" }}</h2>
       </div>
 
       <div class="post-grid">
         {% for post in remaining_posts limit: 3 %}
-        <article class="post-card group">
-          {% if post.image %}
-          <div class="post-cover-wrapper">
-            <a href="{{ post.url | relative_url }}">
-              <img src="{{ post.image | relative_url }}" class="post-cover" alt="{{ post.title }}">
-            </a>
-          </div>
-          {% endif %}
-          <div class="post-card-content">
-            <span class="post-meta">{{ post.date | date: "%d de %b, %Y" | upcase }}</span>
-            <h3 class="post-title">
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-          </div>
-        </article>
+        {% include post-card.html post=post %}
         {% endfor %}
       </div>
 

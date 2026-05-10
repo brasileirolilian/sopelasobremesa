@@ -2,26 +2,19 @@
 layout: default
 image: "/assets/img/share-image.webp"
 ---
-<div class="category-page">
+<div class="category-page articles-page-layout">
+  {% assign cat_data = site.data.categories | where: "slug", page.title | first %}
+  {% assign display_name = cat_data.display_name | default: page.title %}
+
   <header class="category-header">
-    <h1>Categoria: {{ page.category_name | default: page.title }}</h1>
+    <h1>{{ display_name }}</h1>
   </header>
 
-  <ul class="post-list">
-    {% for post in site.categories[page.category_name] %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {% if post.excerpt %}
-      {{ post.excerpt }}
-      {% endif %}
-    </li>
+  <div class="post-grid">
+    {% for post in page.posts %}
+    {% include post-card.html post=post %}
     {% else %}
     <p>Nenhuma postagem encontrada nesta categoria.</p>
     {% endfor %}
-  </ul>
+  </div>
 </div>

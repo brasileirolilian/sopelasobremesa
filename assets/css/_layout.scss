@@ -63,3 +63,13 @@ a {
     padding: 0 24px;
   }
 }
+
+.container-wide {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 16px;
+
+  @media (min-width: 992px) {
+    padding: 0 32px;
+  }
+}

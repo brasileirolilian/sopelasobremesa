@@ -6,26 +6,7 @@ image: "/assets/img/share-image.webp"
 
 <div class="post-grid articles-page-layout">
   {% for post in paginator.posts %}
-  <article class="post-card group">
-    {% if post.image %}
-    <div class="post-cover-wrapper">
-      <a href="{{ post.url | relative_url }}">
-        <img src="{{ post.image | relative_url }}" class="post-cover" alt="{{ post.title }}">
-      </a>
-    </div>
-    {% endif %}
-    <div class="post-card-content">
-      <span class="post-meta">{{ post.date | date: "%d de %b, %Y" | upcase }}</span>
-      <h3 class="post-title">
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      <p class="post-excerpt">
-        {{ post.excerpt | strip_html | truncatewords: 20 }}
-      </p>
-    </div>
-  </article>
+  {% include post-card.html post=post %}
   {% endfor %}
 </div>
 
