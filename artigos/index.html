@@ -15,7 +15,7 @@ image: "/assets/img/share-image.webp"
     </div>
     {% endif %}
     <div class="post-card-content">
-      <span class="post-meta">{{ post.date | date: "%d de %b, %Y" | upcase }}</span>
+      <span class="post-meta">{{ post.date | date: "%d de %b, %Y" | upcase }} · {% include reading-time.html post=post %}</span>
       <h3 class="post-title">
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}

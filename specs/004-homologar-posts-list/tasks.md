@@ -17,8 +17,8 @@
 
 **Purpose**: Install `jekyll-archives` plugin and wire configuration.
 
-- [ ] T001 [P] Add `gem "jekyll-archives"` to the `:jekyll_plugins` group in `Gemfile`
-- [ ] T002 [P] Add `jekyll-archives` to `plugins` list and add config block to `_config.yml`:
+- [x] T001 [P] Add `gem "jekyll-archives"` to the `:jekyll_plugins` group in `Gemfile`
+- [x] T002 [P] Add `jekyll-archives` to `plugins` list and add config block to `_config.yml`:
   ```yaml
   jekyll-archives:
     enabled:
@@ -39,7 +39,7 @@
 
 **⚠️ CRITICAL**: Must complete before any user story phase begins.
 
-- [ ] T003 Create `_includes/reading-time.html` with word-count-based reading time calculation (200 words/min, minimum 1 min), accepting `post` as a passed variable
+- [x] T003 Create `_includes/reading-time.html` with word-count-based reading time calculation (200 words/min, minimum 1 min), accepting `post` as a passed variable
 
 **Checkpoint**: Include exists and can be called with `{% include reading-time.html post=post %}` inside any loop
 
@@ -51,9 +51,9 @@
 
 **Independent Test**: Open hamburger menu → click a category → land on `/categoria/sobremesas/` → verify cards have image, date + reading time, title, excerpt. No JavaScript required to display posts.
 
-- [ ] T004 [US1] Rewrite `_layouts/category.html`: replace `<ul class="post-list">` with `<div class="post-grid">` containing `article.post-card.group` cards; resolve display name from `site.data.categories` using `page.title` slug; use `page.posts` for post iteration; include reading time in `post-meta` via `_includes/reading-time.html`
-- [ ] T005 [P] [US1] Update `_includes/hamburger-menu.html`: change each category link `href` from `/categorias.html#{{ cat_slug }}` to `/categoria/{{ cat_slug }}/`
-- [ ] T006 [P] [US1] Delete `categorias.html` from the project root
+- [x] T004 [US1] Rewrite `_layouts/category.html`: replace `<ul class="post-list">` with `<div class="post-grid">` containing `article.post-card.group` cards; resolve display name from `site.data.categories` using `page.title` slug; use `page.posts` for post iteration; include reading time in `post-meta` via `_includes/reading-time.html`
+- [x] T005 [P] [US1] Update `_includes/hamburger-menu.html`: change each category link `href` from `/categorias.html#{{ cat_slug }}` to `/categoria/{{ cat_slug }}/`
+- [x] T006 [P] [US1] Delete `categorias.html` from the project root
 
 **Checkpoint**: US1 fully functional — `/categoria/:name/` pages render correctly; hamburger menu links navigate to correct static pages; `categorias.html` no longer exists
 
@@ -65,7 +65,7 @@
 
 **Independent Test**: Load home page → verify 3 cards each have: cover image, `post-meta` with date + reading time, `h3.post-title`, `p.post-excerpt`. Hero and "Ver Todos os Artigos" button remain present.
 
-- [ ] T007 [US2] Update mosaic post cards in `_layouts/home.html`: add `<p class="post-excerpt">` block and reading time (via `_includes/reading-time.html`) to each of the 3 cards in the `{% for post in remaining_posts limit: 3 %}` loop
+- [x] T007 [US2] Update mosaic post cards in `_layouts/home.html`: add `<p class="post-excerpt">` block and reading time (via `_includes/reading-time.html`) to each of the 3 cards in the `{% for post in remaining_posts limit: 3 %}` loop
 
 **Checkpoint**: US2 fully functional — home page mosaic cards visually match `artigos/index.html` cards
 
@@ -77,7 +77,7 @@
 
 **Independent Test**: Open `/artigos/` → verify each card's `post-meta` contains date AND "N min de leitura". Repeat on home and any `/categoria/:name/` page.
 
-- [ ] T008 [US3] Update `artigos/index.html`: add `· {% include reading-time.html post=post %}` to the `<span class="post-meta">` element inside the paginator loop
+- [x] T008 [US3] Update `artigos/index.html`: add `· {% include reading-time.html post=post %}` to the `<span class="post-meta">` element inside the paginator loop
 
 **Checkpoint**: US3 fully functional — reading time visible on all three listing contexts: home, `/artigos/`, `/categoria/:name/`
 
@@ -87,9 +87,9 @@
 
 **Purpose**: Build validation and visual QA across all affected pages.
 
-- [ ] T009 Run `bundle exec jekyll build` and confirm zero errors and zero warnings related to category pages, missing layouts, or missing includes
-- [ ] T010 [P] Visual QA: compare post card HTML structure across home, `/artigos/`, and one `/categoria/:name/` page — confirm identical classes and elements
-- [ ] T011 [P] Visual QA: verify DESIGN.md principles are maintained — no new borders, correct palette, adequate whitespace between cards
+- [x] T009 Run `bundle exec jekyll build` and confirm zero errors and zero warnings related to category pages, missing layouts, or missing includes
+- [x] T010 [P] Visual QA: compare post card HTML structure across home, `/artigos/`, and one `/categoria/:name/` page — confirm identical classes and elements
+- [x] T011 [P] Visual QA: verify DESIGN.md principles are maintained — no new borders, correct palette, adequate whitespace between cards
 
 ---
 

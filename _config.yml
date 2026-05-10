@@ -50,6 +50,15 @@ plugins:
   - jekyll-redirect-from
   - jekyll-gzip
   - jekyll-minifier
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category
+  permalinks:
+    category: /categoria/:name/
 
 sass:
   style: compressed

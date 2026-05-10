@@ -16,7 +16,7 @@
       {% assign cat_data = site.data.categories | where: "slug", cat_slug | first %}
       {% assign display_name = cat_data.display_name | default: category[0] %}
       <li>
-        <a href="{{ '/categorias.html#' | append: cat_slug | relative_url }}" class="sidebar-category-link">
+        <a href="{{ '/categoria/' | append: cat_slug | append: '/' | relative_url }}" class="sidebar-category-link">
           {{ display_name }}
           <span class="sidebar-category-count">({{ category[1].size }})</span>
         </a>
