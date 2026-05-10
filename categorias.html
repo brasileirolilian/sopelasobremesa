@@ -10,8 +10,11 @@ title: Categorías
   <div class="category-sections" id="categories-container">
     {% assign sorted_categories = site.categories | sort %}
     {% for category in sorted_categories %}
-    <section id="{{ category[0] | slugify }}" class="category-section">
-      <h2 class="section-title" style="display: none;">{{ category[0] }}</h2>
+    {% assign cat_slug = category[0] | slugify %}
+    {% assign cat_data = site.data.categories | where: "slug", cat_slug | first %}
+    {% assign display_name = cat_data.display_name | default: category[0] %}
+    <section id="{{ cat_slug }}" class="category-section">
+      <h2 class="section-title" style="display: none;">{{ display_name }}</h2>
       <div class="post-grid">
         {% for post in category[1] %}
         <article class="post-card group">

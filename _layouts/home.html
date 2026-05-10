@@ -71,18 +71,6 @@ layout: default
     </div>
   </section>
 
-  <section class="categories-section">
-    <h3 class="categories-title">Explorar por Categorias</h3>
-    <div class="category-pills">
-      {% assign categories_list = site.categories | sort %}
-      {% for category in categories_list %}
-      {% assign cat_slug = category[0] | slugify %}
-      <a href="{{ '/categorias.html#' | append: cat_slug | relative_url }}" class="pill">{{ category[0] }} <span
-          class="pill-count">({{ category[1].size }})</span></a>
-      {% endfor %}
-    </div>
-  </section>
-
   <!-- About the Author Section -->
   <section class="author-section full-width-breakout">
     <div class="container">

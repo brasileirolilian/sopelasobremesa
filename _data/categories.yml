@@ -1,0 +1,76 @@
+- slug: a-quilo
+  display_name: "A Quilo"
+- slug: alfajores
+  display_name: "Alfajores"
+- slug: bolos-e-tortas
+  display_name: "Bolos e Tortas"
+- slug: brigadeiros
+  display_name: "Brigadeiros"
+- slug: brownies
+  display_name: "Brownies"
+- slug: buffet
+  display_name: "Buffet"
+- slug: bulgaras
+  display_name: "Búlgaras"
+- slug: cafe-da-manha
+  display_name: "Café da Manhã"
+- slug: cafes
+  display_name: "Cafés"
+- slug: chocolate-quente
+  display_name: "Chocolate Quente"
+- slug: chocolates
+  display_name: "Chocolates"
+- slug: cinema
+  display_name: "Cinema"
+- slug: cookies
+  display_name: "Cookies"
+- slug: datas-festivas
+  display_name: "Datas Festivas"
+- slug: de-beber
+  display_name: "De Beber"
+- slug: de-botecos
+  display_name: "De Botecos"
+- slug: de-restaurantes
+  display_name: "De Restaurantes"
+- slug: diversos
+  display_name: "Diversos"
+- slug: docerias
+  display_name: "Docerias"
+- slug: docinhos-finos
+  display_name: "Docinhos Finos"
+- slug: docuras-aventuras
+  display_name: "Doçuras & Aventuras"
+- slug: externas
+  display_name: "Externas"
+- slug: fast-food
+  display_name: "Fast Food"
+- slug: foodaholic
+  display_name: "Foodaholic"
+- slug: livros
+  display_name: "Livros"
+- slug: lugares
+  display_name: "Lugares"
+- slug: milkshakes
+  display_name: "Milkshakes"
+- slug: mousses
+  display_name: "Mousses"
+- slug: news
+  display_name: "News"
+- slug: patisserie
+  display_name: "Patisserie"
+- slug: petit-gateau-categorias
+  display_name: "Petit Gâteau"
+- slug: pudins
+  display_name: "Pudins"
+- slug: saudaveisfit
+  display_name: "Saudáveis & Fit"
+- slug: sobremesas
+  display_name: "Sobremesas"
+- slug: sorvetes-e-picoles
+  display_name: "Sorvetes e Picolés"
+- slug: tipicos
+  display_name: "Típicos"
+- slug: wine-bar
+  display_name: "Wine Bar"
+- slug: zero-glutenzero-lac
+  display_name: "Zero Glúten & Lactose"
