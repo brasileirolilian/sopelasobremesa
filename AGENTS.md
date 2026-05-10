@@ -11,3 +11,11 @@ Este es el repositorio de "Só Pela Sobremesa", un blog gastronómico y de estil
 - **Estilos:** SCSS (alojados en `assets/css/`). Evita sugerir frameworks CSS externos como Tailwind o Bootstrap; mantén el código SCSS modular.
 - **Rendimiento:** Prioridad alta en SEO y performance.
 - **Flujo de Imágenes:** Las imágenes crudas (PNG, JPG) deben depositarse en `assets/images/`. NUNCA se referencian directamente en el código. Siempre se debe ejecutar `scripts/convert_to_webp.sh` y referenciar la salida `.webp` alojada en `assets/img/`.
+
+<!-- SPECKIT START -->
+## Active Feature Plan
+
+**Branch**: `003-hamburger-menu-categories`  
+**Plan**: [specs/003-hamburger-menu-categories/plan.md](specs/003-hamburger-menu-categories/plan.md)  
+**Spec**: [specs/003-hamburger-menu-categories/spec.md](specs/003-hamburger-menu-categories/spec.md)
+<!-- SPECKIT END -->
