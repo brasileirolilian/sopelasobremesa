@@ -112,7 +112,7 @@ assets/
 | State | CSS Classes Present | Behavior |
 |-------|---------------------|----------|
 | Closed | — | Sidebar off-screen (`translateX(-100%)`); backdrop `opacity: 0`, `pointer-events: none` |
-| Open | `.is-open` on `#hamburger-sidebar` + `#sidebar-backdrop`; `.sidebar-open` on `<body>` | Sidebar on-screen; backdrop visible; body scroll locked |
+| Open | `.is-open` on `#category-sidebar` + `#sidebar-backdrop`; `.sidebar-open` on `<body>` | Sidebar on-screen; backdrop visible; body scroll locked |
 
 ### Interface Contracts
 
@@ -143,9 +143,9 @@ header.site-header
 #### `_includes/hamburger-menu.html` — new file
 
 ```
-div#hamburger-sidebar.hamburger-sidebar (role="dialog" aria-modal="true" aria-label="Categorías")
+nav#category-sidebar.category-sidebar (role="dialog" aria-modal="true" aria-label="Categorías")
   button#sidebar-close.sidebar-close (aria-label="Fechar menu")
-  nav.sidebar-nav
+  div.sidebar-nav                          ← div, not nav (avoid nesting nav inside nav)
     h2.sidebar-title  "Categorías"
     ul.sidebar-categories
       [for each site.category → resolve display_name → li > a]
@@ -173,7 +173,7 @@ Triggers: #hamburger-btn click → open
 
 **New sidebar styles:**
 ```scss
-.hamburger-sidebar {
+.category-sidebar {
   position: fixed; top: 0; left: 0; height: 100vh;
   width: 320px;
   background: rgba($color-surface-container, 0.92);
