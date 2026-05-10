@@ -71,13 +71,18 @@ A visitor sees a reorganized header: hamburger icon and search field on the left
 - **FR-005**: System MUST remove the standalone category list from the home page.
 - **FR-006**: System MUST open a left-side vertical sidebar when the hamburger icon is clicked, displaying all blog categories.
 - **FR-007**: The sidebar MUST overlay the page content (not push it) and appear above all other content.
-- **FR-008**: The sidebar MUST be closable by clicking/tapping outside it or via a dedicated close control.
+- **FR-008**: The sidebar MUST be closable by: (a) clicking/tapping a dedicated close control, (b) clicking/tapping the semi-transparent backdrop that covers the rest of the page behind the sidebar, or (c) pressing the Escape key.
 - **FR-009**: Clicking a category in the sidebar MUST navigate to that category and close the sidebar.
 - **FR-010**: The sidebar and header layout MUST follow the design guidelines defined in `DESIGN.md` (tonal surfaces, no solid 1px borders, Newsreader/Manrope typography, glassmorphism for navigation elements, bordeaux/beige palette).
+- **FR-011**: When the sidebar is open, a semi-transparent backdrop MUST cover the page content behind the sidebar; clicking/tapping the backdrop MUST close the sidebar.
+- **FR-012**: The sidebar MUST slide in from the left edge on open and slide out to the left on close, using a CSS transition of no more than 300ms.
+- **FR-013**: The sidebar width MUST be 320px on desktop viewports; on mobile viewports it MUST be 85% of the viewport width with a maximum cap of 400px.
+- **FR-014**: The system MUST support a category display-name mapping file that translates category slugs (as used in posts) into human-readable names shown in the sidebar and throughout the site.
 
 ### Key Entities
 
-- **Category**: A blog grouping with a name and associated URL slug; displayed as a navigable list item in the sidebar.
+- **Category**: A blog grouping with a slug (used in posts) and a human-readable display name (resolved via the category mapping file); displayed as a navigable list item in the sidebar.
+- **Category Mapping**: A configuration file that maps each category slug to its display name (e.g., `sobremesas` → `Sobremesas`, `receitas` → `Recetas`).
 - **Hamburger Menu Sidebar**: An overlay panel that appears from the left edge, contains the category list, and supports open/close state.
 - **Header**: The site-wide top bar containing hamburger icon, search field, site title/logo, and social icons.
 
@@ -85,12 +90,21 @@ A visitor sees a reorganized header: hamburger icon and search field on the left
 
 ### Measurable Outcomes
 
-- **SC-001**: All blog categories previously accessible on the home page are accessible via the hamburger sidebar menu.
+- **SC-001**: All blog categories previously accessible on the home page are accessible via the hamburger sidebar menu, displayed with their human-readable names (not raw slugs).
 - **SC-002**: The home page renders with no standalone category list visible.
 - **SC-003**: The sidebar opens and closes in under 300ms (animation included) on standard devices.
 - **SC-004**: The header correctly displays hamburger icon and search on the left, social icons on the right, across all breakpoints.
 - **SC-005**: On mobile, the search field is not visible by default and requires explicit user action to reveal.
 - **SC-006**: The sidebar visually conforms to the editorial design system: tonal surfaces, no solid divider lines, correct typography (Newsreader/Manrope), and bordeaux/beige palette.
+
+## Clarifications
+
+### Session 2026-05-10
+
+- Q: When the sidebar opens, should a semi-transparent backdrop appear behind it? → A: Yes — backdrop covers page content; clicking it closes the sidebar.
+- Q: Should the sidebar animate when opening/closing? → A: Slide-in from left on open, slide-out on close; CSS transition ≤300ms.
+- Q: What width should the sidebar have? → A: 320px on desktop; 85% viewport width on mobile with max-width 400px.
+- Note: Category slugs used in posts must be translated to human-readable display names via a dedicated mapping file; sidebar must render display names, not raw slugs.
 
 ## Assumptions
 
