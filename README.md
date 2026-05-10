@@ -10,17 +10,31 @@ Este blog está construido con **Jekyll**, un generador de sitios estáticos bas
 
 ### Requisitos Previos
 
-Antes de instalar Jekyll, asegúrate de tener instalado en tu computadora:
+Este proyecto requiere **Ruby 3.2.11**. Para garantizar la compatibilidad y evitar problemas con la versión del sistema (especialmente en Mac), se recomienda usar **rbenv**.
 
-1. **Ruby** (versión 2.5.0 o superior). Puedes verificar tu versión con `ruby -v`.
-2. **RubyGems** (incluido al instalar Ruby). Verifica con `gem -v`.
-3. **GCC y Make** (dependiendo del sistema operativo, necesario para compilar dependencias nativas).
-4. **Bundler** para manejar las dependencias de paquetes en Ruby. Instálalo ejecutando en tu terminal:
+**Paso a paso para instalar Ruby (Mac/Linux):**
+
+1. **Instalar rbenv** (recomendado usar Homebrew en Mac):
+   ```bash
+   brew install rbenv ruby-build
+   ```
+2. **Configurar tu terminal** (para Zsh en Mac):
+   ```bash
+   echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
+   source ~/.zshrc
+   ```
+3. **Instalar la versión exacta del proyecto**:
+   Dentro de la carpeta del proyecto (`sopelasobremesa`), ejecuta:
+   ```bash
+   rbenv install
+   ```
+4. **GCC y Make**: Dependiendo del sistema operativo, necesario para compilar dependencias nativas (ej. instalar *Xcode Command Line Tools* en Mac con `xcode-select --install`).
+5. **Bundler**: Instala el gestor de dependencias de Ruby ejecutando:
    ```bash
    gem install bundler
    ```
 
-*(Para instrucciones específicas por sistema operativo, visita la [documentación oficial de instalación de Jekyll](https://jekyllrb.com/docs/installation/).)*
+*(Para instrucciones de instalación en Windows o alternativas, visita la [documentación oficial de instalación de Jekyll](https://jekyllrb.com/docs/installation/).)*
 
 ### Instalar el Proyecto
 
