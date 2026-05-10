@@ -15,7 +15,7 @@ Este es el repositorio de "Só Pela Sobremesa", un blog gastronómico y de estil
 <!-- SPECKIT START -->
 ## Active Feature Plan
 
-**Branch**: `003-hamburger-menu-categories`  
-**Plan**: [specs/003-hamburger-menu-categories/plan.md](specs/003-hamburger-menu-categories/plan.md)  
-**Spec**: [specs/003-hamburger-menu-categories/spec.md](specs/003-hamburger-menu-categories/spec.md)
+**Branch**: `004-homologar-posts-list`  
+**Plan**: [specs/004-homologar-posts-list/plan.md](specs/004-homologar-posts-list/plan.md)  
+**Spec**: [specs/004-homologar-posts-list/spec.md](specs/004-homologar-posts-list/spec.md)
 <!-- SPECKIT END -->
