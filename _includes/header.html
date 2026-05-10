@@ -1,6 +1,26 @@
 <header class="site-header">
   <div class="container">
     <div class="header-left">
+      <button id="hamburger-btn" class="hamburger-btn" aria-label="Abrir menú de categorías" aria-expanded="false">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+      <div class="header-search-wrapper">
+        {% include search.html %}
+      </div>
+    </div>
+
+    <div class="site-logo">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ site.logo_bordo }}" alt="{{ site.title }}">
+      </a>
+    </div>
+
+    <div class="header-right">
       <div class="social-links-header">
         {% if site.instagram_username %}
         <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank" rel="noopener noreferrer"
@@ -22,15 +42,6 @@
         </a>
       </div>
     </div>
-
-    <div class="site-logo">
-      <a href="{{ '/' | relative_url }}">
-        <img src="{{ site.logo_bordo }}" alt="{{ site.title }}">
-      </a>
-    </div>
-
-    <div class="header-right">
-      {% include search.html %}
-    </div>
   </div>
+
 </header>

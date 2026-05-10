@@ -1,0 +1,31 @@
+<nav id="category-sidebar" class="category-sidebar" role="dialog" aria-modal="true" aria-label="Categorías">
+  <button id="sidebar-close" class="sidebar-close" aria-label="Fechar menu">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <line x1="18" y1="6" x2="6" y2="18"></line>
+      <line x1="6" y1="6" x2="18" y2="18"></line>
+    </svg>
+  </button>
+  <div class="sidebar-nav">
+    <h2 class="sidebar-title">Categorías</h2>
+    {% assign categories_list = site.categories | sort %}
+    {% if categories_list.size > 0 %}
+    <ul class="sidebar-categories">
+      {% for category in categories_list %}
+      {% assign cat_slug = category[0] | slugify %}
+      {% assign cat_data = site.data.categories | where: "slug", cat_slug | first %}
+      {% assign display_name = cat_data.display_name | default: category[0] %}
+      <li>
+        <a href="{{ '/categorias.html#' | append: cat_slug | relative_url }}" class="sidebar-category-link">
+          {{ display_name }}
+          <span class="sidebar-category-count">({{ category[1].size }})</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="sidebar-empty">Nenhuma categoria encontrada.</p>
+    {% endif %}
+  </div>
+</nav>
+<div id="sidebar-backdrop" class="sidebar-backdrop"></div>
