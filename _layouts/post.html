@@ -21,16 +21,13 @@ layout: default
         {%- endif -%}
         · <span class="reading-time">{% include reading-time.html post=page %}</span>
       </p>
-
-      {% if page.image %}
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="post-detail-cover">
-      {% endif %}
+      {% include share_buttons.html %}
     </header>
 
-    {% include share_buttons.html %}
-    <hr class="share-divider">
-
     <div class="post-content" itemprop="articleBody">
+      {% if page.image %}
+      <p><img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="post-detail-cover"></p>
+      {% endif %}
       {{ content }}
     </div>
 
