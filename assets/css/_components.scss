@@ -642,6 +642,8 @@ input.search-input {
   flex-direction: column;
   gap: 16px;
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
 
   .post-cover-wrapper {
     aspect-ratio: 4/3;
@@ -662,7 +664,7 @@ input.search-input {
       transform: scale(1.05);
     }
 
-    .post-title .post-link {
+    .post-title {
       color: $color-primary;
       text-decoration: none;
     }
@@ -689,14 +691,11 @@ input.search-input {
     margin: 0;
     font-family: $font-display;
     font-weight: 700;
+    color: $color-on-surface;
+    transition: color 0.3s ease;
 
-    .post-link {
-      color: $color-on-surface;
-      transition: color 0.3s ease;
-
-      &:hover {
-        text-decoration: none;
-      }
+    &:hover {
+      text-decoration: none;
     }
   }
 
@@ -847,6 +846,12 @@ input.search-input {
   }
 }
 
+// Page layout padding (compensates for fixed header)
+.page-container {
+  padding-top: 32px;
+  padding-bottom: 48px;
+}
+
 // Post detail
 .post-detail {
   padding: 32px 0;
@@ -858,7 +863,7 @@ input.search-input {
   }
 
   .post-header {
-    text-align: center;
+    text-align: left;
     margin-bottom: 32px;
     padding-bottom: 0;
     border-bottom: none;
@@ -929,6 +934,68 @@ input.search-input {
 }
 
 
+
+// Related Posts — reutiliza .mosaic-section, sin overrides adicionales necesarios
+
+// Post Footer Bar
+.post-footer-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 32px;
+
+  @media (min-width: 768px) {
+    flex-wrap: nowrap;
+    flex-direction: row;
+  }
+
+  .share-buttons {
+    flex-shrink: 0;
+  }
+}
+
+.post-footer-categories {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
+  justify-content: flex-end;
+
+  .post-footer-categories-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: $color-on-surface-variant;
+    font-family: $font-body;
+    white-space: nowrap;
+    padding-top: 3px;
+  }
+}
+
+.post-footer-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-start;
+}
+
+.category-chip {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background-color: $color-surface-container;
+  color: $color-primary;
+  font-family: $font-body;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: $color-surface-container-high;
+  }
+}
 
 // Footer
 .site-footer {
@@ -1134,5 +1201,12 @@ input.search-input {
   &.share-whatsapp svg {
     fill: none;
     stroke: currentColor;
+  }
+}
+
+// --- ABOUT PAGE SECTION ---
+.about-page-content {
+  .author-section {
+    background-color: $color-surface-container;
   }
 }

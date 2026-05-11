@@ -15,7 +15,7 @@ Este es el repositorio de "Só Pela Sobremesa", un blog gastronómico y de estil
 <!-- SPECKIT START -->
 ## Active Feature Plan
 
-**Branch**: `004-homologar-posts-list`  
-**Plan**: [specs/004-homologar-posts-list/plan.md](specs/004-homologar-posts-list/plan.md)  
-**Spec**: [specs/004-homologar-posts-list/spec.md](specs/004-homologar-posts-list/spec.md)
+**Branch**: `005-fix-post-sobre-details`  
+**Plan**: [specs/005-fix-post-sobre-details/plan.md](specs/005-fix-post-sobre-details/plan.md)  
+**Spec**: [specs/005-fix-post-sobre-details/spec.md](specs/005-fix-post-sobre-details/spec.md)
 <!-- SPECKIT END -->
