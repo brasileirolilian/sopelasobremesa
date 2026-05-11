@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% assign current_cat = page.categories[0] %}
+{% assign related = site.posts | where_exp: "p", "p.categories contains current_cat and p.url != page.url" %}
+{% if related.size == 0 %}
+  {% assign related = site.posts | where_exp: "p", "p.url != page.url" %}
+{% endif %}
+
 <div class="container">
   <article class="post-detail" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
@@ -10,9 +16,10 @@ layout: default
           {{ page.date | date: "%d de %b de %Y" }}
         </time>
         {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author
+        · <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author
             }}</span></span>
         {%- endif -%}
+        · <span class="reading-time">{% include reading-time.html post=page %}</span>
       </p>
 
       {% if page.image %}
@@ -28,6 +35,33 @@ layout: default
     </div>
 
     <hr class="share-divider">
-    {% include share_buttons.html %}
+    <div class="post-footer-bar">
+      {% include share_buttons.html %}
+      {% if page.categories.size > 0 %}
+      <div class="post-footer-categories">
+        <span class="post-footer-categories-label">Categorias:</span>
+        <div class="post-footer-chips">
+          {% for category in page.categories %}
+          <a href="{{ site.baseurl }}/categoria/{{ category | slugify }}/" class="category-chip">{{ category }}</a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </div>
   </article>
 </div>
+
+{% if related.size > 0 %}
+<section class="mosaic-section related-posts full-width-breakout">
+  <div class="container-wide">
+    <div class="mosaic-header">
+      <h2 class="mosaic-title">Artigos Relacionados</h2>
+    </div>
+    <div class="post-grid">
+      {% for post in related limit:3 %}
+      {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
