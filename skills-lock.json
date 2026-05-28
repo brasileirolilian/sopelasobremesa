@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "jekyll": {
+      "source": "aboneto/skills",
+      "sourceType": "github",
+      "skillPath": "skills/jekyll/SKILL.md",
+      "computedHash": "2dc9cad8da730f1040debb0a17a4ef4a528f0b8e44076acd64b2d30c4c026a18"
+    }
+  }
+}
